@@ -1,0 +1,1682 @@
+[
+  {
+    "id": 1,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Padi",
+    "nilai": 1647.05,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 2,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Padi",
+    "nilai": 2389.7,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 3,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Padi",
+    "nilai": 1975.8,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 4,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Padi",
+    "nilai": 2451,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 5,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Padi",
+    "nilai": 2383.85,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 6,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Padi",
+    "nilai": 344.75,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 7,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Padi",
+    "nilai": 6736.43,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 8,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Padi",
+    "nilai": 7169.1,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 9,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Padi",
+    "nilai": 5927.4,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 10,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Padi",
+    "nilai": 8051.54,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 11,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Padi",
+    "nilai": 8343.48,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 12,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Padi",
+    "nilai": 1292.81,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 13,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Jagung",
+    "nilai": 592,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 14,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Jagung",
+    "nilai": 283,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 15,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Jagung",
+    "nilai": 120,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 16,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Jagung",
+    "nilai": 370,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 17,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Jagung",
+    "nilai": 304,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 18,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Jagung",
+    "nilai": 1804,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 19,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Jagung",
+    "nilai": 2202.24,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 20,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Jagung",
+    "nilai": 1415,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 21,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Jagung",
+    "nilai": 456,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 22,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Jagung",
+    "nilai": 1894.4,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 23,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Jagung",
+    "nilai": 1884.8,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 24,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Jagung",
+    "nilai": 10824,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 25,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 26,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 27,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 28,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 29,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 30,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 31,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 32,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 33,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 34,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 35,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 36,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 37,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 38,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 3,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 39,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 40,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 41,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 42,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 5,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 43,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 44,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 1.2,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 45,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 46,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 47,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 48,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 2.55,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 49,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 7,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 50,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 5,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 51,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 2,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 52,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 5,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 53,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 8,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 54,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 80,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 55,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 5.67,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 56,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 6,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 57,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 1.8,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 58,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 6.5,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 59,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 4.8,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 60,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 52.8,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 61,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 22,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 62,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 36,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 63,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 47,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 64,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 28,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 65,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 5,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 66,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 60,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 67,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 165,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 68,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 147.6,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 69,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 282,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 70,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 263.2,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 71,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 19.5,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 72,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 258,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 73,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 74,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 10,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 75,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 76,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 17,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 77,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 3,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 78,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 23,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 79,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 80,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 50,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 81,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 82,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 78.2,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 83,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 12.3,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 84,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 117.3,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 85,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Padi",
+    "nilai": 842.82,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 86,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Padi",
+    "nilai": 1309.85,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 87,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Padi",
+    "nilai": 1121.54,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 88,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Padi",
+    "nilai": 2277.83,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 89,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Padi",
+    "nilai": 2303.67,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 90,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Padi",
+    "nilai": 266.97,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 91,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Padi",
+    "nilai": 3087.83,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 92,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Padi",
+    "nilai": 6158.2,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 93,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Padi",
+    "nilai": 2847.18,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 94,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Padi",
+    "nilai": 8241.2,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 95,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Padi",
+    "nilai": 10650,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 96,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Padi",
+    "nilai": 700.76,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 97,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Jagung",
+    "nilai": 243,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 98,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Jagung",
+    "nilai": 387,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 99,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Jagung",
+    "nilai": 158,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 100,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Jagung",
+    "nilai": 355,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 101,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Jagung",
+    "nilai": 150,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 102,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Jagung",
+    "nilai": 1351,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 103,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Jagung",
+    "nilai": 904.37,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 104,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Jagung",
+    "nilai": 1233.5,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 105,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Jagung",
+    "nilai": 632,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 106,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Jagung",
+    "nilai": 753.95,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 107,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Jagung",
+    "nilai": 755.6,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 108,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Jagung",
+    "nilai": 5399.75,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 109,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 110,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 111,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 112,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 113,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 114,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 115,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 116,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 117,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 118,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 119,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 120,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kedelai",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 121,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 122,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 13,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 123,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 124,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 125,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 126,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 10,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 127,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 128,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 16.1,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 129,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 130,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 131,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 132,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Tanah",
+    "nilai": 10,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 133,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 2,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 134,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 7,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 135,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 136,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 137,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 3,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 138,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 90,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 139,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 1.48,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 140,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 7.7,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 141,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 142,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 143,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 6.3,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 144,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kacang Hijau",
+    "nilai": 99,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 145,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 62,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 146,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 44,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 147,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 93,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 148,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 15,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 149,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 10,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 150,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 10,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 151,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 1038.57,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 152,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 462,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 153,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 2604,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 154,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 126.8,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 155,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 68,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 156,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Kayu",
+    "nilai": 250,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 157,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 3,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 158,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 21,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 159,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 160,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 2,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 161,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 5,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 162,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Panen (ha)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 5,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 163,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 12.3,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 164,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 52.5,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 165,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 166,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 9.2,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 167,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 28,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 168,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Ubi Jalar",
+    "nilai": 50,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  }
+]
