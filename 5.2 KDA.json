@@ -1,0 +1,962 @@
+[
+  {
+    "id": 1,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kelapa Sawit",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 2,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kelapa",
+    "nilai": 852,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 3,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Karet",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 4,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kopi",
+    "nilai": 122,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 5,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kakao",
+    "nilai": 117,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 6,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Tebu",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 7,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Teh",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 8,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Tembakau",
+    "nilai": 15,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 9,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kelapa Sawit",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 10,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kelapa",
+    "nilai": 3877,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 11,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Karet",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 12,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kopi",
+    "nilai": 524,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 13,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kakao",
+    "nilai": 15,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 14,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Tebu",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 15,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Teh",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 16,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Tembakau",
+    "nilai": 10,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 17,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kelapa Sawit",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 18,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kelapa",
+    "nilai": 720,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 19,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Karet",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 20,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kopi",
+    "nilai": 200,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 21,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kakao",
+    "nilai": 377,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 22,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Tebu",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 23,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Teh",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 24,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Tembakau",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 25,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kelapa Sawit",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 26,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kelapa",
+    "nilai": 286,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 27,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Karet",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 28,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kopi",
+    "nilai": 41.5,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 29,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kakao",
+    "nilai": 7,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 30,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Tebu",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 31,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Teh",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 32,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Tembakau",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 33,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kelapa Sawit",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 34,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kelapa",
+    "nilai": 398,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 35,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Karet",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 36,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kopi",
+    "nilai": 141.5,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 37,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kakao",
+    "nilai": 43,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 38,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Tebu",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 39,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Teh",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 40,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Tembakau",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 41,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kelapa Sawit",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 42,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kelapa",
+    "nilai": 1870,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 43,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Karet",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 44,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kopi",
+    "nilai": 896,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 45,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Kakao",
+    "nilai": 41,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 46,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Tebu",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 47,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Teh",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 48,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Luas Areal (ha)",
+    "jenis tanaman": "Tembakau",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 49,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kelapa Sawit",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 50,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kelapa",
+    "nilai": 92,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 51,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Karet",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 52,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kopi",
+    "nilai": 21,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 53,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kakao",
+    "nilai": 25,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 54,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Tebu",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 55,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Teh",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 56,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Tembakau",
+    "nilai": 21.5,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 57,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kelapa Sawit",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 58,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kelapa",
+    "nilai": 732,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 59,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Karet",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 60,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kopi",
+    "nilai": 11,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 61,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kakao",
+    "nilai": 3,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 62,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Tebu",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 63,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Teh",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 64,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Tembakau",
+    "nilai": 1.15,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 65,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kelapa Sawit",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 66,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kelapa",
+    "nilai": 71,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 67,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Karet",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 68,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kopi",
+    "nilai": 94,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 69,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kakao",
+    "nilai": 12,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 70,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Tebu",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 71,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Teh",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 72,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Tembakau",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 73,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kelapa Sawit",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 74,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kelapa",
+    "nilai": 16,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 75,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Karet",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 76,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kopi",
+    "nilai": 12,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 77,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kakao",
+    "nilai": 2,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 78,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Tebu",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 79,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Teh",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 80,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Tembakau",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 81,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kelapa Sawit",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 82,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kelapa",
+    "nilai": 44,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 83,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Karet",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 84,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kopi",
+    "nilai": 22,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 85,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kakao",
+    "nilai": 6,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 86,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Tebu",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 87,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Teh",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 88,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Tembakau",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 89,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kelapa Sawit",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 90,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kelapa",
+    "nilai": 202,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 91,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Karet",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 92,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kopi",
+    "nilai": 161,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 93,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Kakao",
+    "nilai": 8.6,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 94,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Tebu",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 95,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Teh",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 96,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Produksi (ton)",
+    "jenis tanaman": "Tembakau",
+    "nilai": 0,
+    "sumber": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Sumba Barat"
+  }
+]
