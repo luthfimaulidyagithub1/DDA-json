@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "tahun": 2022,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -10,6 +11,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 2,
     "tahun": 2022,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -20,6 +22,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 3,
     "tahun": 2022,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -30,6 +33,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 4,
     "tahun": 2022,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -40,6 +44,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 5,
     "tahun": 2022,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -50,6 +55,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 6,
     "tahun": 2022,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -60,6 +66,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 7,
     "tahun": 2022,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -70,6 +77,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 8,
     "tahun": 2022,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -80,6 +88,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 9,
     "tahun": 2022,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -90,6 +99,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 10,
     "tahun": 2022,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -100,6 +110,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 11,
     "tahun": 2022,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -110,6 +121,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 12,
     "tahun": 2022,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -120,6 +132,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 13,
     "tahun": 2022,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -130,6 +143,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 14,
     "tahun": 2022,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -140,6 +154,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 15,
     "tahun": 2022,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -150,6 +165,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 16,
     "tahun": 2022,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -160,6 +176,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 17,
     "tahun": 2022,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -170,6 +187,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 18,
     "tahun": 2022,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -180,6 +198,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 19,
     "tahun": 2022,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -190,6 +209,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 20,
     "tahun": 2022,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -200,6 +220,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 21,
     "tahun": 2022,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -210,6 +231,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 22,
     "tahun": 2022,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -220,6 +242,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 23,
     "tahun": 2022,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -230,6 +253,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 24,
     "tahun": 2022,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -240,6 +264,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 25,
     "tahun": 2022,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -250,6 +275,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 26,
     "tahun": 2022,
     "no kec": 3,
     "kecamatan": "Laboya Barat",
@@ -260,6 +286,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 27,
     "tahun": 2022,
     "no kec": 3,
     "kecamatan": "Laboya Barat",
@@ -270,6 +297,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 28,
     "tahun": 2022,
     "no kec": 3,
     "kecamatan": "Laboya Barat",
@@ -280,6 +308,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 29,
     "tahun": 2022,
     "no kec": 3,
     "kecamatan": "Laboya Barat",
@@ -290,6 +319,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 30,
     "tahun": 2022,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -300,6 +330,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 31,
     "tahun": 2022,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -310,6 +341,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 32,
     "tahun": 2022,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -320,6 +352,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 33,
     "tahun": 2022,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -330,6 +363,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 34,
     "tahun": 2022,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -340,6 +374,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 35,
     "tahun": 2022,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -350,6 +385,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 36,
     "tahun": 2022,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -360,6 +396,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 37,
     "tahun": 2022,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -370,6 +407,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 38,
     "tahun": 2022,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -380,6 +418,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 39,
     "tahun": 2022,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -390,6 +429,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 40,
     "tahun": 2022,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -400,6 +440,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 41,
     "tahun": 2022,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -410,6 +451,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 42,
     "tahun": 2022,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -420,6 +462,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 43,
     "tahun": 2022,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -430,6 +473,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 44,
     "tahun": 2022,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -440,6 +484,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 45,
     "tahun": 2022,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -450,6 +495,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 46,
     "tahun": 2022,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -460,6 +506,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 47,
     "tahun": 2022,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -470,6 +517,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 48,
     "tahun": 2022,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -480,6 +528,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 49,
     "tahun": 2022,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -490,6 +539,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 50,
     "tahun": 2022,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -500,6 +550,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 51,
     "tahun": 2022,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -510,6 +561,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 52,
     "tahun": 2022,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -520,6 +572,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 53,
     "tahun": 2022,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -530,6 +583,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 54,
     "tahun": 2022,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -540,6 +594,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 55,
     "tahun": 2022,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -550,6 +605,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 56,
     "tahun": 2022,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -560,6 +616,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 57,
     "tahun": 2022,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -570,6 +627,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 58,
     "tahun": 2022,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -580,6 +638,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 59,
     "tahun": 2022,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -590,6 +649,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 60,
     "tahun": 2022,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -600,6 +660,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 61,
     "tahun": 2022,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -610,6 +671,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 62,
     "tahun": 2022,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -620,6 +682,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 63,
     "tahun": 2022,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -630,6 +693,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 64,
     "tahun": 2022,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -640,6 +704,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 65,
     "tahun": 2022,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -650,6 +715,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 66,
     "tahun": 2022,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -660,6 +726,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 67,
     "tahun": 2022,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -670,6 +737,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 68,
     "tahun": 2022,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -680,6 +748,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 69,
     "tahun": 2022,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -690,6 +759,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 70,
     "tahun": 2022,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -700,6 +770,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 71,
     "tahun": 2022,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -710,6 +781,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 72,
     "tahun": 2022,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -720,6 +792,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 73,
     "tahun": 2022,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -730,6 +803,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 74,
     "tahun": 2022,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -740,6 +814,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 75,
     "tahun": 2023,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -750,6 +825,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 76,
     "tahun": 2023,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -760,6 +836,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 77,
     "tahun": 2023,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -770,6 +847,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 78,
     "tahun": 2023,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -780,6 +858,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 79,
     "tahun": 2023,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -790,6 +869,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 80,
     "tahun": 2023,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -800,6 +880,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 81,
     "tahun": 2023,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -810,6 +891,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 82,
     "tahun": 2023,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -820,6 +902,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 83,
     "tahun": 2023,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -830,6 +913,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 84,
     "tahun": 2023,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -840,6 +924,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 85,
     "tahun": 2023,
     "no kec": 1,
     "kecamatan": "Lamboya",
@@ -850,6 +935,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 86,
     "tahun": 2023,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -860,6 +946,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 87,
     "tahun": 2023,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -870,6 +957,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 88,
     "tahun": 2023,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -880,6 +968,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 89,
     "tahun": 2023,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -890,6 +979,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 90,
     "tahun": 2023,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -900,6 +990,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 91,
     "tahun": 2023,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -910,6 +1001,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 92,
     "tahun": 2023,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -920,6 +1012,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 93,
     "tahun": 2023,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -930,6 +1023,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 94,
     "tahun": 2023,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -940,6 +1034,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 95,
     "tahun": 2023,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -950,6 +1045,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 96,
     "tahun": 2023,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -960,6 +1056,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 97,
     "tahun": 2023,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -970,6 +1067,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 98,
     "tahun": 2023,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -980,6 +1078,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 99,
     "tahun": 2023,
     "no kec": 2,
     "kecamatan": "Wanokaka",
@@ -990,6 +1089,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 100,
     "tahun": 2023,
     "no kec": 3,
     "kecamatan": "Laboya Barat",
@@ -1000,6 +1100,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 101,
     "tahun": 2023,
     "no kec": 3,
     "kecamatan": "Laboya Barat",
@@ -1010,6 +1111,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 102,
     "tahun": 2023,
     "no kec": 3,
     "kecamatan": "Laboya Barat",
@@ -1020,6 +1122,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 103,
     "tahun": 2023,
     "no kec": 3,
     "kecamatan": "Laboya Barat",
@@ -1030,6 +1133,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 104,
     "tahun": 2023,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -1040,6 +1144,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 105,
     "tahun": 2023,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -1050,6 +1155,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 106,
     "tahun": 2023,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -1060,6 +1166,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 107,
     "tahun": 2023,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -1070,6 +1177,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 108,
     "tahun": 2023,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -1080,6 +1188,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 109,
     "tahun": 2023,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -1090,6 +1199,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 110,
     "tahun": 2023,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -1100,6 +1210,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 111,
     "tahun": 2023,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -1110,6 +1221,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 112,
     "tahun": 2023,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -1120,6 +1232,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 113,
     "tahun": 2023,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -1130,6 +1243,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 114,
     "tahun": 2023,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -1140,6 +1254,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 115,
     "tahun": 2023,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -1150,6 +1265,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 116,
     "tahun": 2023,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -1160,6 +1276,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 117,
     "tahun": 2023,
     "no kec": 4,
     "kecamatan": "Loli",
@@ -1170,6 +1287,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 118,
     "tahun": 2023,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -1180,6 +1298,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 119,
     "tahun": 2023,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -1190,6 +1309,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 120,
     "tahun": 2023,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -1200,6 +1320,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 121,
     "tahun": 2023,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -1210,6 +1331,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 122,
     "tahun": 2023,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -1220,6 +1342,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 123,
     "tahun": 2023,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -1230,6 +1353,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 124,
     "tahun": 2023,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -1240,6 +1364,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 125,
     "tahun": 2023,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -1250,6 +1375,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 126,
     "tahun": 2023,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -1260,6 +1386,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 127,
     "tahun": 2023,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -1270,6 +1397,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 128,
     "tahun": 2023,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -1280,6 +1408,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 129,
     "tahun": 2023,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -1290,6 +1419,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 130,
     "tahun": 2023,
     "no kec": 5,
     "kecamatan": "Kota Waikabubak",
@@ -1300,6 +1430,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 131,
     "tahun": 2023,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -1310,6 +1441,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 132,
     "tahun": 2023,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -1320,6 +1452,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 133,
     "tahun": 2023,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -1330,6 +1463,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 134,
     "tahun": 2023,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -1340,6 +1474,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 135,
     "tahun": 2023,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -1350,6 +1485,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 136,
     "tahun": 2023,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -1360,6 +1496,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 137,
     "tahun": 2023,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -1370,6 +1507,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 138,
     "tahun": 2023,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -1380,6 +1518,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 139,
     "tahun": 2023,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -1390,6 +1529,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 140,
     "tahun": 2023,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -1400,6 +1540,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 141,
     "tahun": 2023,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -1410,6 +1551,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 142,
     "tahun": 2023,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -1420,6 +1562,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 143,
     "tahun": 2023,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -1430,6 +1573,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 144,
     "tahun": 2023,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -1440,6 +1584,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 145,
     "tahun": 2023,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -1450,6 +1595,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 146,
     "tahun": 2023,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -1460,6 +1606,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 147,
     "tahun": 2023,
     "no kec": 6,
     "kecamatan": "Tana Righu",
@@ -1470,6 +1617,7 @@
     "sumber": "Pendataan Potensi Desa (Podes) 2021"
   },
   {
+    "id": 148,
     "tahun": 2023,
     "no kec": 6,
     "kecamatan": "Tana Righu",
