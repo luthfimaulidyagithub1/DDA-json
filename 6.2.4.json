@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kondisi jalan": "Baik",
+    "panjang (km)": 12.64,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 2,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kondisi jalan": "Baik",
+    "panjang (km)": 16.52,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 3,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kondisi jalan": "Baik",
+    "panjang (km)": 1.4,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 4,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kondisi jalan": "Baik",
+    "panjang (km)": 32.54,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 5,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kondisi jalan": "Baik",
+    "panjang (km)": 41.24,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 6,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kondisi jalan": "Baik",
+    "panjang (km)": 20.03,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 7,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kondisi jalan": "Sedang",
+    "panjang (km)": 8.67,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 8,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kondisi jalan": "Sedang",
+    "panjang (km)": 30.1,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 9,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kondisi jalan": "Sedang",
+    "panjang (km)": 2.9,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 10,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kondisi jalan": "Sedang",
+    "panjang (km)": 8.94,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 11,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kondisi jalan": "Sedang",
+    "panjang (km)": 10.55,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 12,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kondisi jalan": "Sedang",
+    "panjang (km)": 35.11,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 13,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kondisi jalan": "Rusak",
+    "panjang (km)": 4.8,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 14,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kondisi jalan": "Rusak",
+    "panjang (km)": 11,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 15,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kondisi jalan": "Rusak",
+    "panjang (km)": 9.46,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 16,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kondisi jalan": "Rusak",
+    "panjang (km)": 11.8,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 17,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kondisi jalan": "Rusak",
+    "panjang (km)": 7,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 18,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kondisi jalan": "Rusak",
+    "panjang (km)": 7.06,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 19,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kondisi jalan": "Rusak Berat",
+    "panjang (km)": 43.99,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 20,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kondisi jalan": "Rusak Berat",
+    "panjang (km)": 70.7,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 21,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kondisi jalan": "Rusak Berat",
+    "panjang (km)": 50.78,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 22,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kondisi jalan": "Rusak Berat",
+    "panjang (km)": 78.57,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 23,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kondisi jalan": "Rusak Berat",
+    "panjang (km)": 75.22,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  },
+  {
+    "id": 24,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kondisi jalan": "Rusak Berat",
+    "panjang (km)": 45.21,
+    "sumber": "Dinas PUPR Kabupaten Sumba Barat"
+  }
+]
