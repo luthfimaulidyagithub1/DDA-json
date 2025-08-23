@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tempat ibadah": "Masjid",
+    "jumlah": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 2,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tempat ibadah": "Mushola",
+    "jumlah": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 3,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tempat ibadah": "Gereja Protestan",
+    "jumlah": 16,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 4,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tempat ibadah": "Gereja Katholik",
+    "jumlah": 3,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 5,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tempat ibadah": "Pura",
+    "jumlah": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 6,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tempat ibadah": "Vihara",
+    "jumlah": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 7,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tempat ibadah": "Masjid",
+    "jumlah": 1,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 8,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tempat ibadah": "Mushola",
+    "jumlah": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 9,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tempat ibadah": "Gereja Protestan",
+    "jumlah": 17,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 10,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tempat ibadah": "Gereja Katholik",
+    "jumlah": 7,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 11,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tempat ibadah": "Pura",
+    "jumlah": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 12,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tempat ibadah": "Vihara",
+    "jumlah": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 13,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tempat ibadah": "Masjid",
+    "jumlah": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 14,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tempat ibadah": "Mushola",
+    "jumlah": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 15,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tempat ibadah": "Gereja Protestan",
+    "jumlah": 12,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 16,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tempat ibadah": "Gereja Katholik",
+    "jumlah": 4,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 17,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tempat ibadah": "Pura",
+    "jumlah": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 18,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tempat ibadah": "Vihara",
+    "jumlah": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 19,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tempat ibadah": "Masjid",
+    "jumlah": 1,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 20,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tempat ibadah": "Mushola",
+    "jumlah": 2,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 21,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tempat ibadah": "Gereja Protestan",
+    "jumlah": 19,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 22,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tempat ibadah": "Gereja Katholik",
+    "jumlah": 17,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 23,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tempat ibadah": "Pura",
+    "jumlah": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 24,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tempat ibadah": "Vihara",
+    "jumlah": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 25,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "tempat ibadah": "Masjid",
+    "jumlah": 4,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 26,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "tempat ibadah": "Mushola",
+    "jumlah": 5,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 27,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "tempat ibadah": "Gereja Protestan",
+    "jumlah": 27,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 28,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "tempat ibadah": "Gereja Katholik",
+    "jumlah": 4,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 29,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "tempat ibadah": "Pura",
+    "jumlah": 1,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 30,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "tempat ibadah": "Vihara",
+    "jumlah": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 31,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tempat ibadah": "Masjid",
+    "jumlah": 1,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 32,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tempat ibadah": "Mushola",
+    "jumlah": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 33,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tempat ibadah": "Gereja Protestan",
+    "jumlah": 33,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 34,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tempat ibadah": "Gereja Katholik",
+    "jumlah": 15,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 35,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tempat ibadah": "Pura",
+    "jumlah": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 36,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tempat ibadah": "Vihara",
+    "jumlah": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  }
+]
