@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "pedagang besar": 3,
+    "pedagang menengah": 12,
+    "pedagang kecil": 198,
+    "jumlah pedagang": 213,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 2,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "pedagang besar": 2,
+    "pedagang menengah": 5,
+    "pedagang kecil": 79,
+    "jumlah pedagang": 86,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 3,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "pedagang besar": 3,
+    "pedagang menengah": 9,
+    "pedagang kecil": 50,
+    "jumlah pedagang": 62,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 4,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "pedagang besar": 2,
+    "pedagang menengah": 43,
+    "pedagang kecil": 199,
+    "jumlah pedagang": 244,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 5,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "pedagang besar": 27,
+    "pedagang menengah": 83,
+    "pedagang kecil": 357,
+    "jumlah pedagang": 467,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 6,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "pedagang besar": 6,
+    "pedagang menengah": 12,
+    "pedagang kecil": 110,
+    "jumlah pedagang": 128,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 7,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "pedagang besar": 3,
+    "pedagang menengah": 12,
+    "pedagang kecil": 198,
+    "jumlah pedagang": 213,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 8,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "pedagang besar": 2,
+    "pedagang menengah": 5,
+    "pedagang kecil": 79,
+    "jumlah pedagang": 86,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 9,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "pedagang besar": 3,
+    "pedagang menengah": 9,
+    "pedagang kecil": 50,
+    "jumlah pedagang": 62,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 10,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "pedagang besar": 2,
+    "pedagang menengah": 43,
+    "pedagang kecil": 199,
+    "jumlah pedagang": 244,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 11,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "pedagang besar": 27,
+    "pedagang menengah": 83,
+    "pedagang kecil": 357,
+    "jumlah pedagang": 467,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 12,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "pedagang besar": 6,
+    "pedagang menengah": 12,
+    "pedagang kecil": 110,
+    "jumlah pedagang": 128,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  }
+]
