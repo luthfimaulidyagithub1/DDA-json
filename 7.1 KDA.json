@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "tahun": 2021,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jumlah rumah makan/restoran": 14,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 2,
+    "tahun": 2021,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jumlah rumah makan/restoran": 5,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 3,
+    "tahun": 2021,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jumlah rumah makan/restoran": 5,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 4,
+    "tahun": 2021,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jumlah rumah makan/restoran": 9,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 5,
+    "tahun": 2021,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jumlah rumah makan/restoran": 0,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 6,
+    "tahun": 2021,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jumlah rumah makan/restoran": 6,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 7,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jumlah rumah makan/restoran": 14,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 8,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jumlah rumah makan/restoran": 6,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 9,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jumlah rumah makan/restoran": 6,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 10,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jumlah rumah makan/restoran": 10,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 11,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jumlah rumah makan/restoran": 0,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 12,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jumlah rumah makan/restoran": 6,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 13,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jumlah rumah makan/restoran": 25,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 14,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jumlah rumah makan/restoran": 10,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 15,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jumlah rumah makan/restoran": 9,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 16,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jumlah rumah makan/restoran": 11,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 17,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jumlah rumah makan/restoran": 0,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 18,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jumlah rumah makan/restoran": 7,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 19,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jumlah rumah makan/restoran": 4,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 20,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jumlah rumah makan/restoran": 3,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 21,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jumlah rumah makan/restoran": 1,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 22,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jumlah rumah makan/restoran": 42,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 23,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jumlah rumah makan/restoran": 121,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 24,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jumlah rumah makan/restoran": 0,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  }
+]
