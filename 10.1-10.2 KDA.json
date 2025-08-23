@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "kategori": "Makanan",
+    "kelompok komoditas": "Padi-padian",
+    "rata-rata pengeluaran 2023 (rupiah)": 125828,
+    "persentase 2023": 13.720294757135038,
+    "rata-rata pengeluaran 2024 (rupiah)": 131128,
+    "persentase 2024": 15.715187984702835,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 2,
+    "kategori": "Makanan",
+    "kelompok komoditas": "Umbi-umbian",
+    "rata-rata pengeluaran 2023 (rupiah)": 7038,
+    "persentase 2023": 0.7674240590386591,
+    "rata-rata pengeluaran 2024 (rupiah)": 2523,
+    "persentase 2024": 0.3023718754606587,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 3,
+    "kategori": "Makanan",
+    "kelompok komoditas": "Ikan/udang/cumi/kerang",
+    "rata-rata pengeluaran 2023 (rupiah)": 33748,
+    "persentase 2023": 3.6798845047508766,
+    "rata-rata pengeluaran 2024 (rupiah)": 34752,
+    "persentase 2024": 4.164893942135874,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 4,
+    "kategori": "Makanan",
+    "kelompok komoditas": "Daging",
+    "rata-rata pengeluaran 2023 (rupiah)": 53397,
+    "persentase 2023": 5.82241296966287,
+    "rata-rata pengeluaran 2024 (rupiah)": 52527,
+    "persentase 2024": 6.2951595332231545,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 5,
+    "kategori": "Makanan",
+    "kelompok komoditas": "Telur dan susu",
+    "rata-rata pengeluaran 2023 (rupiah)": 17811,
+    "persentase 2023": 1.9421128041400337,
+    "rata-rata pengeluaran 2024 (rupiah)": 14934,
+    "persentase 2024": 1.7897826350097017,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 6,
+    "kategori": "Makanan",
+    "kelompok komoditas": "Sayur-sayuran",
+    "rata-rata pengeluaran 2023 (rupiah)": 51254,
+    "persentase 2023": 5.588740085531036,
+    "rata-rata pengeluaran 2024 (rupiah)": 42671,
+    "persentase 2024": 5.113955726429555,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 7,
+    "kategori": "Makanan",
+    "kelompok komoditas": "Kacang-kacangan",
+    "rata-rata pengeluaran 2023 (rupiah)": 6514,
+    "persentase 2023": 0.7102870589056302,
+    "rata-rata pengeluaran 2024 (rupiah)": 5867,
+    "persentase 2024": 0.70313745276563,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 8,
+    "kategori": "Makanan",
+    "kelompok komoditas": "Buah-buahan",
+    "rata-rata pengeluaran 2023 (rupiah)": 19693,
+    "persentase 2023": 2.1473262282819428,
+    "rata-rata pengeluaran 2024 (rupiah)": 11648,
+    "persentase 2024": 1.395968135301527,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 9,
+    "kategori": "Makanan",
+    "kelompok komoditas": "Minyak dan kelapa",
+    "rata-rata pengeluaran 2023 (rupiah)": 13026,
+    "persentase 2023": 1.4203560376580808,
+    "rata-rata pengeluaran 2024 (rupiah)": 11760,
+    "persentase 2024": 1.4093909058332723,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 10,
+    "kategori": "Makanan",
+    "kelompok komoditas": "Bahan minuman",
+    "rata-rata pengeluaran 2023 (rupiah)": 24545,
+    "persentase 2023": 2.6763886798954086,
+    "rata-rata pengeluaran 2024 (rupiah)": 24629,
+    "persentase 2024": 2.951691209163917,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 11,
+    "kategori": "Makanan",
+    "kelompok komoditas": "Bumbu-bumbuan",
+    "rata-rata pengeluaran 2023 (rupiah)": 9196,
+    "persentase 2023": 1.0027325443193391,
+    "rata-rata pengeluaran 2024 (rupiah)": 7890,
+    "persentase 2024": 0.9455862454952823,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 12,
+    "kategori": "Makanan",
+    "kelompok komoditas": "Konsumsi lainnya",
+    "rata-rata pengeluaran 2023 (rupiah)": 6967,
+    "persentase 2023": 0.7596822136007869,
+    "rata-rata pengeluaran 2024 (rupiah)": 5062,
+    "persentase 2024": 0.6066612895687097,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 13,
+    "kategori": "Makanan",
+    "kelompok komoditas": "Makanan dan minuman jadi",
+    "rata-rata pengeluaran 2023 (rupiah)": 79793,
+    "persentase 2023": 8.700634831325905,
+    "rata-rata pengeluaran 2024 (rupiah)": 71039,
+    "persentase 2024": 8.51375174825594,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 14,
+    "kategori": "Makanan",
+    "kelompok komoditas": "Rokok",
+    "rata-rata pengeluaran 2023 (rupiah)": 50834,
+    "persentase 2023": 5.542943253363341,
+    "rata-rata pengeluaran 2024 (rupiah)": 53254,
+    "persentase 2024": 6.382287695514038,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 15,
+    "kategori": "Bukan makanan",
+    "kelompok komoditas": "Perumahan dan fasilitas rumah tangga",
+    "rata-rata pengeluaran 2023 (rupiah)": 232669,
+    "persentase 2023": 25.370245580060498,
+    "rata-rata pengeluaran 2024 (rupiah)": 213426,
+    "persentase 2024": 25.57828770989558,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 16,
+    "kategori": "Bukan makanan",
+    "kelompok komoditas": "Aneka barang dan jasa",
+    "rata-rata pengeluaran 2023 (rupiah)": 89475,
+    "persentase 2023": 9.756360852867862,
+    "rata-rata pengeluaran 2024 (rupiah)": 71690,
+    "persentase 2024": 8.59177160197171,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 17,
+    "kategori": "Bukan makanan",
+    "kelompok komoditas": "Pakaian alas kaki dan tutup kepala",
+    "rata-rata pengeluaran 2023 (rupiah)": 18367,
+    "persentase 2023": 2.0027390867239347,
+    "rata-rata pengeluaran 2024 (rupiah)": 15983,
+    "persentase 2024": 1.915501262579353,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 18,
+    "kategori": "Bukan makanan",
+    "kelompok komoditas": "Barang tahan lama",
+    "rata-rata pengeluaran 2023 (rupiah)": 14654,
+    "persentase 2023": 1.5978732823461936,
+    "rata-rata pengeluaran 2024 (rupiah)": 13308,
+    "persentase 2024": 1.5949127699684686,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 19,
+    "kategori": "Bukan makanan",
+    "kelompok komoditas": "Pajak pungutan dan asuransi",
+    "rata-rata pengeluaran 2023 (rupiah)": 55481,
+    "persentase 2023": 6.049652489275909,
+    "rata-rata pengeluaran 2024 (rupiah)": 48929,
+    "persentase 2024": 5.8639530298908324,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 20,
+    "kategori": "Bukan makanan",
+    "kelompok komoditas": "Keperluan pesta dan upacara",
+    "rata-rata pengeluaran 2023 (rupiah)": 6804,
+    "persentase 2023": 0.7419086811166575,
+    "rata-rata pengeluaran 2024 (rupiah)": 1383,
+    "persentase 2024": 0.16574724683396394,
+    "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  }
+]
