@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "subsektor": "Perikanan Tangkap di Laut",
+    "jumlah ruta": 450,
+    "produksi (ton)": 399,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 2,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "subsektor": "Perikanan Tangkap di Laut",
+    "jumlah ruta": 1170,
+    "produksi (ton)": 1491,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 3,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "subsektor": "Perikanan Tangkap di Laut",
+    "jumlah ruta": 180,
+    "produksi (ton)": 749,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 4,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "subsektor": "Perikanan Tangkap di Laut",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 5,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "subsektor": "Perikanan Tangkap di Laut",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 6,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "subsektor": "Perikanan Tangkap di Laut",
+    "jumlah ruta": 219,
+    "produksi (ton)": 15,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 7,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "subsektor": "Perikanan Perairan Umum Daratan",
+    "jumlah ruta": 22,
+    "produksi (ton)": 0.8,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 8,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "subsektor": "Perikanan Perairan Umum Daratan",
+    "jumlah ruta": 76,
+    "produksi (ton)": 7.63,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 9,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "subsektor": "Perikanan Perairan Umum Daratan",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 10,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "subsektor": "Perikanan Perairan Umum Daratan",
+    "jumlah ruta": 177,
+    "produksi (ton)": 5.63,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 11,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "subsektor": "Perikanan Perairan Umum Daratan",
+    "jumlah ruta": 96,
+    "produksi (ton)": 8.08,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 12,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "subsektor": "Perikanan Perairan Umum Daratan",
+    "jumlah ruta": 11,
+    "produksi (ton)": 0.27,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 13,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "subsektor": "Perikanan Tangkap di Laut",
+    "jumlah ruta": 450,
+    "produksi (ton)": 688.18,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 14,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "subsektor": "Perikanan Tangkap di Laut",
+    "jumlah ruta": 1170,
+    "produksi (ton)": 1789.15,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 15,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "subsektor": "Perikanan Tangkap di Laut",
+    "jumlah ruta": 180,
+    "produksi (ton)": 275.4,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 16,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "subsektor": "Perikanan Tangkap di Laut",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 17,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "subsektor": "Perikanan Tangkap di Laut",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 18,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "subsektor": "Perikanan Tangkap di Laut",
+    "jumlah ruta": 219,
+    "produksi (ton)": 334.67,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 19,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "subsektor": "Perikanan Perairan Umum Daratan",
+    "jumlah ruta": 22,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 20,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "subsektor": "Perikanan Perairan Umum Daratan",
+    "jumlah ruta": 76,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 21,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "subsektor": "Perikanan Perairan Umum Daratan",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 22,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "subsektor": "Perikanan Perairan Umum Daratan",
+    "jumlah ruta": 177,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 23,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "subsektor": "Perikanan Perairan Umum Daratan",
+    "jumlah ruta": 96,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 24,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "subsektor": "Perikanan Perairan Umum Daratan",
+    "jumlah ruta": 11,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  }
+]
