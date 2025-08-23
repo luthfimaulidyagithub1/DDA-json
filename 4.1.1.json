@@ -1,0 +1,866 @@
+[
+  {
+    "id": 1,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas sekolah": "SD",
+    "jumlah desa": 13,
+    "sumber": "Podes"
+  },
+  {
+    "id": 2,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas sekolah": "MI",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 3,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas sekolah": "SMP",
+    "jumlah desa": 7,
+    "sumber": "Podes"
+  },
+  {
+    "id": 4,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas sekolah": "MTs",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 5,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas sekolah": "SMA",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 6,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas sekolah": "SMK",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 7,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas sekolah": "MA",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 8,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas sekolah": "Perguruan Tinggi",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 9,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "fasilitas sekolah": "SD",
+    "jumlah desa": 17,
+    "sumber": "Podes"
+  },
+  {
+    "id": 10,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "fasilitas sekolah": "MI",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 11,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "fasilitas sekolah": "SMP",
+    "jumlah desa": 6,
+    "sumber": "Podes"
+  },
+  {
+    "id": 12,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "fasilitas sekolah": "MTs",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 13,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "fasilitas sekolah": "SMA",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 14,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "fasilitas sekolah": "SMK",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 15,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "fasilitas sekolah": "MA",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 16,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "fasilitas sekolah": "Perguruan Tinggi",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 17,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "fasilitas sekolah": "SD",
+    "jumlah desa": 6,
+    "sumber": "Podes"
+  },
+  {
+    "id": 18,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "fasilitas sekolah": "MI",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 19,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "fasilitas sekolah": "SMP",
+    "jumlah desa": 2,
+    "sumber": "Podes"
+  },
+  {
+    "id": 20,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "fasilitas sekolah": "MTs",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 21,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "fasilitas sekolah": "SMA",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 22,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "fasilitas sekolah": "SMK",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 23,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "fasilitas sekolah": "MA",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 24,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "fasilitas sekolah": "Perguruan Tinggi",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 25,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "fasilitas sekolah": "SD",
+    "jumlah desa": 22,
+    "sumber": "Podes"
+  },
+  {
+    "id": 26,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "fasilitas sekolah": "MI",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 27,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "fasilitas sekolah": "SMP",
+    "jumlah desa": 13,
+    "sumber": "Podes"
+  },
+  {
+    "id": 28,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "fasilitas sekolah": "MTs",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 29,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "fasilitas sekolah": "SMA",
+    "jumlah desa": 2,
+    "sumber": "Podes"
+  },
+  {
+    "id": 30,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "fasilitas sekolah": "SMK",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 31,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "fasilitas sekolah": "MA",
+    "jumlah desa": 2,
+    "sumber": "Podes"
+  },
+  {
+    "id": 32,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "fasilitas sekolah": "Perguruan Tinggi",
+    "jumlah desa": 2,
+    "sumber": "Podes"
+  },
+  {
+    "id": 33,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "fasilitas sekolah": "SD",
+    "jumlah desa": 15,
+    "sumber": "Podes"
+  },
+  {
+    "id": 34,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "fasilitas sekolah": "MI",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 35,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "fasilitas sekolah": "SMP",
+    "jumlah desa": 7,
+    "sumber": "Podes"
+  },
+  {
+    "id": 36,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "fasilitas sekolah": "MTs",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 37,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "fasilitas sekolah": "SMA",
+    "jumlah desa": 3,
+    "sumber": "Podes"
+  },
+  {
+    "id": 38,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "fasilitas sekolah": "SMK",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 39,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "fasilitas sekolah": "MA",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 40,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "fasilitas sekolah": "Perguruan Tinggi",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 41,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "fasilitas sekolah": "SD",
+    "jumlah desa": 23,
+    "sumber": "Podes"
+  },
+  {
+    "id": 42,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "fasilitas sekolah": "MI",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 43,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "fasilitas sekolah": "SMP",
+    "jumlah desa": 8,
+    "sumber": "Podes"
+  },
+  {
+    "id": 44,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "fasilitas sekolah": "MTs",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 45,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "fasilitas sekolah": "SMA",
+    "jumlah desa": 4,
+    "sumber": "Podes"
+  },
+  {
+    "id": 46,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "fasilitas sekolah": "SMK",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 47,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "fasilitas sekolah": "MA",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 48,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "fasilitas sekolah": "Perguruan Tinggi",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 49,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas sekolah": "SD",
+    "jumlah desa": 13,
+    "sumber": "Podes"
+  },
+  {
+    "id": 50,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas sekolah": "MI",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 51,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas sekolah": "SMP",
+    "jumlah desa": 7,
+    "sumber": "Podes"
+  },
+  {
+    "id": 52,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas sekolah": "MTs",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 53,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas sekolah": "SMA",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 54,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas sekolah": "SMK",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 55,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas sekolah": "MA",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 56,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas sekolah": "Perguruan Tinggi",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 57,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "fasilitas sekolah": "SD",
+    "jumlah desa": 17,
+    "sumber": "Podes"
+  },
+  {
+    "id": 58,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "fasilitas sekolah": "MI",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 59,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "fasilitas sekolah": "SMP",
+    "jumlah desa": 6,
+    "sumber": "Podes"
+  },
+  {
+    "id": 60,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "fasilitas sekolah": "MTs",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 61,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "fasilitas sekolah": "SMA",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 62,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "fasilitas sekolah": "SMK",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 63,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "fasilitas sekolah": "MA",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 64,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "fasilitas sekolah": "Perguruan Tinggi",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 65,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "fasilitas sekolah": "SD",
+    "jumlah desa": 6,
+    "sumber": "Podes"
+  },
+  {
+    "id": 66,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "fasilitas sekolah": "MI",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 67,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "fasilitas sekolah": "SMP",
+    "jumlah desa": 2,
+    "sumber": "Podes"
+  },
+  {
+    "id": 68,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "fasilitas sekolah": "MTs",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 69,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "fasilitas sekolah": "SMA",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 70,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "fasilitas sekolah": "SMK",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 71,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "fasilitas sekolah": "MA",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 72,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "fasilitas sekolah": "Perguruan Tinggi",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 73,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "fasilitas sekolah": "SD",
+    "jumlah desa": 22,
+    "sumber": "Podes"
+  },
+  {
+    "id": 74,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "fasilitas sekolah": "MI",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 75,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "fasilitas sekolah": "SMP",
+    "jumlah desa": 13,
+    "sumber": "Podes"
+  },
+  {
+    "id": 76,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "fasilitas sekolah": "MTs",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 77,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "fasilitas sekolah": "SMA",
+    "jumlah desa": 2,
+    "sumber": "Podes"
+  },
+  {
+    "id": 78,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "fasilitas sekolah": "SMK",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 79,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "fasilitas sekolah": "MA",
+    "jumlah desa": 2,
+    "sumber": "Podes"
+  },
+  {
+    "id": 80,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "fasilitas sekolah": "Perguruan Tinggi",
+    "jumlah desa": 2,
+    "sumber": "Podes"
+  },
+  {
+    "id": 81,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "fasilitas sekolah": "SD",
+    "jumlah desa": 15,
+    "sumber": "Podes"
+  },
+  {
+    "id": 82,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "fasilitas sekolah": "MI",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 83,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "fasilitas sekolah": "SMP",
+    "jumlah desa": 7,
+    "sumber": "Podes"
+  },
+  {
+    "id": 84,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "fasilitas sekolah": "MTs",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 85,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "fasilitas sekolah": "SMA",
+    "jumlah desa": 3,
+    "sumber": "Podes"
+  },
+  {
+    "id": 86,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "fasilitas sekolah": "SMK",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 87,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "fasilitas sekolah": "MA",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 88,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "fasilitas sekolah": "Perguruan Tinggi",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 89,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "fasilitas sekolah": "SD",
+    "jumlah desa": 23,
+    "sumber": "Podes"
+  },
+  {
+    "id": 90,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "fasilitas sekolah": "MI",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 91,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "fasilitas sekolah": "SMP",
+    "jumlah desa": 8,
+    "sumber": "Podes"
+  },
+  {
+    "id": 92,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "fasilitas sekolah": "MTs",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 93,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "fasilitas sekolah": "SMA",
+    "jumlah desa": 4,
+    "sumber": "Podes"
+  },
+  {
+    "id": 94,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "fasilitas sekolah": "SMK",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 95,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "fasilitas sekolah": "MA",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 96,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "fasilitas sekolah": "Perguruan Tinggi",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  }
+]
