@@ -1,0 +1,7562 @@
+[
+  {
+    "id": 1,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Daun",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 2,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Merah",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 3,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Putih",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 4,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bayam",
+    "luas panen (ha)": 9,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 5,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Buncis",
+    "luas panen (ha)": 5,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 6,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Rawit",
+    "luas panen (ha)": 18,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 7,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kacang Panjang",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 8,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kangkung",
+    "luas panen (ha)": 9,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 9,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kembang Kol",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 10,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kentang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 11,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Ketimun",
+    "luas panen (ha)": 16,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 12,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kubis",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 13,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Labu Siam",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 14,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Melon",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 15,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Paprika",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 16,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Petsai",
+    "luas panen (ha)": 10,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 17,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Semangka",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 18,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Stroberi",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 19,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Terung",
+    "luas panen (ha)": 12,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 20,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Tomat",
+    "luas panen (ha)": 15,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 21,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Wortel",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 22,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Besar",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 23,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Keriting ",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 24,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Tiram",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 25,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Merang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 26,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Lainnya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 27,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jahe",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 28,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kapulaga",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 29,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Keji Beling",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 30,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kencur",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 31,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kunyit",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 32,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Laos",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 33,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lempuyang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 34,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lidah Buaya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 35,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mahkota Dewa",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 36,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mengkudu",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 37,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Sambiloto",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 38,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temuireng",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 39,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temukunci",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 40,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temulawak",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 41,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jeruk Nipis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 42,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Serai",
+    "luas panen (ha)": 100,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 43,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Daun",
+    "luas panen (ha)": 5,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 44,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Merah",
+    "luas panen (ha)": 8,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 45,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Putih",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 46,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bayam",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 47,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Buncis",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 48,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Rawit",
+    "luas panen (ha)": 16,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 49,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kacang Panjang",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 50,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kangkung",
+    "luas panen (ha)": 5,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 51,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kembang Kol",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 52,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kentang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 53,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Ketimun",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 54,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kubis",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 55,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Labu Siam",
+    "luas panen (ha)": 11,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 56,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Melon",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 57,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Paprika",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 58,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Petsai",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 59,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Semangka",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 60,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Stroberi",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 61,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Terung",
+    "luas panen (ha)": 8,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 62,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Tomat",
+    "luas panen (ha)": 8,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 63,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Wortel",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 64,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Besar",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 65,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Keriting ",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 66,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Tiram",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 67,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Merang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 68,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Lainnya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 69,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jahe",
+    "luas panen (ha)": 12,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 70,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kapulaga",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 71,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Keji Beling",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 72,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kencur",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 73,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kunyit",
+    "luas panen (ha)": 16,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 74,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Laos",
+    "luas panen (ha)": 15,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 75,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lempuyang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 76,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lidah Buaya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 77,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mahkota Dewa",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 78,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mengkudu",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 79,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Sambiloto",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 80,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temuireng",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 81,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temukunci",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 82,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temulawak",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 83,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jeruk Nipis",
+    "luas panen (ha)": 382,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 84,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Serai",
+    "luas panen (ha)": 240,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 85,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Daun",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 86,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Merah",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 87,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Putih",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 88,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bayam",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 89,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Buncis",
+    "luas panen (ha)": 7,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 90,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Rawit",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 91,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kacang Panjang",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 92,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kangkung",
+    "luas panen (ha)": 9,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 93,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kembang Kol",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 94,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kentang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 95,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Ketimun",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 96,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kubis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 97,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Labu Siam",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 98,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Melon",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 99,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Paprika",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 100,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Petsai",
+    "luas panen (ha)": 9,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 101,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Semangka",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 102,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Stroberi",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 103,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Terung",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 104,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Tomat",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 105,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Wortel",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 106,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Besar",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 107,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Keriting ",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 108,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Tiram",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 109,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Merang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 110,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Lainnya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 111,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jahe",
+    "luas panen (ha)": 10,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 112,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kapulaga",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 113,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Keji Beling",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 114,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kencur",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 115,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kunyit",
+    "luas panen (ha)": 1318,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 116,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Laos",
+    "luas panen (ha)": 895,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 117,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lempuyang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 118,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lidah Buaya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 119,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mahkota Dewa",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 120,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mengkudu",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 121,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Sambiloto",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 122,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temuireng",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 123,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temukunci",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 124,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temulawak",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 125,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jeruk Nipis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 126,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Serai",
+    "luas panen (ha)": 50,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 127,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Daun",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 128,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Merah",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 129,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Putih",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 130,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bayam",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 131,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Buncis",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 132,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Rawit",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 133,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kacang Panjang",
+    "luas panen (ha)": 7,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 134,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kangkung",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 135,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kembang Kol",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 136,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kentang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 137,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Ketimun",
+    "luas panen (ha)": 11,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 138,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kubis",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 139,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Labu Siam",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 140,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Melon",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 141,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Paprika",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 142,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Petsai",
+    "luas panen (ha)": 39,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 143,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Semangka",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 144,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Stroberi",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 145,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Terung",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 146,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Tomat",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 147,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Wortel",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 148,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Besar",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 149,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Keriting ",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 150,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Tiram",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 151,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Merang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 152,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Lainnya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 153,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jahe",
+    "luas panen (ha)": 50,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 154,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kapulaga",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 155,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Keji Beling",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 156,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kencur",
+    "luas panen (ha)": 50,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 157,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kunyit",
+    "luas panen (ha)": 150,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 158,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Laos",
+    "luas panen (ha)": 20,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 159,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lempuyang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 160,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lidah Buaya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 161,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mahkota Dewa",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 162,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mengkudu",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 163,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Sambiloto",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 164,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temuireng",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 165,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temukunci",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 166,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temulawak",
+    "luas panen (ha)": 105,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 167,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jeruk Nipis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 168,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Serai",
+    "luas panen (ha)": 10,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 169,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Daun",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 170,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Merah",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 171,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Putih",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 172,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bayam",
+    "luas panen (ha)": 38,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 173,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Buncis",
+    "luas panen (ha)": 21,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 174,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Rawit",
+    "luas panen (ha)": 16,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 175,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kacang Panjang",
+    "luas panen (ha)": 22,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 176,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kangkung",
+    "luas panen (ha)": 83,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 177,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kembang Kol",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 178,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kentang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 179,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Ketimun",
+    "luas panen (ha)": 11,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 180,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kubis",
+    "luas panen (ha)": 16,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 181,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Labu Siam",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 182,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Melon",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 183,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Paprika",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 184,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Petsai",
+    "luas panen (ha)": 75,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 185,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Semangka",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 186,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Stroberi",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 187,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Terung",
+    "luas panen (ha)": 18,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 188,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Tomat",
+    "luas panen (ha)": 16,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 189,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Wortel",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 190,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Besar",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 191,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Keriting ",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 192,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Tiram",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 193,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Merang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 194,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Lainnya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 195,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jahe",
+    "luas panen (ha)": 25,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 196,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kapulaga",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 197,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Keji Beling",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 198,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kencur",
+    "luas panen (ha)": 5,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 199,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kunyit",
+    "luas panen (ha)": 25,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 200,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Laos",
+    "luas panen (ha)": 5,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 201,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lempuyang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 202,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lidah Buaya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 203,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mahkota Dewa",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 204,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mengkudu",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 205,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Sambiloto",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 206,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temuireng",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 207,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temukunci",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 208,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temulawak",
+    "luas panen (ha)": 5,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 209,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jeruk Nipis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 210,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Serai",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 211,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Daun",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 212,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Merah",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 213,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Putih",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 214,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bayam",
+    "luas panen (ha)": 15,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 215,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Buncis",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 216,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Rawit",
+    "luas panen (ha)": 8,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 217,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kacang Panjang",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 218,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kangkung",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 219,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kembang Kol",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 220,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kentang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 221,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Ketimun",
+    "luas panen (ha)": 16,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 222,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kubis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 223,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Labu Siam",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 224,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Melon",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 225,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Paprika",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 226,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Petsai",
+    "luas panen (ha)": 7,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 227,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Semangka",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 228,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Stroberi",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 229,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Terung",
+    "luas panen (ha)": 7,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 230,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Tomat",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 231,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Wortel",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 232,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Besar",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 233,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Keriting ",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 234,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Tiram",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 235,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Merang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 236,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Lainnya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 237,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jahe",
+    "luas panen (ha)": 100000,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 238,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kapulaga",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 239,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Keji Beling",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 240,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kencur",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 241,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kunyit",
+    "luas panen (ha)": 10000,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 242,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Laos",
+    "luas panen (ha)": 500000,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 243,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lempuyang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 244,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lidah Buaya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 245,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mahkota Dewa",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 246,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mengkudu",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 247,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Sambiloto",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 248,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temuireng",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 249,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temukunci",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 250,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temulawak",
+    "luas panen (ha)": 20000,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 251,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jeruk Nipis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 252,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Serai",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 253,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Daun",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 254,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Merah",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 255,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Putih",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 256,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bayam",
+    "luas panen (ha)": 8,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 257,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Buncis",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 258,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Rawit",
+    "luas panen (ha)": 16,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 259,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kacang Panjang",
+    "luas panen (ha)": 7,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 260,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kangkung",
+    "luas panen (ha)": 9,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 261,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kembang Kol",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 262,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kentang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 263,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Ketimun",
+    "luas panen (ha)": 21,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 264,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kubis",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 265,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Labu Siam",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 266,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Melon",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 267,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Paprika",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 268,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Petsai",
+    "luas panen (ha)": 11,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 269,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Semangka",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 270,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Stroberi",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 271,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Terung",
+    "luas panen (ha)": 14,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 272,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Tomat",
+    "luas panen (ha)": 15,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 273,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Wortel",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 274,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Besar",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 275,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Keriting ",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 276,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Tiram",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 277,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Merang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 278,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Lainnya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 279,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jahe",
+    "luas panen (ha)": 4000,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 280,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kapulaga",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 281,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Keji Beling",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 282,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kencur",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 283,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kunyit",
+    "luas panen (ha)": 1533,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 284,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Laos",
+    "luas panen (ha)": 1500,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 285,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lempuyang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 286,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lidah Buaya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 287,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mahkota Dewa",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 288,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mengkudu",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 289,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Sambiloto",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 290,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temuireng",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 291,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temukunci",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 292,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temulawak",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 293,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jeruk Nipis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 294,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Serai",
+    "luas panen (ha)": 1010,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 295,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Daun",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 296,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Merah",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 297,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Putih",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 298,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bayam",
+    "luas panen (ha)": 12,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 299,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Buncis",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 300,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Rawit",
+    "luas panen (ha)": 14,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 301,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kacang Panjang",
+    "luas panen (ha)": 8,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 302,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kangkung",
+    "luas panen (ha)": 15,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 303,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kembang Kol",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 304,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kentang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 305,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Ketimun",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 306,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kubis",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 307,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Labu Siam",
+    "luas panen (ha)": 12,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 308,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Melon",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 309,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Paprika",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 310,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Petsai",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 311,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Semangka",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 312,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Stroberi",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 313,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Terung",
+    "luas panen (ha)": 7,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 314,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Tomat",
+    "luas panen (ha)": 7,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 315,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Wortel",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 316,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Besar",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 317,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Keriting ",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 318,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Tiram",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 319,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Merang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 320,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Lainnya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 321,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jahe",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 322,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kapulaga",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 323,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Keji Beling",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 324,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kencur",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 325,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kunyit",
+    "luas panen (ha)": 1099,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 326,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Laos",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 327,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lempuyang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 328,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lidah Buaya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 329,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mahkota Dewa",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 330,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mengkudu",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 331,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Sambiloto",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 332,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temuireng",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 333,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temukunci",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 334,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temulawak",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 335,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jeruk Nipis",
+    "luas panen (ha)": 313,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 336,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Serai",
+    "luas panen (ha)": 206,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 337,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Daun",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 338,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Merah",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 339,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Putih",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 340,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bayam",
+    "luas panen (ha)": 8,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 341,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Buncis",
+    "luas panen (ha)": 11,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 342,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Rawit",
+    "luas panen (ha)": 5,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 343,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kacang Panjang",
+    "luas panen (ha)": 12,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 344,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kangkung",
+    "luas panen (ha)": 12,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 345,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kembang Kol",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 346,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kentang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 347,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Ketimun",
+    "luas panen (ha)": 8,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 348,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kubis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 349,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Labu Siam",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 350,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Melon",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 351,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Paprika",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 352,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Petsai",
+    "luas panen (ha)": 8,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 353,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Semangka",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 354,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Stroberi",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 355,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Terung",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 356,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Tomat",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 357,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Wortel",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 358,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Besar",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 359,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Keriting ",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 360,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Tiram",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 361,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Merang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 362,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Lainnya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 363,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jahe",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 364,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kapulaga",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 365,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Keji Beling",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 366,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kencur",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 367,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kunyit",
+    "luas panen (ha)": 1087,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 368,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Laos",
+    "luas panen (ha)": 957,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 369,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lempuyang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 370,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lidah Buaya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 371,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mahkota Dewa",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 372,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mengkudu",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 373,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Sambiloto",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 374,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temuireng",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 375,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temukunci",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 376,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temulawak",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 377,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jeruk Nipis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 378,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Serai",
+    "luas panen (ha)": 106,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 379,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Daun",
+    "luas panen (ha)": 5,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 380,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Merah",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 381,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Putih",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 382,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bayam",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 383,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Buncis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 384,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Rawit",
+    "luas panen (ha)": 9,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 385,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kacang Panjang",
+    "luas panen (ha)": 5,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 386,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kangkung",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 387,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kembang Kol",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 388,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kentang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 389,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Ketimun",
+    "luas panen (ha)": 16,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 390,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kubis",
+    "luas panen (ha)": 11,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 391,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Labu Siam",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 392,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Melon",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 393,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Paprika",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 394,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Petsai",
+    "luas panen (ha)": 58,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 395,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Semangka",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 396,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Stroberi",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 397,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Terung",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 398,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Tomat",
+    "luas panen (ha)": 8,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 399,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Wortel",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 400,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Besar",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 401,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Keriting ",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 402,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Tiram",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 403,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Merang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 404,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Lainnya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 405,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jahe",
+    "luas panen (ha)": 10000,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 406,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kapulaga",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 407,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Keji Beling",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 408,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kencur",
+    "luas panen (ha)": 10000,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 409,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kunyit",
+    "luas panen (ha)": 80000,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 410,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Laos",
+    "luas panen (ha)": 10000,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 411,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lempuyang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 412,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lidah Buaya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 413,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mahkota Dewa",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 414,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mengkudu",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 415,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Sambiloto",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 416,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temuireng",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 417,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temukunci",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 418,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temulawak",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 419,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jeruk Nipis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 420,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Serai",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 421,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Daun",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 422,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Merah",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 423,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Putih",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 424,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bayam",
+    "luas panen (ha)": 34,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 425,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Buncis",
+    "luas panen (ha)": 29,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 426,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Rawit",
+    "luas panen (ha)": 13,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 427,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kacang Panjang",
+    "luas panen (ha)": 24,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 428,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kangkung",
+    "luas panen (ha)": 62,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 429,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kembang Kol",
+    "luas panen (ha)": 10,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 430,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kentang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 431,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Ketimun",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 432,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kubis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 433,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Labu Siam",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 434,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Melon",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 435,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Paprika",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 436,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Petsai",
+    "luas panen (ha)": 72,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 437,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Semangka",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 438,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Stroberi",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 439,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Terung",
+    "luas panen (ha)": 17,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 440,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Tomat",
+    "luas panen (ha)": 19,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 441,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Wortel",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 442,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Besar",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 443,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Keriting ",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 444,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Tiram",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 445,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Merang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 446,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Lainnya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 447,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jahe",
+    "luas panen (ha)": 40,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 448,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kapulaga",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 449,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Keji Beling",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 450,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kencur",
+    "luas panen (ha)": 75,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 451,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kunyit",
+    "luas panen (ha)": 55,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 452,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Laos",
+    "luas panen (ha)": 75,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 453,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lempuyang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 454,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lidah Buaya",
+    "luas panen (ha)": 15,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 455,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mahkota Dewa",
+    "luas panen (ha)": 7,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 456,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mengkudu",
+    "luas panen (ha)": 11,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 457,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Sambiloto",
+    "luas panen (ha)": 12,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 458,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temuireng",
+    "luas panen (ha)": 15,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 459,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temukunci",
+    "luas panen (ha)": 15,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 460,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temulawak",
+    "luas panen (ha)": 30,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 461,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jeruk Nipis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 462,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Serai",
+    "luas panen (ha)": 11,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 463,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Daun",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 464,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Merah",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 465,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Putih",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 466,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bayam",
+    "luas panen (ha)": 31,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 467,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Buncis",
+    "luas panen (ha)": 5,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 468,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Rawit",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 469,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kacang Panjang",
+    "luas panen (ha)": 12,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 470,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kangkung",
+    "luas panen (ha)": 23,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 471,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kembang Kol",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 472,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kentang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 473,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Ketimun",
+    "luas panen (ha)": 10,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 474,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kubis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 475,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Labu Siam",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 476,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Melon",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 477,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Paprika",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 478,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Petsai",
+    "luas panen (ha)": 27,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 479,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Semangka",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 480,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Stroberi",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 481,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Terung",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 482,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Tomat",
+    "luas panen (ha)": 9,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 483,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Wortel",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 484,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Besar",
+    "luas panen (ha)": 12,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 485,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Keriting ",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 486,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Tiram",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 487,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Merang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 488,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Lainnya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 489,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jahe",
+    "luas panen (ha)": 100000,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 490,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kapulaga",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 491,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Keji Beling",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 492,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kencur",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 493,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kunyit",
+    "luas panen (ha)": 10000,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 494,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Laos",
+    "luas panen (ha)": 100000,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 495,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lempuyang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 496,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lidah Buaya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 497,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mahkota Dewa",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 498,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mengkudu",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 499,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Sambiloto",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 500,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temuireng",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 501,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temukunci",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 502,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temulawak",
+    "luas panen (ha)": 20000,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 503,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jeruk Nipis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 504,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Serai",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 505,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Daun",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 506,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Merah",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 507,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Putih",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 508,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bayam",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 509,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Buncis",
+    "luas panen (ha)": 3.5,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 510,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Rawit",
+    "luas panen (ha)": 19,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 511,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kacang Panjang",
+    "luas panen (ha)": 3.5,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 512,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kangkung",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 513,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kembang Kol",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 514,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kentang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 515,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Ketimun",
+    "luas panen (ha)": 13,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 516,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kubis",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 517,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Labu Siam",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 518,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Melon",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 519,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Paprika",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 520,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Petsai",
+    "luas panen (ha)": 3.5,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 521,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Semangka",
+    "luas panen (ha)": 1.5,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 522,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Stroberi",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 523,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Terung",
+    "luas panen (ha)": 11,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 524,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Tomat",
+    "luas panen (ha)": 10,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 525,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Wortel",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 526,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Besar",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 527,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Keriting ",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 528,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Tiram",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 529,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Merang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 530,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Lainnya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 531,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jahe",
+    "luas panen (ha)": 4500,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 532,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kapulaga",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 533,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Keji Beling",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 534,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kencur",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 535,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kunyit",
+    "luas panen (ha)": 5500,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 536,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Laos",
+    "luas panen (ha)": 1000,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 537,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lempuyang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 538,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lidah Buaya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 539,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mahkota Dewa",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 540,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mengkudu",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 541,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Sambiloto",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 542,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temuireng",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 543,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temukunci",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 544,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temulawak",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 545,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jeruk Nipis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 546,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Serai",
+    "luas panen (ha)": 600,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 547,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Daun",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 548,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Merah",
+    "luas panen (ha)": 9,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 549,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Putih",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 550,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bayam",
+    "luas panen (ha)": 25,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 551,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Buncis",
+    "luas panen (ha)": 9,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 552,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Rawit",
+    "luas panen (ha)": 16,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 553,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kacang Panjang",
+    "luas panen (ha)": 8,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 554,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kangkung",
+    "luas panen (ha)": 25,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 555,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kembang Kol",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 556,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kentang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 557,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Ketimun",
+    "luas panen (ha)": 9,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 558,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kubis",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 559,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Labu Siam",
+    "luas panen (ha)": 8,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 560,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Melon",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 561,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Paprika",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 562,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Petsai",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 563,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Semangka",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 564,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Stroberi",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 565,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Terung",
+    "luas panen (ha)": 13,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 566,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Tomat",
+    "luas panen (ha)": 13,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 567,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Wortel",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 568,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Besar",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 569,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Keriting ",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 570,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Tiram",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 571,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Merang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 572,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Lainnya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 573,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jahe",
+    "luas panen (ha)": 700,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 574,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kapulaga",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 575,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Keji Beling",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 576,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kencur",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 577,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kunyit",
+    "luas panen (ha)": 1208,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 578,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Laos",
+    "luas panen (ha)": 338,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 579,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lempuyang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 580,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lidah Buaya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 581,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mahkota Dewa",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 582,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mengkudu",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 583,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Sambiloto",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 584,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temuireng",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 585,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temukunci",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 586,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temulawak",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 587,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jeruk Nipis",
+    "luas panen (ha)": 72,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 588,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Serai",
+    "luas panen (ha)": 542,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 589,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Daun",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 590,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Merah",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 591,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Putih",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 592,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bayam",
+    "luas panen (ha)": 12,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 593,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Buncis",
+    "luas panen (ha)": 10,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 594,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Rawit",
+    "luas panen (ha)": 9,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 595,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kacang Panjang",
+    "luas panen (ha)": 12,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 596,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kangkung",
+    "luas panen (ha)": 12,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 597,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kembang Kol",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 598,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kentang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 599,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Ketimun",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 600,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kubis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 601,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Labu Siam",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 602,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Melon",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 603,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Paprika",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 604,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Petsai",
+    "luas panen (ha)": 12,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 605,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Semangka",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 606,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Stroberi",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 607,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Terung",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 608,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Tomat",
+    "luas panen (ha)": 12,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 609,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Wortel",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 610,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Besar",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 611,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Keriting ",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 612,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Tiram",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 613,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Merang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 614,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Lainnya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 615,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jahe",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 616,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kapulaga",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 617,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Keji Beling",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 618,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kencur",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 619,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kunyit",
+    "luas panen (ha)": 657,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 620,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Laos",
+    "luas panen (ha)": 692,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 621,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lempuyang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 622,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lidah Buaya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 623,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mahkota Dewa",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 624,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mengkudu",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 625,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Sambiloto",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 626,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temuireng",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 627,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temukunci",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 628,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temulawak",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 629,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jeruk Nipis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 630,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Serai",
+    "luas panen (ha)": 106,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 631,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Daun",
+    "luas panen (ha)": 8,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 632,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Merah",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 633,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Putih",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 634,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bayam",
+    "luas panen (ha)": 11,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 635,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Buncis",
+    "luas panen (ha)": 8,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 636,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Rawit",
+    "luas panen (ha)": 16,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 637,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kacang Panjang",
+    "luas panen (ha)": 8,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 638,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kangkung",
+    "luas panen (ha)": 14,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 639,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kembang Kol",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 640,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kentang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 641,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Ketimun",
+    "luas panen (ha)": 10,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 642,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kubis",
+    "luas panen (ha)": 9,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 643,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Labu Siam",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 644,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Melon",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 645,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Paprika",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 646,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Petsai",
+    "luas panen (ha)": 46,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 647,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Semangka",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 648,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Stroberi",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 649,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Terung",
+    "luas panen (ha)": 9,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 650,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Tomat",
+    "luas panen (ha)": 8,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 651,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Wortel",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 652,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Besar",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 653,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Keriting ",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 654,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Tiram",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 655,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Merang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 656,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Lainnya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 657,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jahe",
+    "luas panen (ha)": 500,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 658,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kapulaga",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 659,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Keji Beling",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 660,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kencur",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 661,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kunyit",
+    "luas panen (ha)": 50000,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 662,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Laos",
+    "luas panen (ha)": 7000,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 663,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lempuyang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 664,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lidah Buaya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 665,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mahkota Dewa",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 666,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mengkudu",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 667,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Sambiloto",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 668,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temuireng",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 669,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temukunci",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 670,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temulawak",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 671,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jeruk Nipis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 672,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Serai",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 673,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Daun",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 674,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Merah",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 675,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Putih",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 676,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bayam",
+    "luas panen (ha)": 20,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 677,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Buncis",
+    "luas panen (ha)": 8,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 678,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Rawit",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 679,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kacang Panjang",
+    "luas panen (ha)": 11,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 680,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kangkung",
+    "luas panen (ha)": 39,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 681,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kembang Kol",
+    "luas panen (ha)": 5,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 682,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kentang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 683,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Ketimun",
+    "luas panen (ha)": 5,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 684,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kubis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 685,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Labu Siam",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 686,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Melon",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 687,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Paprika",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 688,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Petsai",
+    "luas panen (ha)": 41,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 689,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Semangka",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 690,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Stroberi",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 691,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Terung",
+    "luas panen (ha)": 10,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 692,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Tomat",
+    "luas panen (ha)": 12,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 693,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Wortel",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 694,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Besar",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 695,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Keriting ",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 696,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Tiram",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 697,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Merang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 698,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Lainnya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 699,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jahe",
+    "luas panen (ha)": 20,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 700,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kapulaga",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 701,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Keji Beling",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 702,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kencur",
+    "luas panen (ha)": 15,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 703,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kunyit",
+    "luas panen (ha)": 50,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 704,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Laos",
+    "luas panen (ha)": 20,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 705,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lempuyang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 706,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lidah Buaya",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 707,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mahkota Dewa",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 708,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mengkudu",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 709,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Sambiloto",
+    "luas panen (ha)": 5,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 710,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temuireng",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 711,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temukunci",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 712,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temulawak",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 713,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jeruk Nipis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 714,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Serai",
+    "luas panen (ha)": 10,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 715,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Daun",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 716,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Merah",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 717,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bawang Putih",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 718,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Bayam",
+    "luas panen (ha)": 21,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 719,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Buncis",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 720,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Rawit",
+    "luas panen (ha)": 3,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 721,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kacang Panjang",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 722,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kangkung",
+    "luas panen (ha)": 11,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 723,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kembang Kol",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 724,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kentang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 725,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Ketimun",
+    "luas panen (ha)": 6,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 726,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Kubis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 727,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Labu Siam",
+    "luas panen (ha)": 10,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 728,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Melon",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 729,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Paprika",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 730,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Petsai",
+    "luas panen (ha)": 27,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 731,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Semangka",
+    "luas panen (ha)": 2,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 732,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Buah-Buahan Semusim",
+    "jenis tanaman": "Stroberi",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 733,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Terung",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 734,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Tomat",
+    "luas panen (ha)": 4,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 735,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Wortel",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 736,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Besar",
+    "luas panen (ha)": 1,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 737,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Cabai Keriting ",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 738,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Tiram",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 739,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Merang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 740,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Sayuran Semusim",
+    "jenis tanaman": "Jamur Lainnya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 741,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jahe",
+    "luas panen (ha)": 50,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 742,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kapulaga",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 743,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Keji Beling",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 744,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kencur",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 745,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Kunyit",
+    "luas panen (ha)": 10,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 746,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Laos",
+    "luas panen (ha)": 100,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 747,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lempuyang",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 748,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Lidah Buaya",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 749,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mahkota Dewa",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 750,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Mengkudu",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 751,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Sambiloto",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 752,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temuireng",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 753,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temukunci",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 754,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Temulawak",
+    "luas panen (ha)": 20,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 755,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Jeruk Nipis",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  },
+  {
+    "id": 756,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "kategori": "Biofarmaka",
+    "jenis tanaman": "Serai",
+    "luas panen (ha)": 0,
+    "sumber": "BPS, Statistik Pertanian Hortikultura SPH"
+  }
+]
