@@ -1,0 +1,650 @@
+[
+  {
+    "id": 1,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tenaga kesehatan": "Tenaga Medis",
+    "jumlah": 3,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 2,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tenaga kesehatan": "Psikologi Klinis",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 3,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tenaga kesehatan": "Tenaga Keperawatan",
+    "jumlah": 91,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 4,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tenaga kesehatan": "Tenaga Kebidanan",
+    "jumlah": 31,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 5,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tenaga kesehatan": "Tenaga Kefarmasian",
+    "jumlah": 3,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 6,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tenaga kesehatan": "Tenaga Kesehatan Masyarakat",
+    "jumlah": 11,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 7,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tenaga kesehatan": "Tenaga Kesehatan Lingkungan",
+    "jumlah": 2,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 8,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tenaga kesehatan": "Tenaga Gizi",
+    "jumlah": 5,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 9,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tenaga kesehatan": "Tenaga Keterapian Fisik",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 10,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tenaga kesehatan": "Tenaga Keteknisan Medis",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 11,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tenaga kesehatan": "Tenaga Teknik Biomedika",
+    "jumlah": 2,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 12,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tenaga kesehatan": "Tenaga Kesehatan Tradisional",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 13,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tenaga kesehatan": "Tenaga Medis",
+    "jumlah": 8,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 14,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tenaga kesehatan": "Psikologi Klinis",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 15,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tenaga kesehatan": "Tenaga Keperawatan",
+    "jumlah": 46,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 16,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tenaga kesehatan": "Tenaga Kebidanan",
+    "jumlah": 12,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 17,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tenaga kesehatan": "Tenaga Kefarmasian",
+    "jumlah": 3,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 18,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tenaga kesehatan": "Tenaga Kesehatan Masyarakat",
+    "jumlah": 9,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 19,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tenaga kesehatan": "Tenaga Kesehatan Lingkungan",
+    "jumlah": 2,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 20,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tenaga kesehatan": "Tenaga Gizi",
+    "jumlah": 4,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 21,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tenaga kesehatan": "Tenaga Keterapian Fisik",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 22,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tenaga kesehatan": "Tenaga Keteknisan Medis",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 23,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tenaga kesehatan": "Tenaga Teknik Biomedika",
+    "jumlah": 3,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 24,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tenaga kesehatan": "Tenaga Kesehatan Tradisional",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 25,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tenaga kesehatan": "Tenaga Medis",
+    "jumlah": 2,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 26,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tenaga kesehatan": "Psikologi Klinis",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 27,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tenaga kesehatan": "Tenaga Keperawatan",
+    "jumlah": 11,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 28,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tenaga kesehatan": "Tenaga Kebidanan",
+    "jumlah": 6,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 29,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tenaga kesehatan": "Tenaga Kefarmasian",
+    "jumlah": 1,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 30,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tenaga kesehatan": "Tenaga Kesehatan Masyarakat",
+    "jumlah": 2,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 31,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tenaga kesehatan": "Tenaga Kesehatan Lingkungan",
+    "jumlah": 2,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 32,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tenaga kesehatan": "Tenaga Gizi",
+    "jumlah": 2,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 33,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tenaga kesehatan": "Tenaga Keterapian Fisik",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 34,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tenaga kesehatan": "Tenaga Keteknisan Medis",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 35,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tenaga kesehatan": "Tenaga Teknik Biomedika",
+    "jumlah": 1,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 36,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tenaga kesehatan": "Tenaga Kesehatan Tradisional",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 37,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tenaga kesehatan": "Tenaga Medis",
+    "jumlah": 35,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 38,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tenaga kesehatan": "Psikologi Klinis",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 39,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tenaga kesehatan": "Tenaga Keperawatan",
+    "jumlah": 397,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 40,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tenaga kesehatan": "Tenaga Kebidanan",
+    "jumlah": 69,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 41,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tenaga kesehatan": "Tenaga Kefarmasian",
+    "jumlah": 16,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 42,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tenaga kesehatan": "Tenaga Kesehatan Masyarakat",
+    "jumlah": 21,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 43,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tenaga kesehatan": "Tenaga Kesehatan Lingkungan",
+    "jumlah": 8,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 44,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tenaga kesehatan": "Tenaga Gizi",
+    "jumlah": 14,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 45,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tenaga kesehatan": "Tenaga Keterapian Fisik",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 46,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tenaga kesehatan": "Tenaga Keteknisan Medis",
+    "jumlah": 26,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 47,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tenaga kesehatan": "Tenaga Teknik Biomedika",
+    "jumlah": 24,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 48,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tenaga kesehatan": "Tenaga Kesehatan Tradisional",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 49,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "tenaga kesehatan": "Tenaga Medis",
+    "jumlah": 20,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 50,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Kota Waikabubak",
+    "tenaga kesehatan": "Psikologi Klinis",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 51,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Kota Waikabubak",
+    "tenaga kesehatan": "Tenaga Keperawatan",
+    "jumlah": 118,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 52,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Kota Waikabubak",
+    "tenaga kesehatan": "Tenaga Kebidanan",
+    "jumlah": 33,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 53,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Kota Waikabubak",
+    "tenaga kesehatan": "Tenaga Kefarmasian",
+    "jumlah": 14,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 54,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Kota Waikabubak",
+    "tenaga kesehatan": "Tenaga Kesehatan Masyarakat",
+    "jumlah": 8,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 55,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Kota Waikabubak",
+    "tenaga kesehatan": "Tenaga Kesehatan Lingkungan",
+    "jumlah": 2,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 56,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Kota Waikabubak",
+    "tenaga kesehatan": "Tenaga Gizi",
+    "jumlah": 8,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 57,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Kota Waikabubak",
+    "tenaga kesehatan": "Tenaga Keterapian Fisik",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 58,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Kota Waikabubak",
+    "tenaga kesehatan": "Tenaga Keteknisan Medis",
+    "jumlah": 19,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 59,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Kota Waikabubak",
+    "tenaga kesehatan": "Tenaga Teknik Biomedika",
+    "jumlah": 6,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 60,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Kota Waikabubak",
+    "tenaga kesehatan": "Tenaga Kesehatan Tradisional",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 61,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tenaga kesehatan": "Tenaga Medis",
+    "jumlah": 5,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 62,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tenaga kesehatan": "Psikologi Klinis",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 63,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tenaga kesehatan": "Tenaga Keperawatan",
+    "jumlah": 43,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 64,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tenaga kesehatan": "Tenaga Kebidanan",
+    "jumlah": 24,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 65,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tenaga kesehatan": "Tenaga Kefarmasian",
+    "jumlah": 2,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 66,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tenaga kesehatan": "Tenaga Kesehatan Masyarakat",
+    "jumlah": 11,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 67,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tenaga kesehatan": "Tenaga Kesehatan Lingkungan",
+    "jumlah": 3,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 68,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tenaga kesehatan": "Tenaga Gizi",
+    "jumlah": 6,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 69,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tenaga kesehatan": "Tenaga Keterapian Fisik",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 70,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tenaga kesehatan": "Tenaga Keteknisan Medis",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 71,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tenaga kesehatan": "Tenaga Teknik Biomedika",
+    "jumlah": 5,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 72,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tenaga kesehatan": "Tenaga Kesehatan Tradisional",
+    "jumlah": 0,
+    "sumber": "Dinas Kesehatan Kabupaten Sumba Barat"
+  }
+]
