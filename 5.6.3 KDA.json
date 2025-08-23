@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis budidaya": "Budidaya Laut",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 2,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis budidaya": "Budidaya Laut",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 3,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis budidaya": "Budidaya Laut",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 4,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis budidaya": "Budidaya Laut",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 5,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis budidaya": "Budidaya Laut",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 6,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis budidaya": "Budidaya Laut",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 7,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis budidaya": "Tambak",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0.06,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 8,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis budidaya": "Tambak",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 9,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis budidaya": "Tambak",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 10,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis budidaya": "Tambak",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 11,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis budidaya": "Tambak",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 12,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis budidaya": "Tambak",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 13,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis budidaya": "Kolam",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 14,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis budidaya": "Kolam",
+    "jumlah ruta": 40,
+    "produksi (ton)": 10.4,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 15,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis budidaya": "Kolam",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 16,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis budidaya": "Kolam",
+    "jumlah ruta": 60,
+    "produksi (ton)": 20.75,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 17,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis budidaya": "Kolam",
+    "jumlah ruta": 120,
+    "produksi (ton)": 20.25,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 18,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis budidaya": "Kolam",
+    "jumlah ruta": 25,
+    "produksi (ton)": 2,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 19,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis budidaya": "Keramba",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 20,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis budidaya": "Keramba",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 21,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis budidaya": "Keramba",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 22,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis budidaya": "Keramba",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 23,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis budidaya": "Keramba",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 24,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis budidaya": "Keramba",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 25,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis budidaya": "Jaring Apung",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 26,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis budidaya": "Jaring Apung",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 27,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis budidaya": "Jaring Apung",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 28,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis budidaya": "Jaring Apung",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 29,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis budidaya": "Jaring Apung",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 30,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis budidaya": "Jaring Apung",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 31,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis budidaya": "Sawah",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 32,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis budidaya": "Sawah",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 33,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis budidaya": "Sawah",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 34,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis budidaya": "Sawah",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 35,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis budidaya": "Sawah",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 36,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis budidaya": "Sawah",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 37,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis budidaya": "Budidaya Laut",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 38,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis budidaya": "Budidaya Laut",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 39,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis budidaya": "Budidaya Laut",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 40,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis budidaya": "Budidaya Laut",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 41,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis budidaya": "Budidaya Laut",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 42,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis budidaya": "Budidaya Laut",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 43,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis budidaya": "Tambak",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 44,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis budidaya": "Tambak",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 45,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis budidaya": "Tambak",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 46,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis budidaya": "Tambak",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 47,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis budidaya": "Tambak",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 48,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis budidaya": "Tambak",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 49,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis budidaya": "Kolam",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 50,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis budidaya": "Kolam",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 51,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis budidaya": "Kolam",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 52,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis budidaya": "Kolam",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 53,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis budidaya": "Kolam",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 54,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis budidaya": "Kolam",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 55,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis budidaya": "Keramba",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 56,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis budidaya": "Keramba",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 57,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis budidaya": "Keramba",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 58,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis budidaya": "Keramba",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 59,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis budidaya": "Keramba",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 60,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis budidaya": "Keramba",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 61,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis budidaya": "Jaring Apung",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 62,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis budidaya": "Jaring Apung",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 63,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis budidaya": "Jaring Apung",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 64,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis budidaya": "Jaring Apung",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 65,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis budidaya": "Jaring Apung",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 66,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis budidaya": "Jaring Apung",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 67,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis budidaya": "Sawah",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 68,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis budidaya": "Sawah",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 69,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis budidaya": "Sawah",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 70,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis budidaya": "Sawah",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 71,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis budidaya": "Sawah",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 72,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis budidaya": "Sawah",
+    "jumlah ruta": 0,
+    "produksi (ton)": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  }
+]
