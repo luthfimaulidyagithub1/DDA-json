@@ -1,0 +1,1482 @@
+[
+  {
+    "tahun": 2022,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 1,
+    "deskel": "Welibo",
+    "jarak ke ibukota kecamatan (km)": 5,
+    "jarak ke ibukota kabkot (km)": 24,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 2,
+    "deskel": "Patiala Bawa",
+    "jarak ke ibukota kecamatan (km)": 8,
+    "jarak ke ibukota kabkot (km)": 2,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 3,
+    "deskel": "Laboya Bawa",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 23,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 4,
+    "deskel": "Watu Karere",
+    "jarak ke ibukota kecamatan (km)": 11,
+    "jarak ke ibukota kabkot (km)": 26,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 5,
+    "deskel": "Kabu Karudi",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 20,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 6,
+    "deskel": "Laboya Dete",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 27,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 7,
+    "deskel": "Sodana",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 13,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 8,
+    "deskel": "Rajaka",
+    "jarak ke ibukota kecamatan (km)": 5,
+    "jarak ke ibukota kabkot (km)": 19,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 9,
+    "deskel": "Ringu Rara",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 16,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 10,
+    "deskel": "Bodo Hula",
+    "jarak ke ibukota kecamatan (km)": 25,
+    "jarak ke ibukota kabkot (km)": 6,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 11,
+    "deskel": "Pala Moko",
+    "jarak ke ibukota kecamatan (km)": 7,
+    "jarak ke ibukota kabkot (km)": 30,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 1,
+    "deskel": "Hoba Wawi",
+    "jarak ke ibukota kecamatan (km)": 13,
+    "jarak ke ibukota kabkot (km)": 23,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 2,
+    "deskel": "Rua",
+    "jarak ke ibukota kecamatan (km)": 11,
+    "jarak ke ibukota kabkot (km)": 19,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 3,
+    "deskel": "Pahola",
+    "jarak ke ibukota kecamatan (km)": 9,
+    "jarak ke ibukota kabkot (km)": 22,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 4,
+    "deskel": "Wai Hura",
+    "jarak ke ibukota kecamatan (km)": 2,
+    "jarak ke ibukota kabkot (km)": 19,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 5,
+    "deskel": "Bali Loku",
+    "jarak ke ibukota kecamatan (km)": 2,
+    "jarak ke ibukota kabkot (km)": 16,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 6,
+    "deskel": "Hupu Mada",
+    "jarak ke ibukota kecamatan (km)": 4,
+    "jarak ke ibukota kabkot (km)": 16,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 7,
+    "deskel": "Katiku Loku",
+    "jarak ke ibukota kecamatan (km)": 2,
+    "jarak ke ibukota kabkot (km)": 18,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 8,
+    "deskel": "Tara Manu",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 15,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 9,
+    "deskel": "Praibakul",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 15,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 10,
+    "deskel": "Mamodu",
+    "jarak ke ibukota kecamatan (km)": 12,
+    "jarak ke ibukota kabkot (km)": 12,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 11,
+    "deskel": "Rewa Rara",
+    "jarak ke ibukota kecamatan (km)": 6,
+    "jarak ke ibukota kabkot (km)": 15,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 12,
+    "deskel": "Ana Wolu",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 19,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 13,
+    "deskel": "Wei Mangoma",
+    "jarak ke ibukota kecamatan (km)": 15,
+    "jarak ke ibukota kabkot (km)": 30,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 14,
+    "deskel": "Pari Rara",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 20,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 3,
+    "kecamatan": "Laboya Barat",
+    "no deskel": 1,
+    "deskel": "Wetana",
+    "jarak ke ibukota kecamatan (km)": 10,
+    "jarak ke ibukota kabkot (km)": 51,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 3,
+    "kecamatan": "Laboya Barat",
+    "no deskel": 2,
+    "deskel": "Gaura",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 48,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 3,
+    "kecamatan": "Laboya Barat",
+    "no deskel": 3,
+    "deskel": "Patiala Dete",
+    "jarak ke ibukota kecamatan (km)": 6,
+    "jarak ke ibukota kabkot (km)": 34,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 3,
+    "kecamatan": "Laboya Barat",
+    "no deskel": 4,
+    "deskel": "Harona Kala",
+    "jarak ke ibukota kecamatan (km)": 14,
+    "jarak ke ibukota kabkot (km)": 28,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 1,
+    "deskel": "Dede Kadu",
+    "jarak ke ibukota kecamatan (km)": 9,
+    "jarak ke ibukota kabkot (km)": 3,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 2,
+    "deskel": "Wee Karou",
+    "jarak ke ibukota kecamatan (km)": 18,
+    "jarak ke ibukota kabkot (km)": 1,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 3,
+    "deskel": "Soba Wawi",
+    "jarak ke ibukota kecamatan (km)": 12,
+    "jarak ke ibukota kabkot (km)": 3,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 4,
+    "deskel": "Ubu Pede",
+    "jarak ke ibukota kecamatan (km)": 4,
+    "jarak ke ibukota kabkot (km)": 5,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 5,
+    "deskel": "Bera Dolu",
+    "jarak ke ibukota kecamatan (km)": 17,
+    "jarak ke ibukota kabkot (km)": 9,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 6,
+    "deskel": "Doka Kaka",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 11,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 7,
+    "deskel": "Tana Rara",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 16,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 8,
+    "deskel": "Bali Ledo",
+    "jarak ke ibukota kecamatan (km)": 6,
+    "jarak ke ibukota kabkot (km)": 18,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 9,
+    "deskel": "Loda Pare",
+    "jarak ke ibukota kecamatan (km)": 17,
+    "jarak ke ibukota kabkot (km)": 3,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 10,
+    "deskel": "Wee Dabo",
+    "jarak ke ibukota kecamatan (km)": 17,
+    "jarak ke ibukota kabkot (km)": 6,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 11,
+    "deskel": "Dira Tana",
+    "jarak ke ibukota kecamatan (km)": 12,
+    "jarak ke ibukota kabkot (km)": 4,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 12,
+    "deskel": "Ubu Raya",
+    "jarak ke ibukota kecamatan (km)": 6,
+    "jarak ke ibukota kabkot (km)": 11,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 13,
+    "deskel": "Tema Tana",
+    "jarak ke ibukota kecamatan (km)": 2,
+    "jarak ke ibukota kabkot (km)": 15,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 14,
+    "deskel": "Manola",
+    "jarak ke ibukota kecamatan (km)": 7,
+    "jarak ke ibukota kabkot (km)": 19,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 1,
+    "deskel": "Wailiang",
+    "jarak ke ibukota kecamatan (km)": 2,
+    "jarak ke ibukota kabkot (km)": 9,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 2,
+    "deskel": "Maliti",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 3,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 3,
+    "deskel": "Komerda",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 5,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 4,
+    "deskel": "Kampung Baru",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 3,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 5,
+    "deskel": "Kampung Sawah",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 5,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 6,
+    "deskel": "Kodaka",
+    "jarak ke ibukota kecamatan (km)": 6,
+    "jarak ke ibukota kabkot (km)": 5,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 7,
+    "deskel": "Lapale",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 3,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 8,
+    "deskel": "Tebara",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 10,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 9,
+    "deskel": "Kalembu Kuni",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 2,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 10,
+    "deskel": "Sobarade",
+    "jarak ke ibukota kecamatan (km)": 7,
+    "jarak ke ibukota kabkot (km)": 10,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 11,
+    "deskel": "Pada Eweta",
+    "jarak ke ibukota kecamatan (km)": 11,
+    "jarak ke ibukota kabkot (km)": 16,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 12,
+    "deskel": "Modu Waimaringu",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 5,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 13,
+    "deskel": "Puu Mawo",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 5,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 1,
+    "deskel": "Lokory",
+    "jarak ke ibukota kecamatan (km)": 6,
+    "jarak ke ibukota kabkot (km)": 41,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 2,
+    "deskel": "Lolo Wano",
+    "jarak ke ibukota kecamatan (km)": 6,
+    "jarak ke ibukota kabkot (km)": 32,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 3,
+    "deskel": "Ngadu Pada",
+    "jarak ke ibukota kecamatan (km)": 4,
+    "jarak ke ibukota kabkot (km)": 36,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 4,
+    "deskel": "Malata",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 36,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 5,
+    "deskel": "Lingu Lango",
+    "jarak ke ibukota kecamatan (km)": 9,
+    "jarak ke ibukota kabkot (km)": 25,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 6,
+    "deskel": "Manu Kuku",
+    "jarak ke ibukota kecamatan (km)": 13,
+    "jarak ke ibukota kabkot (km)": 27,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 7,
+    "deskel": "Wee Patola",
+    "jarak ke ibukota kecamatan (km)": 15,
+    "jarak ke ibukota kabkot (km)": 23,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 8,
+    "deskel": "Karaka Nduku",
+    "jarak ke ibukota kecamatan (km)": 13,
+    "jarak ke ibukota kabkot (km)": 29,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 9,
+    "deskel": "Wanokaza",
+    "jarak ke ibukota kecamatan (km)": 16,
+    "jarak ke ibukota kabkot (km)": 16,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 10,
+    "deskel": "Bondo Tera",
+    "jarak ke ibukota kecamatan (km)": 20,
+    "jarak ke ibukota kabkot (km)": 26,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 11,
+    "deskel": "Zala Kadu",
+    "jarak ke ibukota kecamatan (km)": 15,
+    "jarak ke ibukota kabkot (km)": 28,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 12,
+    "deskel": "Lolo Tana",
+    "jarak ke ibukota kecamatan (km)": 11,
+    "jarak ke ibukota kabkot (km)": 27,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 13,
+    "deskel": "Kareka Nduku Utara",
+    "jarak ke ibukota kecamatan (km)": 15,
+    "jarak ke ibukota kabkot (km)": 26,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 14,
+    "deskel": "Kareka Nduku Selatan",
+    "jarak ke ibukota kecamatan (km)": 21,
+    "jarak ke ibukota kabkot (km)": 20,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 15,
+    "deskel": "Manu Mada",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 33,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 16,
+    "deskel": "Elu Loda",
+    "jarak ke ibukota kecamatan (km)": 6,
+    "jarak ke ibukota kabkot (km)": 38,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 17,
+    "deskel": "Kalebu Ana Kaka",
+    "jarak ke ibukota kecamatan (km)": 19,
+    "jarak ke ibukota kabkot (km)": 23,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2022,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 18,
+    "deskel": "Tarona",
+    "jarak ke ibukota kecamatan (km)": 22,
+    "jarak ke ibukota kabkot (km)": 31,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 1,
+    "deskel": "Welibo",
+    "jarak ke ibukota kecamatan (km)": 5,
+    "jarak ke ibukota kabkot (km)": 24,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 2,
+    "deskel": "Patiala Bawa",
+    "jarak ke ibukota kecamatan (km)": 8,
+    "jarak ke ibukota kabkot (km)": 2,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 3,
+    "deskel": "Laboya Bawa",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 23,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 4,
+    "deskel": "Watu Karere",
+    "jarak ke ibukota kecamatan (km)": 11,
+    "jarak ke ibukota kabkot (km)": 26,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 5,
+    "deskel": "Kabu Karudi",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 20,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 6,
+    "deskel": "Laboya Dete",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 27,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 7,
+    "deskel": "Sodana",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 13,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 8,
+    "deskel": "Rajaka",
+    "jarak ke ibukota kecamatan (km)": 5,
+    "jarak ke ibukota kabkot (km)": 19,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 9,
+    "deskel": "Ringu Rara",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 16,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 10,
+    "deskel": "Bodo Hula",
+    "jarak ke ibukota kecamatan (km)": 25,
+    "jarak ke ibukota kabkot (km)": 6,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 1,
+    "kecamatan": "Lamboya",
+    "no deskel": 11,
+    "deskel": "Pala Moko",
+    "jarak ke ibukota kecamatan (km)": 7,
+    "jarak ke ibukota kabkot (km)": 30,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 1,
+    "deskel": "Hoba Wawi",
+    "jarak ke ibukota kecamatan (km)": 13,
+    "jarak ke ibukota kabkot (km)": 23,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 2,
+    "deskel": "Rua",
+    "jarak ke ibukota kecamatan (km)": 11,
+    "jarak ke ibukota kabkot (km)": 19,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 3,
+    "deskel": "Pahola",
+    "jarak ke ibukota kecamatan (km)": 9,
+    "jarak ke ibukota kabkot (km)": 22,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 4,
+    "deskel": "Wai Hura",
+    "jarak ke ibukota kecamatan (km)": 2,
+    "jarak ke ibukota kabkot (km)": 19,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 5,
+    "deskel": "Bali Loku",
+    "jarak ke ibukota kecamatan (km)": 2,
+    "jarak ke ibukota kabkot (km)": 16,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 6,
+    "deskel": "Hupu Mada",
+    "jarak ke ibukota kecamatan (km)": 4,
+    "jarak ke ibukota kabkot (km)": 16,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 7,
+    "deskel": "Katiku Loku",
+    "jarak ke ibukota kecamatan (km)": 2,
+    "jarak ke ibukota kabkot (km)": 18,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 8,
+    "deskel": "Tara Manu",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 15,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 9,
+    "deskel": "Praibakul",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 15,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 10,
+    "deskel": "Mamodu",
+    "jarak ke ibukota kecamatan (km)": 12,
+    "jarak ke ibukota kabkot (km)": 12,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 11,
+    "deskel": "Rewa Rara",
+    "jarak ke ibukota kecamatan (km)": 6,
+    "jarak ke ibukota kabkot (km)": 15,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 12,
+    "deskel": "Ana Wolu",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 19,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 13,
+    "deskel": "Wei Mangoma",
+    "jarak ke ibukota kecamatan (km)": 15,
+    "jarak ke ibukota kabkot (km)": 30,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 2,
+    "kecamatan": "Wanokaka",
+    "no deskel": 14,
+    "deskel": "Pari Rara",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 20,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 3,
+    "kecamatan": "Laboya Barat",
+    "no deskel": 1,
+    "deskel": "Wetana",
+    "jarak ke ibukota kecamatan (km)": 10,
+    "jarak ke ibukota kabkot (km)": 51,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 3,
+    "kecamatan": "Laboya Barat",
+    "no deskel": 2,
+    "deskel": "Gaura",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 48,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 3,
+    "kecamatan": "Laboya Barat",
+    "no deskel": 3,
+    "deskel": "Patiala Dete",
+    "jarak ke ibukota kecamatan (km)": 6,
+    "jarak ke ibukota kabkot (km)": 34,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 3,
+    "kecamatan": "Laboya Barat",
+    "no deskel": 4,
+    "deskel": "Harona Kala",
+    "jarak ke ibukota kecamatan (km)": 14,
+    "jarak ke ibukota kabkot (km)": 28,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 1,
+    "deskel": "Dede Kadu",
+    "jarak ke ibukota kecamatan (km)": 9,
+    "jarak ke ibukota kabkot (km)": 3,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 2,
+    "deskel": "Wee Karou",
+    "jarak ke ibukota kecamatan (km)": 18,
+    "jarak ke ibukota kabkot (km)": 1,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 3,
+    "deskel": "Soba Wawi",
+    "jarak ke ibukota kecamatan (km)": 12,
+    "jarak ke ibukota kabkot (km)": 3,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 4,
+    "deskel": "Ubu Pede",
+    "jarak ke ibukota kecamatan (km)": 4,
+    "jarak ke ibukota kabkot (km)": 5,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 5,
+    "deskel": "Bera Dolu",
+    "jarak ke ibukota kecamatan (km)": 17,
+    "jarak ke ibukota kabkot (km)": 9,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 6,
+    "deskel": "Doka Kaka",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 11,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 7,
+    "deskel": "Tana Rara",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 16,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 8,
+    "deskel": "Bali Ledo",
+    "jarak ke ibukota kecamatan (km)": 6,
+    "jarak ke ibukota kabkot (km)": 18,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 9,
+    "deskel": "Loda Pare",
+    "jarak ke ibukota kecamatan (km)": 17,
+    "jarak ke ibukota kabkot (km)": 3,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 10,
+    "deskel": "Wee Dabo",
+    "jarak ke ibukota kecamatan (km)": 17,
+    "jarak ke ibukota kabkot (km)": 6,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 11,
+    "deskel": "Dira Tana",
+    "jarak ke ibukota kecamatan (km)": 12,
+    "jarak ke ibukota kabkot (km)": 4,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 12,
+    "deskel": "Ubu Raya",
+    "jarak ke ibukota kecamatan (km)": 6,
+    "jarak ke ibukota kabkot (km)": 11,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 13,
+    "deskel": "Tema Tana",
+    "jarak ke ibukota kecamatan (km)": 2,
+    "jarak ke ibukota kabkot (km)": 15,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 4,
+    "kecamatan": "Loli",
+    "no deskel": 14,
+    "deskel": "Manola",
+    "jarak ke ibukota kecamatan (km)": 7,
+    "jarak ke ibukota kabkot (km)": 19,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 1,
+    "deskel": "Wailiang",
+    "jarak ke ibukota kecamatan (km)": 2,
+    "jarak ke ibukota kabkot (km)": 9,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 2,
+    "deskel": "Maliti",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 3,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 3,
+    "deskel": "Komerda",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 5,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 4,
+    "deskel": "Kampung Baru",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 3,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 5,
+    "deskel": "Kampung Sawah",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 5,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 6,
+    "deskel": "Kodaka",
+    "jarak ke ibukota kecamatan (km)": 6,
+    "jarak ke ibukota kabkot (km)": 5,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 7,
+    "deskel": "Lapale",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 3,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 8,
+    "deskel": "Tebara",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 10,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 9,
+    "deskel": "Kalembu Kuni",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 2,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 10,
+    "deskel": "Sobarade",
+    "jarak ke ibukota kecamatan (km)": 7,
+    "jarak ke ibukota kabkot (km)": 10,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 11,
+    "deskel": "Pada Eweta",
+    "jarak ke ibukota kecamatan (km)": 11,
+    "jarak ke ibukota kabkot (km)": 16,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 12,
+    "deskel": "Modu Waimaringu",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 5,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 5,
+    "kecamatan": "Kota Waikabubak",
+    "no deskel": 13,
+    "deskel": "Puu Mawo",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 5,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 1,
+    "deskel": "Lokory",
+    "jarak ke ibukota kecamatan (km)": 6,
+    "jarak ke ibukota kabkot (km)": 41,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 2,
+    "deskel": "Lolo Wano",
+    "jarak ke ibukota kecamatan (km)": 6,
+    "jarak ke ibukota kabkot (km)": 32,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 3,
+    "deskel": "Ngadu Pada",
+    "jarak ke ibukota kecamatan (km)": 4,
+    "jarak ke ibukota kabkot (km)": 36,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 4,
+    "deskel": "Malata",
+    "jarak ke ibukota kecamatan (km)": 1,
+    "jarak ke ibukota kabkot (km)": 36,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 5,
+    "deskel": "Lingu Lango",
+    "jarak ke ibukota kecamatan (km)": 9,
+    "jarak ke ibukota kabkot (km)": 25,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 6,
+    "deskel": "Manu Kuku",
+    "jarak ke ibukota kecamatan (km)": 13,
+    "jarak ke ibukota kabkot (km)": 27,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 7,
+    "deskel": "Wee Patola",
+    "jarak ke ibukota kecamatan (km)": 15,
+    "jarak ke ibukota kabkot (km)": 23,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 8,
+    "deskel": "Karaka Nduku",
+    "jarak ke ibukota kecamatan (km)": 13,
+    "jarak ke ibukota kabkot (km)": 29,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 9,
+    "deskel": "Wanokaza",
+    "jarak ke ibukota kecamatan (km)": 16,
+    "jarak ke ibukota kabkot (km)": 16,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 10,
+    "deskel": "Bondo Tera",
+    "jarak ke ibukota kecamatan (km)": 20,
+    "jarak ke ibukota kabkot (km)": 26,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 11,
+    "deskel": "Zala Kadu",
+    "jarak ke ibukota kecamatan (km)": 15,
+    "jarak ke ibukota kabkot (km)": 28,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 12,
+    "deskel": "Lolo Tana",
+    "jarak ke ibukota kecamatan (km)": 11,
+    "jarak ke ibukota kabkot (km)": 27,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 13,
+    "deskel": "Kareka Nduku Utara",
+    "jarak ke ibukota kecamatan (km)": 15,
+    "jarak ke ibukota kabkot (km)": 26,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 14,
+    "deskel": "Kareka Nduku Selatan",
+    "jarak ke ibukota kecamatan (km)": 21,
+    "jarak ke ibukota kabkot (km)": 20,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 15,
+    "deskel": "Manu Mada",
+    "jarak ke ibukota kecamatan (km)": 3,
+    "jarak ke ibukota kabkot (km)": 33,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 16,
+    "deskel": "Elu Loda",
+    "jarak ke ibukota kecamatan (km)": 6,
+    "jarak ke ibukota kabkot (km)": 38,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 17,
+    "deskel": "Kalebu Ana Kaka",
+    "jarak ke ibukota kecamatan (km)": 19,
+    "jarak ke ibukota kabkot (km)": 23,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  },
+  {
+    "tahun": 2023,
+    "no kec": 6,
+    "kecamatan": "Tana Righu",
+    "no deskel": 18,
+    "deskel": "Tarona",
+    "jarak ke ibukota kecamatan (km)": 22,
+    "jarak ke ibukota kabkot (km)": 31,
+    "sumber": "Pendataan Potensi Desa (Podes) 2021"
+  }
+]
