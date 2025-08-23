@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "ibukota kec": "Kabukarudi",
+    "luas kecamatan (km2)": 125.65,
+    "persentase terhadap luas kabupaten": 17.03913644869952,
+    "sumber": "Badan Pertanahan Nasional (ATR/BPN) Kabupaten Sumba Barat Berdasarkan web big.go.id"
+  },
+  {
+    "id": 2,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "ibukota kec": "Pogo Katoda",
+    "luas kecamatan (km2)": 133.68,
+    "persentase terhadap luas kabupaten": 18.128068129424207,
+    "sumber": "Badan Pertanahan Nasional (ATR/BPN) Kabupaten Sumba Barat Berdasarkan web big.go.id"
+  },
+  {
+    "id": 3,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "ibukota kec": "Hodi",
+    "luas kecamatan (km2)": 161.23,
+    "persentase terhadap luas kabupaten": 21.864066610615385,
+    "sumber": "Badan Pertanahan Nasional (ATR/BPN) Kabupaten Sumba Barat Berdasarkan web big.go.id"
+  },
+  {
+    "id": 4,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "ibukota kec": "Dokakaka",
+    "luas kecamatan (km2)": 132.36,
+    "persentase terhadap luas kabupaten": 17.949065661359874,
+    "sumber": "Badan Pertanahan Nasional (ATR/BPN) Kabupaten Sumba Barat Berdasarkan web big.go.id"
+  },
+  {
+    "id": 5,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "ibukota kec": "Waikabubak",
+    "luas kecamatan (km2)": 44.71,
+    "persentase terhadap luas kabupaten": 6.063030566027501,
+    "sumber": "Badan Pertanahan Nasional (ATR/BPN) Kabupaten Sumba Barat Berdasarkan web big.go.id"
+  },
+  {
+    "id": 6,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "ibukota kec": "Malata",
+    "luas kecamatan (km2)": 139.79,
+    "persentase terhadap luas kabupaten": 18.9566325838735,
+    "sumber": "Badan Pertanahan Nasional (ATR/BPN) Kabupaten Sumba Barat Berdasarkan web big.go.id"
+  },
+  {
+    "id": 7,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "ibukota kec": "Kabukarudi",
+    "luas kecamatan (km2)": 125.65,
+    "persentase terhadap luas kabupaten": 17.03913644869952,
+    "sumber": "Badan Pertanahan Nasional (ATR/BPN) Kabupaten Sumba Barat Berdasarkan web big.go.id"
+  },
+  {
+    "id": 8,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "ibukota kec": "Pogo Katoda",
+    "luas kecamatan (km2)": 133.68,
+    "persentase terhadap luas kabupaten": 18.128068129424207,
+    "sumber": "Badan Pertanahan Nasional (ATR/BPN) Kabupaten Sumba Barat Berdasarkan web big.go.id"
+  },
+  {
+    "id": 9,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "ibukota kec": "Hodi",
+    "luas kecamatan (km2)": 161.23,
+    "persentase terhadap luas kabupaten": 21.864066610615385,
+    "sumber": "Badan Pertanahan Nasional (ATR/BPN) Kabupaten Sumba Barat Berdasarkan web big.go.id"
+  },
+  {
+    "id": 10,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "ibukota kec": "Dokakaka",
+    "luas kecamatan (km2)": 132.36,
+    "persentase terhadap luas kabupaten": 17.949065661359874,
+    "sumber": "Badan Pertanahan Nasional (ATR/BPN) Kabupaten Sumba Barat Berdasarkan web big.go.id"
+  },
+  {
+    "id": 11,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "ibukota kec": "Waikabubak",
+    "luas kecamatan (km2)": 44.71,
+    "persentase terhadap luas kabupaten": 6.063030566027501,
+    "sumber": "Badan Pertanahan Nasional (ATR/BPN) Kabupaten Sumba Barat Berdasarkan web big.go.id"
+  },
+  {
+    "id": 12,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "ibukota kec": "Malata",
+    "luas kecamatan (km2)": 139.79,
+    "persentase terhadap luas kabupaten": 18.9566325838735,
+    "sumber": "Badan Pertanahan Nasional (ATR/BPN) Kabupaten Sumba Barat Berdasarkan web big.go.id"
+  },
+  {
+    "id": 13,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "ibukota kec": "Kabukarudi",
+    "luas kecamatan (km2)": 125.65,
+    "persentase terhadap luas kabupaten": 17.03913644869952,
+    "sumber": "Badan Pertanahan Nasional (ATR/BPN) Kabupaten Sumba Barat Berdasarkan web big.go.id"
+  },
+  {
+    "id": 14,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "ibukota kec": "Pogo Katoda",
+    "luas kecamatan (km2)": 133.68,
+    "persentase terhadap luas kabupaten": 18.128068129424207,
+    "sumber": "Badan Pertanahan Nasional (ATR/BPN) Kabupaten Sumba Barat Berdasarkan web big.go.id"
+  },
+  {
+    "id": 15,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "ibukota kec": "Hodi",
+    "luas kecamatan (km2)": 161.23,
+    "persentase terhadap luas kabupaten": 21.864066610615385,
+    "sumber": "Badan Pertanahan Nasional (ATR/BPN) Kabupaten Sumba Barat Berdasarkan web big.go.id"
+  },
+  {
+    "id": 16,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "ibukota kec": "Dokakaka",
+    "luas kecamatan (km2)": 132.36,
+    "persentase terhadap luas kabupaten": 17.949065661359874,
+    "sumber": "Badan Pertanahan Nasional (ATR/BPN) Kabupaten Sumba Barat Berdasarkan web big.go.id"
+  },
+  {
+    "id": 17,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "ibukota kec": "Waikabubak",
+    "luas kecamatan (km2)": 44.71,
+    "persentase terhadap luas kabupaten": 6.063030566027501,
+    "sumber": "Badan Pertanahan Nasional (ATR/BPN) Kabupaten Sumba Barat Berdasarkan web big.go.id"
+  },
+  {
+    "id": 18,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "ibukota kec": "Malata",
+    "luas kecamatan (km2)": 139.79,
+    "persentase terhadap luas kabupaten": 18.9566325838735,
+    "sumber": "Badan Pertanahan Nasional (ATR/BPN) Kabupaten Sumba Barat Berdasarkan web big.go.id"
+  }
+]
