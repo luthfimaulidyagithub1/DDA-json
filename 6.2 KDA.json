@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "tahun": 2020,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jumlah pelanggan listrik": 1616,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 2,
+    "tahun": 2020,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jumlah pelanggan listrik": 118,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 3,
+    "tahun": 2020,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jumlah pelanggan listrik": 0,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 4,
+    "tahun": 2020,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jumlah pelanggan listrik": 0,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 5,
+    "tahun": 2020,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jumlah pelanggan listrik": 9873,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 6,
+    "tahun": 2020,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jumlah pelanggan listrik": 0,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 7,
+    "tahun": 2021,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jumlah pelanggan listrik": 1204,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 8,
+    "tahun": 2021,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jumlah pelanggan listrik": 2056,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 9,
+    "tahun": 2021,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jumlah pelanggan listrik": 195,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 10,
+    "tahun": 2021,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jumlah pelanggan listrik": 4467,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 11,
+    "tahun": 2021,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jumlah pelanggan listrik": 6256,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 12,
+    "tahun": 2021,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jumlah pelanggan listrik": 0,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 13,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jumlah pelanggan listrik": 1416,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 14,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jumlah pelanggan listrik": 2334,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 15,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jumlah pelanggan listrik": 449,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 16,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jumlah pelanggan listrik": 493,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 17,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jumlah pelanggan listrik": 7106,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 18,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jumlah pelanggan listrik": 233,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 19,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jumlah pelanggan listrik": 1785,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 20,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jumlah pelanggan listrik": 2437,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 21,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jumlah pelanggan listrik": 513,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 22,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jumlah pelanggan listrik": 5159,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 23,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jumlah pelanggan listrik": 73,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 24,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jumlah pelanggan listrik": 241,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 25,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jumlah pelanggan listrik": 2316,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 26,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jumlah pelanggan listrik": 2854,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 27,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jumlah pelanggan listrik": 557,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 28,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jumlah pelanggan listrik": 5628,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 29,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jumlah pelanggan listrik": 7651,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  },
+  {
+    "id": 30,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jumlah pelanggan listrik": 2099,
+    "sumber": "PT. PLN (Persero) Ranting Waikabubak"
+  }
+]
