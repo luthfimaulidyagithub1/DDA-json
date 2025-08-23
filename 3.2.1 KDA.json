@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "tahun": 2022,
+    "kategori": "Angkatan Kerja",
+    "jumlah": 67587,
+    "kegiatan utama": "Bekerja",
+    "laki": 37393,
+    "perempuan": 28178,
+    "lk dan pr": 65571,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 2,
+    "tahun": 2022,
+    "kategori": "Angkatan Kerja",
+    "jumlah": 67587,
+    "kegiatan utama": "Pengangguran Terbuka",
+    "laki": 1308,
+    "perempuan": 708,
+    "lk dan pr": 2016,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 3,
+    "tahun": 2022,
+    "kategori": "Bukan Angkatan Kerja",
+    "jumlah": 23808,
+    "kegiatan utama": "Sekolah",
+    "laki": 3884,
+    "perempuan": 4288,
+    "lk dan pr": 8172,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 4,
+    "tahun": 2022,
+    "kategori": "Bukan Angkatan Kerja",
+    "jumlah": 23808,
+    "kegiatan utama": "Mengurus Rumah Tangga",
+    "laki": 3294,
+    "perempuan": 9494,
+    "lk dan pr": 12788,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 5,
+    "tahun": 2022,
+    "kategori": "Bukan Angkatan Kerja",
+    "jumlah": 23808,
+    "kegiatan utama": "Lainnya",
+    "laki": 1513,
+    "perempuan": 1335,
+    "lk dan pr": 2848,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 6,
+    "tahun": 2023,
+    "kategori": "Angkatan Kerja",
+    "jumlah": 81775,
+    "kegiatan utama": "Bekerja",
+    "laki": 43565,
+    "perempuan": 35333,
+    "lk dan pr": 78898,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 7,
+    "tahun": 2023,
+    "kategori": "Angkatan Kerja",
+    "jumlah": 81775,
+    "kegiatan utama": "Pengangguran Terbuka",
+    "laki": 1193,
+    "perempuan": 1684,
+    "lk dan pr": 2877,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 8,
+    "tahun": 2023,
+    "kategori": "Bukan Angkatan Kerja",
+    "jumlah": 21966,
+    "kegiatan utama": "Sekolah",
+    "laki": 3650,
+    "perempuan": 4129,
+    "lk dan pr": 7779,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 9,
+    "tahun": 2023,
+    "kategori": "Bukan Angkatan Kerja",
+    "jumlah": 21966,
+    "kegiatan utama": "Mengurus Rumah Tangga",
+    "laki": 1836,
+    "perempuan": 7611,
+    "lk dan pr": 9447,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 10,
+    "tahun": 2023,
+    "kategori": "Bukan Angkatan Kerja",
+    "jumlah": 21966,
+    "kegiatan utama": "Lainnya",
+    "laki": 2887,
+    "perempuan": 1853,
+    "lk dan pr": 4740,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 11,
+    "tahun": 2024,
+    "kategori": "Angkatan Kerja",
+    "jumlah": 81647,
+    "kegiatan utama": "Bekerja",
+    "laki": 43143,
+    "perempuan": 35882,
+    "lk dan pr": 79025,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 12,
+    "tahun": 2024,
+    "kategori": "Angkatan Kerja",
+    "jumlah": 81647,
+    "kegiatan utama": "Pengangguran Terbuka",
+    "laki": 993,
+    "perempuan": 1629,
+    "lk dan pr": 2622,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 13,
+    "tahun": 2024,
+    "kategori": "Bukan Angkatan Kerja",
+    "jumlah": 24132,
+    "kegiatan utama": "Sekolah",
+    "laki": 4854,
+    "perempuan": 4659,
+    "lk dan pr": 9513,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 14,
+    "tahun": 2024,
+    "kategori": "Bukan Angkatan Kerja",
+    "jumlah": 24132,
+    "kegiatan utama": "Mengurus Rumah Tangga",
+    "laki": 3156,
+    "perempuan": 8612,
+    "lk dan pr": 11768,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 15,
+    "tahun": 2024,
+    "kategori": "Bukan Angkatan Kerja",
+    "jumlah": 24132,
+    "kegiatan utama": "Lainnya",
+    "laki": 2027,
+    "perempuan": 824,
+    "lk dan pr": 2851,
+    "sumber": "Sakernas Agustus"
+  }
+]
