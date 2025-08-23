@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "tahun": 2022,
+    "pendidikan": "Sekolah Dasar (SD)",
+    "laki": 16,
+    "perempuan": 0,
+    "jumlah": 16,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 2,
+    "tahun": 2022,
+    "pendidikan": "Sekolah Menengah Pertama (SMP)",
+    "laki": 20,
+    "perempuan": 3,
+    "jumlah": 23,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 3,
+    "tahun": 2022,
+    "pendidikan": "Sekolah Menengah Atas (SMA)",
+    "laki": 296,
+    "perempuan": 207,
+    "jumlah": 503,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 4,
+    "tahun": 2022,
+    "pendidikan": "Diploma I/Akta I",
+    "laki": 1,
+    "perempuan": 3,
+    "jumlah": 4,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 5,
+    "tahun": 2022,
+    "pendidikan": "Diploma II/Akta II",
+    "laki": 16,
+    "perempuan": 31,
+    "jumlah": 47,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 6,
+    "tahun": 2022,
+    "pendidikan": "Diploma III/Akta III",
+    "laki": 100,
+    "perempuan": 271,
+    "jumlah": 371,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 7,
+    "tahun": 2022,
+    "pendidikan": "Diploma IV/Akta IV",
+    "laki": 33,
+    "perempuan": 15,
+    "jumlah": 48,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 8,
+    "tahun": 2022,
+    "pendidikan": "S1/Sarjana",
+    "laki": 531,
+    "perempuan": 724,
+    "jumlah": 1255,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 9,
+    "tahun": 2022,
+    "pendidikan": "S2/Pasca Sarjana",
+    "laki": 36,
+    "perempuan": 19,
+    "jumlah": 55,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 10,
+    "tahun": 2022,
+    "pendidikan": "S3/Doktor/Ph.D",
+    "laki": 0,
+    "perempuan": 0,
+    "jumlah": 0,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 11,
+    "tahun": 2023,
+    "pendidikan": "Sekolah Dasar (SD)",
+    "laki": 13,
+    "perempuan": 0,
+    "jumlah": 13,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 12,
+    "tahun": 2023,
+    "pendidikan": "Sekolah Menengah Pertama (SMP)",
+    "laki": 16,
+    "perempuan": 2,
+    "jumlah": 18,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 13,
+    "tahun": 2023,
+    "pendidikan": "Sekolah Menengah Atas (SMA)",
+    "laki": 278,
+    "perempuan": 177,
+    "jumlah": 455,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 14,
+    "tahun": 2023,
+    "pendidikan": "Diploma I/Akta I",
+    "laki": 0,
+    "perempuan": 3,
+    "jumlah": 3,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 15,
+    "tahun": 2023,
+    "pendidikan": "Diploma II/Akta II",
+    "laki": 14,
+    "perempuan": 25,
+    "jumlah": 39,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 16,
+    "tahun": 2023,
+    "pendidikan": "Diploma III/Akta III",
+    "laki": 93,
+    "perempuan": 267,
+    "jumlah": 360,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 17,
+    "tahun": 2023,
+    "pendidikan": "Diploma IV/Akta IV",
+    "laki": 0,
+    "perempuan": 0,
+    "jumlah": 0,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 18,
+    "tahun": 2023,
+    "pendidikan": "S1/Sarjana",
+    "laki": 552,
+    "perempuan": 736,
+    "jumlah": 1288,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 19,
+    "tahun": 2023,
+    "pendidikan": "S2/Pasca Sarjana",
+    "laki": 39,
+    "perempuan": 20,
+    "jumlah": 59,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 20,
+    "tahun": 2023,
+    "pendidikan": "S3/Doktor/Ph.D",
+    "laki": 0,
+    "perempuan": 0,
+    "jumlah": 0,
+    "sumber": "Badan Kepegawaian Negara (BKN)"
+  },
+  {
+    "id": 21,
+    "tahun": 2024,
+    "pendidikan": "Sekolah Dasar (SD)",
+    "laki": 13,
+    "perempuan": 0,
+    "jumlah": 13,
+    "sumber": ""
+  },
+  {
+    "id": 22,
+    "tahun": 2024,
+    "pendidikan": "Sekolah Menengah Pertama (SMP)",
+    "laki": 15,
+    "perempuan": 2,
+    "jumlah": 17,
+    "sumber": ""
+  },
+  {
+    "id": 23,
+    "tahun": 2024,
+    "pendidikan": "Sekolah Menengah Atas (SMA)",
+    "laki": 260,
+    "perempuan": 163,
+    "jumlah": 423,
+    "sumber": ""
+  },
+  {
+    "id": 24,
+    "tahun": 2024,
+    "pendidikan": "Diploma I/Akta I",
+    "laki": 0,
+    "perempuan": 1,
+    "jumlah": 1,
+    "sumber": ""
+  },
+  {
+    "id": 25,
+    "tahun": 2024,
+    "pendidikan": "Diploma II/Akta II",
+    "laki": 13,
+    "perempuan": 22,
+    "jumlah": 35,
+    "sumber": ""
+  },
+  {
+    "id": 26,
+    "tahun": 2024,
+    "pendidikan": "Diploma III/Akta III",
+    "laki": 90,
+    "perempuan": 256,
+    "jumlah": 346,
+    "sumber": ""
+  },
+  {
+    "id": 27,
+    "tahun": 2024,
+    "pendidikan": "Diploma IV/Akta IV",
+    "laki": 31,
+    "perempuan": 13,
+    "jumlah": 44,
+    "sumber": ""
+  },
+  {
+    "id": 28,
+    "tahun": 2024,
+    "pendidikan": "S1/Sarjana",
+    "laki": 494,
+    "perempuan": 703,
+    "jumlah": 1197,
+    "sumber": ""
+  },
+  {
+    "id": 29,
+    "tahun": 2024,
+    "pendidikan": "S2/Pasca Sarjana",
+    "laki": 43,
+    "perempuan": 24,
+    "jumlah": 67,
+    "sumber": ""
+  },
+  {
+    "id": 30,
+    "tahun": 2024,
+    "pendidikan": "S3/Doktor/Ph.D",
+    "laki": 0,
+    "perempuan": 0,
+    "jumlah": 0,
+    "sumber": ""
+  }
+]
