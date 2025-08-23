@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis kapal": "Perahu Tanpa Motor",
+    "jumlah": 50,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 2,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis kapal": "Perahu Tanpa Motor",
+    "jumlah": 350,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 3,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis kapal": "Perahu Tanpa Motor",
+    "jumlah": 10,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 4,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis kapal": "Perahu Tanpa Motor",
+    "jumlah": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 5,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis kapal": "Perahu Tanpa Motor",
+    "jumlah": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 6,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis kapal": "Perahu Tanpa Motor",
+    "jumlah": 15,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 7,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis kapal": "Perahu Motor Tempel",
+    "jumlah": 27,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 8,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis kapal": "Perahu Motor Tempel",
+    "jumlah": 384,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 9,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis kapal": "Perahu Motor Tempel",
+    "jumlah": 35,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 10,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis kapal": "Perahu Motor Tempel",
+    "jumlah": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 11,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis kapal": "Perahu Motor Tempel",
+    "jumlah": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 12,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis kapal": "Perahu Motor Tempel",
+    "jumlah": 30,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 13,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis kapal": "Kapal Motor",
+    "jumlah": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 14,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis kapal": "Kapal Motor",
+    "jumlah": 50,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 15,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis kapal": "Kapal Motor",
+    "jumlah": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 16,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis kapal": "Kapal Motor",
+    "jumlah": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 17,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis kapal": "Kapal Motor",
+    "jumlah": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 18,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis kapal": "Kapal Motor",
+    "jumlah": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 19,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis kapal": "Perahu Tanpa Motor",
+    "jumlah": 50,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 20,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis kapal": "Perahu Tanpa Motor",
+    "jumlah": 350,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 21,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis kapal": "Perahu Tanpa Motor",
+    "jumlah": 10,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 22,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis kapal": "Perahu Tanpa Motor",
+    "jumlah": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 23,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis kapal": "Perahu Tanpa Motor",
+    "jumlah": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 24,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis kapal": "Perahu Tanpa Motor",
+    "jumlah": 15,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 25,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis kapal": "Perahu Motor Tempel",
+    "jumlah": 27,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 26,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis kapal": "Perahu Motor Tempel",
+    "jumlah": 384,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 27,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis kapal": "Perahu Motor Tempel",
+    "jumlah": 35,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 28,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis kapal": "Perahu Motor Tempel",
+    "jumlah": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 29,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis kapal": "Perahu Motor Tempel",
+    "jumlah": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 30,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis kapal": "Perahu Motor Tempel",
+    "jumlah": 30,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 31,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis kapal": "Kapal Motor",
+    "jumlah": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 32,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis kapal": "Kapal Motor",
+    "jumlah": 10,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 33,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis kapal": "Kapal Motor",
+    "jumlah": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 34,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis kapal": "Kapal Motor",
+    "jumlah": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 35,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis kapal": "Kapal Motor",
+    "jumlah": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 36,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis kapal": "Kapal Motor",
+    "jumlah": 0,
+    "sumber": "Dinas Perikanan Kabupaten Sumba Barat"
+  }
+]
