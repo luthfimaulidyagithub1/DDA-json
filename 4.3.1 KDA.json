@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "agama": "Islam",
+    "jumlah penduduk": 401,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 2,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "agama": "Kristen Protestan",
+    "jumlah penduduk": 9214,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 3,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "agama": "Kristen Katolik",
+    "jumlah penduduk": 1358,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 4,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "agama": "Hindu",
+    "jumlah penduduk": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 5,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "agama": "Budha",
+    "jumlah penduduk": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 6,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "agama": "Lainnya",
+    "jumlah penduduk": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 7,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "agama": "Islam",
+    "jumlah penduduk": 365,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 8,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "agama": "Kristen Protestan",
+    "jumlah penduduk": 14638,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 9,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "agama": "Kristen Katolik",
+    "jumlah penduduk": 2394,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 10,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "agama": "Hindu",
+    "jumlah penduduk": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 11,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "agama": "Budha",
+    "jumlah penduduk": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 12,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "agama": "Lainnya",
+    "jumlah penduduk": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 13,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "agama": "Islam",
+    "jumlah penduduk": 259,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 14,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "agama": "Kristen Protestan",
+    "jumlah penduduk": 6485,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 15,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "agama": "Kristen Katolik",
+    "jumlah penduduk": 1251,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 16,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "agama": "Hindu",
+    "jumlah penduduk": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 17,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "agama": "Budha",
+    "jumlah penduduk": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 18,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "agama": "Lainnya",
+    "jumlah penduduk": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 19,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "agama": "Islam",
+    "jumlah penduduk": 2044,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 20,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "agama": "Kristen Protestan",
+    "jumlah penduduk": 17192,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 21,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "agama": "Kristen Katolik",
+    "jumlah penduduk": 9128,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 22,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "agama": "Hindu",
+    "jumlah penduduk": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 23,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "agama": "Budha",
+    "jumlah penduduk": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 24,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "agama": "Lainnya",
+    "jumlah penduduk": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 25,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "agama": "Islam",
+    "jumlah penduduk": 7323,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 26,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "agama": "Kristen Protestan",
+    "jumlah penduduk": 19437,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 27,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "agama": "Kristen Katolik",
+    "jumlah penduduk": 4800,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 28,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "agama": "Hindu",
+    "jumlah penduduk": 160,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 29,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "agama": "Budha",
+    "jumlah penduduk": 5,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 30,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "agama": "Lainnya",
+    "jumlah penduduk": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 31,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "agama": "Islam",
+    "jumlah penduduk": 489,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 32,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "agama": "Kristen Protestan",
+    "jumlah penduduk": 17097,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 33,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "agama": "Kristen Katolik",
+    "jumlah penduduk": 8059,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 34,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "agama": "Hindu",
+    "jumlah penduduk": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 35,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "agama": "Budha",
+    "jumlah penduduk": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  },
+  {
+    "id": 36,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "agama": "Lainnya",
+    "jumlah penduduk": 0,
+    "sumber": "Kantor Kementerian Agama Kabupaten Sumba Barat"
+  }
+]
