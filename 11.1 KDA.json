@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "tahun": 2022,
+    "jenis sarana perdagangan": "Pasar",
+    "jumlah": 14,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 2,
+    "tahun": 2022,
+    "jenis sarana perdagangan": "Toko",
+    "jumlah": 207,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 3,
+    "tahun": 2022,
+    "jenis sarana perdagangan": "Kios",
+    "jumlah": 962,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 4,
+    "tahun": 2022,
+    "jenis sarana perdagangan": "Warung",
+    "jumlah": 136,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 5,
+    "tahun": 2023,
+    "jenis sarana perdagangan": "Pasar",
+    "jumlah": 14,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 6,
+    "tahun": 2023,
+    "jenis sarana perdagangan": "Toko",
+    "jumlah": 207,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 7,
+    "tahun": 2023,
+    "jenis sarana perdagangan": "Kios",
+    "jumlah": 993,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 8,
+    "tahun": 2023,
+    "jenis sarana perdagangan": "Warung",
+    "jumlah": 139,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 9,
+    "tahun": 2024,
+    "jenis sarana perdagangan": "Pasar",
+    "jumlah": 14,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 10,
+    "tahun": 2024,
+    "jenis sarana perdagangan": "Toko",
+    "jumlah": 214,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 11,
+    "tahun": 2024,
+    "jenis sarana perdagangan": "Kios",
+    "jumlah": 993,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  },
+  {
+    "id": 12,
+    "tahun": 2024,
+    "jenis sarana perdagangan": "Warung",
+    "jumlah": 171,
+    "sumber": "Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sumba Barat"
+  }
+]
