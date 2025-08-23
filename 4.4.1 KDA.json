@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "tahun": 2017,
+    "garis kemiskinan": 315066,
+    "penduduk miskin": 36.69,
+    "persentase": 29.28,
+    "indeks kedalaman kemiskinan": 5.54,
+    "indeks keparahan kemiskinan": 1.51,
+    "sumber": "Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 2,
+    "tahun": 2018,
+    "garis kemiskinan": 326334,
+    "penduduk miskin": 36.03,
+    "persentase": 28.51,
+    "indeks kedalaman kemiskinan": 4.33,
+    "indeks keparahan kemiskinan": 0.93,
+    "sumber": "Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 3,
+    "tahun": 2019,
+    "garis kemiskinan": 331713,
+    "penduduk miskin": 36.56,
+    "persentase": 28.29,
+    "indeks kedalaman kemiskinan": 5.11,
+    "indeks keparahan kemiskinan": 1.37,
+    "sumber": "Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 4,
+    "tahun": 2020,
+    "garis kemiskinan": 358252,
+    "penduduk miskin": 36.95,
+    "persentase": 28.17,
+    "indeks kedalaman kemiskinan": 5.56,
+    "indeks keparahan kemiskinan": 1.52,
+    "sumber": "Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 5,
+    "tahun": 2021,
+    "garis kemiskinan": 364361,
+    "penduduk miskin": 37.78,
+    "persentase": 28.39,
+    "indeks kedalaman kemiskinan": 6.77,
+    "indeks keparahan kemiskinan": 2.16,
+    "sumber": "Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 6,
+    "tahun": 2022,
+    "garis kemiskinan": 395592,
+    "penduduk miskin": 37.06,
+    "persentase": 27.47,
+    "indeks kedalaman kemiskinan": 5.53,
+    "indeks keparahan kemiskinan": 1.5,
+    "sumber": "Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 7,
+    "tahun": 2023,
+    "garis kemiskinan": 422382,
+    "penduduk miskin": 37.15,
+    "persentase": 27.17,
+    "indeks kedalaman kemiskinan": 6.92,
+    "indeks keparahan kemiskinan": 2.3,
+    "sumber": "Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  },
+  {
+    "id": 8,
+    "tahun": 2024,
+    "garis kemiskinan": 441428,
+    "penduduk miskin": 36.72,
+    "persentase": 26.52,
+    "indeks kedalaman kemiskinan": 5.25,
+    "indeks keparahan kemiskinan": 1.43,
+    "sumber": "Survei Sosial Ekonomi Nasional (Susenas) Maret"
+  }
+]
