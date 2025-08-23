@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "sumber penerangan jalan utama": "Listrik Pemerintah",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 2,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "sumber penerangan jalan utama": "Listrik Non-Pemerintah",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 3,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "sumber penerangan jalan utama": "Non Listrik",
+    "jumlah desa": 10,
+    "sumber": "Podes"
+  },
+  {
+    "id": 4,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "sumber penerangan jalan utama": "Listrik Pemerintah",
+    "jumlah desa": 3,
+    "sumber": "Podes"
+  },
+  {
+    "id": 5,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "sumber penerangan jalan utama": "Listrik Non-Pemerintah",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 6,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "sumber penerangan jalan utama": "Non Listrik",
+    "jumlah desa": 11,
+    "sumber": "Podes"
+  },
+  {
+    "id": 7,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "sumber penerangan jalan utama": "Listrik Pemerintah",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 8,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "sumber penerangan jalan utama": "Listrik Non-Pemerintah",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 9,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "sumber penerangan jalan utama": "Non Listrik",
+    "jumlah desa": 4,
+    "sumber": "Podes"
+  },
+  {
+    "id": 10,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "sumber penerangan jalan utama": "Listrik Pemerintah",
+    "jumlah desa": 5,
+    "sumber": "Podes"
+  },
+  {
+    "id": 11,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "sumber penerangan jalan utama": "Listrik Non-Pemerintah",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 12,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "sumber penerangan jalan utama": "Non Listrik",
+    "jumlah desa": 9,
+    "sumber": "Podes"
+  },
+  {
+    "id": 13,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "sumber penerangan jalan utama": "Listrik Pemerintah",
+    "jumlah desa": 9,
+    "sumber": "Podes"
+  },
+  {
+    "id": 14,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "sumber penerangan jalan utama": "Listrik Non-Pemerintah",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 15,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "sumber penerangan jalan utama": "Non Listrik",
+    "jumlah desa": 4,
+    "sumber": "Podes"
+  },
+  {
+    "id": 16,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "sumber penerangan jalan utama": "Listrik Pemerintah",
+    "jumlah desa": 5,
+    "sumber": "Podes"
+  },
+  {
+    "id": 17,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "sumber penerangan jalan utama": "Listrik Non-Pemerintah",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 18,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "sumber penerangan jalan utama": "Non Listrik",
+    "jumlah desa": 13,
+    "sumber": "Podes"
+  },
+  {
+    "id": 19,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "sumber penerangan jalan utama": "Listrik Pemerintah",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 20,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "sumber penerangan jalan utama": "Listrik Non-Pemerintah",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 21,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "sumber penerangan jalan utama": "Non Listrik",
+    "jumlah desa": 10,
+    "sumber": "Podes"
+  },
+  {
+    "id": 22,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "sumber penerangan jalan utama": "Listrik Pemerintah",
+    "jumlah desa": 3,
+    "sumber": "Podes"
+  },
+  {
+    "id": 23,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "sumber penerangan jalan utama": "Listrik Non-Pemerintah",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 24,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "sumber penerangan jalan utama": "Non Listrik",
+    "jumlah desa": 11,
+    "sumber": "Podes"
+  },
+  {
+    "id": 25,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "sumber penerangan jalan utama": "Listrik Pemerintah",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 26,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "sumber penerangan jalan utama": "Listrik Non-Pemerintah",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 27,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "sumber penerangan jalan utama": "Non Listrik",
+    "jumlah desa": 4,
+    "sumber": "Podes"
+  },
+  {
+    "id": 28,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "sumber penerangan jalan utama": "Listrik Pemerintah",
+    "jumlah desa": 5,
+    "sumber": "Podes"
+  },
+  {
+    "id": 29,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "sumber penerangan jalan utama": "Listrik Non-Pemerintah",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 30,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "sumber penerangan jalan utama": "Non Listrik",
+    "jumlah desa": 9,
+    "sumber": "Podes"
+  },
+  {
+    "id": 31,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "sumber penerangan jalan utama": "Listrik Pemerintah",
+    "jumlah desa": 9,
+    "sumber": "Podes"
+  },
+  {
+    "id": 32,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "sumber penerangan jalan utama": "Listrik Non-Pemerintah",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 33,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "sumber penerangan jalan utama": "Non Listrik",
+    "jumlah desa": 4,
+    "sumber": "Podes"
+  },
+  {
+    "id": 34,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "sumber penerangan jalan utama": "Listrik Pemerintah",
+    "jumlah desa": 5,
+    "sumber": "Podes"
+  },
+  {
+    "id": 35,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "sumber penerangan jalan utama": "Listrik Non-Pemerintah",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 36,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "sumber penerangan jalan utama": "Non Listrik",
+    "jumlah desa": 13,
+    "sumber": "Podes"
+  }
+]
