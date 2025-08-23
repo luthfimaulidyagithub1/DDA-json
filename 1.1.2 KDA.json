@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "tahun": 2022,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tinggi wilayah (mdpl)": "0-700",
+    "jarak ke ibukota kabupaten (km)": 12,
+    "sumber": "Badan Pertahanan Nasional (ATR/BPN) dan Dinas Pemberdayaan Masyarakat Desa Kabupaten Sumba Barat"
+  },
+  {
+    "id": 2,
+    "tahun": 2022,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tinggi wilayah (mdpl)": "0-450",
+    "jarak ke ibukota kabupaten (km)": 10,
+    "sumber": "Badan Pertahanan Nasional (ATR/BPN) dan Dinas Pemberdayaan Masyarakat Desa Kabupaten Sumba Barat"
+  },
+  {
+    "id": 3,
+    "tahun": 2022,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tinggi wilayah (mdpl)": "0-700",
+    "jarak ke ibukota kabupaten (km)": 46,
+    "sumber": "Badan Pertahanan Nasional (ATR/BPN) dan Dinas Pemberdayaan Masyarakat Desa Kabupaten Sumba Barat"
+  },
+  {
+    "id": 4,
+    "tahun": 2022,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tinggi wilayah (mdpl)": "200-600",
+    "jarak ke ibukota kabupaten (km)": 15,
+    "sumber": "Badan Pertahanan Nasional (ATR/BPN) dan Dinas Pemberdayaan Masyarakat Desa Kabupaten Sumba Barat"
+  },
+  {
+    "id": 5,
+    "tahun": 2022,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "tinggi wilayah (mdpl)": "200-600",
+    "jarak ke ibukota kabupaten (km)": 2,
+    "sumber": "Badan Pertahanan Nasional (ATR/BPN) dan Dinas Pemberdayaan Masyarakat Desa Kabupaten Sumba Barat"
+  },
+  {
+    "id": 6,
+    "tahun": 2022,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tinggi wilayah (mdpl)": "0-550",
+    "jarak ke ibukota kabupaten (km)": 33,
+    "sumber": "Badan Pertahanan Nasional (ATR/BPN) dan Dinas Pemberdayaan Masyarakat Desa Kabupaten Sumba Barat"
+  },
+  {
+    "id": 7,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tinggi wilayah (mdpl)": "0-700",
+    "jarak ke ibukota kabupaten (km)": 12,
+    "sumber": "Badan Pertahanan Nasional (ATR/BPN) dan Dinas Pemberdayaan Masyarakat Desa Kabupaten Sumba Barat"
+  },
+  {
+    "id": 8,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tinggi wilayah (mdpl)": "0-450",
+    "jarak ke ibukota kabupaten (km)": 10,
+    "sumber": "Badan Pertahanan Nasional (ATR/BPN) dan Dinas Pemberdayaan Masyarakat Desa Kabupaten Sumba Barat"
+  },
+  {
+    "id": 9,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tinggi wilayah (mdpl)": "0-700",
+    "jarak ke ibukota kabupaten (km)": 46,
+    "sumber": "Badan Pertahanan Nasional (ATR/BPN) dan Dinas Pemberdayaan Masyarakat Desa Kabupaten Sumba Barat"
+  },
+  {
+    "id": 10,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tinggi wilayah (mdpl)": "200-600",
+    "jarak ke ibukota kabupaten (km)": 15,
+    "sumber": "Badan Pertahanan Nasional (ATR/BPN) dan Dinas Pemberdayaan Masyarakat Desa Kabupaten Sumba Barat"
+  },
+  {
+    "id": 11,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "tinggi wilayah (mdpl)": "200-600",
+    "jarak ke ibukota kabupaten (km)": 2,
+    "sumber": "Badan Pertahanan Nasional (ATR/BPN) dan Dinas Pemberdayaan Masyarakat Desa Kabupaten Sumba Barat"
+  },
+  {
+    "id": 12,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tinggi wilayah (mdpl)": "0-550",
+    "jarak ke ibukota kabupaten (km)": 33,
+    "sumber": "Badan Pertahanan Nasional (ATR/BPN) dan Dinas Pemberdayaan Masyarakat Desa Kabupaten Sumba Barat"
+  },
+  {
+    "id": 13,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "tinggi wilayah (mdpl)": "0-700",
+    "jarak ke ibukota kabupaten (km)": 12,
+    "sumber": "Badan Pertahanan Nasional (ATR/BPN) dan Dinas Pemberdayaan Masyarakat Desa Kabupaten Sumba Barat"
+  },
+  {
+    "id": 14,
+    "tahun": 2024,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "tinggi wilayah (mdpl)": "0-450",
+    "jarak ke ibukota kabupaten (km)": 10,
+    "sumber": "Badan Pertahanan Nasional (ATR/BPN) dan Dinas Pemberdayaan Masyarakat Desa Kabupaten Sumba Barat"
+  },
+  {
+    "id": 15,
+    "tahun": 2024,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "tinggi wilayah (mdpl)": "0-700",
+    "jarak ke ibukota kabupaten (km)": 46,
+    "sumber": "Badan Pertahanan Nasional (ATR/BPN) dan Dinas Pemberdayaan Masyarakat Desa Kabupaten Sumba Barat"
+  },
+  {
+    "id": 16,
+    "tahun": 2024,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "tinggi wilayah (mdpl)": "200-600",
+    "jarak ke ibukota kabupaten (km)": 15,
+    "sumber": "Badan Pertahanan Nasional (ATR/BPN) dan Dinas Pemberdayaan Masyarakat Desa Kabupaten Sumba Barat"
+  },
+  {
+    "id": 17,
+    "tahun": 2024,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "tinggi wilayah (mdpl)": "200-600",
+    "jarak ke ibukota kabupaten (km)": 2,
+    "sumber": "Badan Pertahanan Nasional (ATR/BPN) dan Dinas Pemberdayaan Masyarakat Desa Kabupaten Sumba Barat"
+  },
+  {
+    "id": 18,
+    "tahun": 2024,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "tinggi wilayah (mdpl)": "0-550",
+    "jarak ke ibukota kabupaten (km)": 33,
+    "sumber": "Badan Pertahanan Nasional (ATR/BPN) dan Dinas Pemberdayaan Masyarakat Desa Kabupaten Sumba Barat"
+  }
+]
