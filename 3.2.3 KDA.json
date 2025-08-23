@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "tahun": 2022,
+    "status pekerjaan utama": "Berusaha sendiri",
+    "laki": 6699,
+    "perempuan": 8015,
+    "jumlah": 14714,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 2,
+    "tahun": 2022,
+    "status pekerjaan utama": "Berusaha dibantu buruh tidak tetap/buruh tidak dibayar",
+    "laki": 15094,
+    "perempuan": 4903,
+    "jumlah": 19997,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 3,
+    "tahun": 2022,
+    "status pekerjaan utama": "Berusaha dibantu buruh tetap/buruh dibayar",
+    "laki": 357,
+    "perempuan": 0,
+    "jumlah": 357,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 4,
+    "tahun": 2022,
+    "status pekerjaan utama": "Buruh/karyawan/pegawai",
+    "laki": 7523,
+    "perempuan": 5251,
+    "jumlah": 12774,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 5,
+    "tahun": 2022,
+    "status pekerjaan utama": "Pekerja bebas",
+    "laki": 1237,
+    "perempuan": 56,
+    "jumlah": 1293,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 6,
+    "tahun": 2022,
+    "status pekerjaan utama": "Pekerja keluarga/tak dibayar",
+    "laki": 6483,
+    "perempuan": 9953,
+    "jumlah": 16436,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 7,
+    "tahun": 2023,
+    "status pekerjaan utama": "Berusaha sendiri",
+    "laki": 5716,
+    "perempuan": 8951,
+    "jumlah": 14667,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 8,
+    "tahun": 2023,
+    "status pekerjaan utama": "Berusaha dibantu buruh tidak tetap/buruh tidak dibayar",
+    "laki": 5350,
+    "perempuan": 4911,
+    "jumlah": 10261,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 9,
+    "tahun": 2023,
+    "status pekerjaan utama": "Berusaha dibantu buruh tetap/buruh dibayar",
+    "laki": 513,
+    "perempuan": 0,
+    "jumlah": 513,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 10,
+    "tahun": 2023,
+    "status pekerjaan utama": "Buruh/karyawan/pegawai",
+    "laki": 10630,
+    "perempuan": 6676,
+    "jumlah": 17306,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 11,
+    "tahun": 2023,
+    "status pekerjaan utama": "Pekerja bebas",
+    "laki": 87,
+    "perempuan": 0,
+    "jumlah": 87,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 12,
+    "tahun": 2023,
+    "status pekerjaan utama": "Pekerja keluarga/tak dibayar",
+    "laki": 906,
+    "perempuan": 54,
+    "jumlah": 960,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 13,
+    "tahun": 2024,
+    "status pekerjaan utama": "Berusaha sendiri",
+    "laki": 8961,
+    "perempuan": 7949,
+    "jumlah": 16910,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 14,
+    "tahun": 2024,
+    "status pekerjaan utama": "Berusaha dibantu buruh tidak tetap/buruh tidak dibayar",
+    "laki": 13725,
+    "perempuan": 5789,
+    "jumlah": 19514,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 15,
+    "tahun": 2024,
+    "status pekerjaan utama": "Berusaha dibantu buruh tetap/buruh dibayar",
+    "laki": 1036,
+    "perempuan": 0,
+    "jumlah": 1036,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 16,
+    "tahun": 2024,
+    "status pekerjaan utama": "Buruh/karyawan/pegawai",
+    "laki": 11523,
+    "perempuan": 9517,
+    "jumlah": 21040,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 17,
+    "tahun": 2024,
+    "status pekerjaan utama": "Pekerja bebas",
+    "laki": 450,
+    "perempuan": 50,
+    "jumlah": 500,
+    "sumber": "Sakernas Agustus"
+  },
+  {
+    "id": 18,
+    "tahun": 2024,
+    "status pekerjaan utama": "Pekerja keluarga/tak dibayar",
+    "laki": 292,
+    "perempuan": 0,
+    "jumlah": 292,
+    "sumber": "Sakernas Agustus"
+  }
+]
