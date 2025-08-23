@@ -1,0 +1,677 @@
+[
+  {
+    "id": 1,
+    "tahun": 2022,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Pajak Daerah/Regional Tax",
+    "realisasi": 27072305696.5,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 2,
+    "tahun": 2022,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Retribusi Daerah/Regional Retribution",
+    "realisasi": 2714348362,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 3,
+    "tahun": 2022,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Hasil Perusahaan Milik Daerah dan Pengelolaan Kekayaan Daerah yang Dipisahkan",
+    "realisasi": 4531104366,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 4,
+    "tahun": 2022,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Lain-lain PAD yang Sah/Other Regional Revenue",
+    "realisasi": 36027525295.58,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 5,
+    "tahun": 2022,
+    "kategori": "pendapatan",
+    "jenis": "Dana Perimbangan/Balance Funds",
+    "rincian": "Bagi Hasil Pajak/Tax Sharing Revenue",
+    "realisasi": 17457382028,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 6,
+    "tahun": 2022,
+    "kategori": "pendapatan",
+    "jenis": "Dana Perimbangan/Balance Funds",
+    "rincian": "Bagi Hasil Bukan Pajak/Sumber Daya Alam",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 7,
+    "tahun": 2022,
+    "kategori": "pendapatan",
+    "jenis": "Dana Perimbangan/Balance Funds",
+    "rincian": "Dana Alokasi Umum/General Allocation Fund",
+    "realisasi": 497135120276,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 8,
+    "tahun": 2022,
+    "kategori": "pendapatan",
+    "jenis": "Dana Perimbangan/Balance Funds",
+    "rincian": "Dana Alokasi Khusus/Special Allocation Fund",
+    "realisasi": 84811157000,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 9,
+    "tahun": 2022,
+    "kategori": "pendapatan",
+    "jenis": "Lain-lain Pendapatan yang Sah/Other Revenue",
+    "rincian": "Pendapatan Hibah/Grant",
+    "realisasi": 5058045500,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 10,
+    "tahun": 2022,
+    "kategori": "pendapatan",
+    "jenis": "Lain-lain Pendapatan yang Sah/Other Revenue",
+    "rincian": "Dana Darurat/Emergency Fund",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 11,
+    "tahun": 2022,
+    "kategori": "pendapatan",
+    "jenis": "Lain-lain Pendapatan yang Sah/Other Revenue",
+    "rincian": "Dana Bagi Hasil Pajak dari Provinsi dan Pemerintah Daerah Lainnya/Tax Sharing Revenue from Provincial and Other Regional Governments",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 12,
+    "tahun": 2022,
+    "kategori": "pendapatan",
+    "jenis": "Lain-lain Pendapatan yang Sah/Other Revenue",
+    "rincian": "Dana Penyesuaian dan Otonomi Daerah",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 13,
+    "tahun": 2022,
+    "kategori": "pendapatan",
+    "jenis": "Lain-lain Pendapatan yang Sah/Other Revenue",
+    "rincian": "Bantuan Keuangan dari Provinsi atau Pemerintah Daerah Lainnya/Financial Assistance from Provincial or Other Regional Governments",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 14,
+    "tahun": 2022,
+    "kategori": "pendapatan",
+    "jenis": "Lain-lain Pendapatan yang Sah/Other Revenue",
+    "rincian": "Lainnya/Others",
+    "realisasi": 18380922566,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 15,
+    "tahun": 2022,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Pegawai/Personnel Expenditures",
+    "realisasi": 181410642646,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 16,
+    "tahun": 2022,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Bunga/Interest Expenditures",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 17,
+    "tahun": 2022,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Subsidi/Subsidies Expenditures",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 18,
+    "tahun": 2022,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Hibah/Grant Expenditures",
+    "realisasi": 5349351856,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 19,
+    "tahun": 2022,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Bantuan Sosial/Social Aid Expenditures",
+    "realisasi": 10970413531,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 20,
+    "tahun": 2022,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Bagi Hasil/Sharing Fund Expenditure",
+    "realisasi": 693983498,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 21,
+    "tahun": 2022,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Bantuan Keuangan",
+    "realisasi": 108462318880,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 22,
+    "tahun": 2022,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Tidak Terduga/Unpredicted Expenditures",
+    "realisasi": 234000000,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 23,
+    "tahun": 2022,
+    "kategori": "belanja",
+    "jenis": "Belanja Langsung/Direct Expenditures",
+    "rincian": "Belanja Pegawai/Personnel Expenditures",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 24,
+    "tahun": 2022,
+    "kategori": "belanja",
+    "jenis": "Belanja Langsung/Direct Expenditures",
+    "rincian": "Belanja Barang dan Jasa",
+    "realisasi": 238022418585,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 25,
+    "tahun": 2022,
+    "kategori": "belanja",
+    "jenis": "Belanja Langsung/Direct Expenditures",
+    "rincian": "Belanja Modal/Capital Expenditure",
+    "realisasi": 142839593855,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 26,
+    "tahun": 2023,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Pajak Daerah/Regional Tax",
+    "realisasi": 36570235607.2,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 27,
+    "tahun": 2023,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Pajak Daerah/Regional Tax",
+    "realisasi": 36570235608.2,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 28,
+    "tahun": 2023,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Pajak Daerah/Regional Tax",
+    "realisasi": 36570235609.2,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 29,
+    "tahun": 2023,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Pajak Daerah/Regional Tax",
+    "realisasi": 36570235610.2,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 30,
+    "tahun": 2023,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Pajak Daerah/Regional Tax",
+    "realisasi": 36570235611.2,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 31,
+    "tahun": 2023,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Pajak Daerah/Regional Tax",
+    "realisasi": 36570235612.2,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 32,
+    "tahun": 2023,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Pajak Daerah/Regional Tax",
+    "realisasi": 36570235613.2,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 33,
+    "tahun": 2023,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Pajak Daerah/Regional Tax",
+    "realisasi": 36570235614.2,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 34,
+    "tahun": 2023,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Pajak Daerah/Regional Tax",
+    "realisasi": 36570235615.2,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 35,
+    "tahun": 2023,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Pajak Daerah/Regional Tax",
+    "realisasi": 36570235616.2,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 36,
+    "tahun": 2023,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Pajak Daerah/Regional Tax",
+    "realisasi": 36570235617.2,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 37,
+    "tahun": 2023,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Pajak Daerah/Regional Tax",
+    "realisasi": 36570235618.2,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 38,
+    "tahun": 2023,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Pajak Daerah/Regional Tax",
+    "realisasi": 36570235619.2,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 39,
+    "tahun": 2023,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Pajak Daerah/Regional Tax",
+    "realisasi": 36570235620.2,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 40,
+    "tahun": 2023,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Pegawai/Personnel Expenditures",
+    "realisasi": 193996027016,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 41,
+    "tahun": 2023,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Bunga/Interest Expenditures",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 42,
+    "tahun": 2023,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Subsidi/Subsidies Expenditures",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 43,
+    "tahun": 2023,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Hibah/Grant Expenditures",
+    "realisasi": 6616118600,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 44,
+    "tahun": 2023,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Bantuan Sosial/Social Aid Expenditures",
+    "realisasi": 1415200000,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 45,
+    "tahun": 2023,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Bagi Hasil/Sharing Fund Expenditure",
+    "realisasi": 399045200,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 46,
+    "tahun": 2023,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Bantuan Keuangan",
+    "realisasi": 98959154300,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 47,
+    "tahun": 2023,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Tidak Terduga/Unpredicted Expenditures",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 48,
+    "tahun": 2023,
+    "kategori": "belanja",
+    "jenis": "Belanja Langsung/Direct Expenditures",
+    "rincian": "Belanja Pegawai/Personnel Expenditures",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 49,
+    "tahun": 2023,
+    "kategori": "belanja",
+    "jenis": "Belanja Langsung/Direct Expenditures",
+    "rincian": "Belanja Barang dan Jasa",
+    "realisasi": 271676297653,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 50,
+    "tahun": 2023,
+    "kategori": "belanja",
+    "jenis": "Belanja Langsung/Direct Expenditures",
+    "rincian": "Belanja Modal/Capital Expenditure",
+    "realisasi": 212734251661,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 51,
+    "tahun": 2024,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Pajak Daerah/Regional Tax",
+    "realisasi": 40536674547.04,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 52,
+    "tahun": 2024,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Retribusi Daerah/Regional Retribution",
+    "realisasi": 2390697438,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 53,
+    "tahun": 2024,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Hasil Perusahaan Milik Daerah dan Pengelolaan Kekayaan Daerah yang Dipisahkan",
+    "realisasi": 4099235585,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 54,
+    "tahun": 2024,
+    "kategori": "pendapatan",
+    "jenis": "Pendapatan Asli Daerah (PAD)/Regional Revenue",
+    "rincian": "Lain-lain PAD yang Sah/Other Regional Revenue",
+    "realisasi": 29093667927.76,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 55,
+    "tahun": 2024,
+    "kategori": "pendapatan",
+    "jenis": "Dana Perimbangan/Balance Funds",
+    "rincian": "Bagi Hasil Pajak/Tax Sharing Revenue",
+    "realisasi": 23736802092,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 56,
+    "tahun": 2024,
+    "kategori": "pendapatan",
+    "jenis": "Dana Perimbangan/Balance Funds",
+    "rincian": "Bagi Hasil Bukan Pajak/Sumber Daya Alam",
+    "realisasi": 4382907483,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 57,
+    "tahun": 2024,
+    "kategori": "pendapatan",
+    "jenis": "Dana Perimbangan/Balance Funds",
+    "rincian": "Dana Alokasi Umum/General Allocation Fund",
+    "realisasi": 414438815806,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 58,
+    "tahun": 2024,
+    "kategori": "pendapatan",
+    "jenis": "Dana Perimbangan/Balance Funds",
+    "rincian": "Dana Alokasi Khusus/Special Allocation Fund",
+    "realisasi": 212327817422,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 59,
+    "tahun": 2024,
+    "kategori": "pendapatan",
+    "jenis": "Lain-lain Pendapatan yang Sah/Other Revenue",
+    "rincian": "Pendapatan Hibah/Grant",
+    "realisasi": 49330400,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 60,
+    "tahun": 2024,
+    "kategori": "pendapatan",
+    "jenis": "Lain-lain Pendapatan yang Sah/Other Revenue",
+    "rincian": "Dana Darurat/Emergency Fund",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 61,
+    "tahun": 2024,
+    "kategori": "pendapatan",
+    "jenis": "Lain-lain Pendapatan yang Sah/Other Revenue",
+    "rincian": "Dana Bagi Hasil Pajak dari Provinsi dan Pemerintah Daerah Lainnya/Tax Sharing Revenue from Provincial and Other Regional Governments",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 62,
+    "tahun": 2024,
+    "kategori": "pendapatan",
+    "jenis": "Lain-lain Pendapatan yang Sah/Other Revenue",
+    "rincian": "Dana Penyesuaian dan Otonomi Daerah",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 63,
+    "tahun": 2024,
+    "kategori": "pendapatan",
+    "jenis": "Lain-lain Pendapatan yang Sah/Other Revenue",
+    "rincian": "Bantuan Keuangan dari Provinsi atau Pemerintah Daerah Lainnya/Financial Assistance from Provincial or Other Regional Governments",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 64,
+    "tahun": 2024,
+    "kategori": "pendapatan",
+    "jenis": "Lain-lain Pendapatan yang Sah/Other Revenue",
+    "rincian": "Lainnya/Others",
+    "realisasi": 1499127965,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 65,
+    "tahun": 2024,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Pegawai/Personnel Expenditures",
+    "realisasi": 236232085196,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 66,
+    "tahun": 2024,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Bunga/Interest Expenditures",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 67,
+    "tahun": 2024,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Subsidi/Subsidies Expenditures",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 68,
+    "tahun": 2024,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Hibah/Grant Expenditures",
+    "realisasi": 25458159800,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 69,
+    "tahun": 2024,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Bantuan Sosial/Social Aid Expenditures",
+    "realisasi": 1075305800,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 70,
+    "tahun": 2024,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Bagi Hasil/Sharing Fund Expenditure",
+    "realisasi": 378170300,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 71,
+    "tahun": 2024,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Bantuan Keuangan",
+    "realisasi": 101868617700,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 72,
+    "tahun": 2024,
+    "kategori": "belanja",
+    "jenis": "Belanja Tidak Langsung/Indirect Expenditures",
+    "rincian": "Belanja Tidak Terduga/Unpredicted Expenditures",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 73,
+    "tahun": 2024,
+    "kategori": "belanja",
+    "jenis": "Belanja Langsung/Direct Expenditures",
+    "rincian": "Belanja Pegawai/Personnel Expenditures",
+    "realisasi": 0,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 74,
+    "tahun": 2024,
+    "kategori": "belanja",
+    "jenis": "Belanja Langsung/Direct Expenditures",
+    "rincian": "Belanja Barang dan Jasa",
+    "realisasi": 241343481148.18,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  },
+  {
+    "id": 75,
+    "tahun": 2024,
+    "kategori": "belanja",
+    "jenis": "Belanja Langsung/Direct Expenditures",
+    "rincian": "Belanja Modal/Capital Expenditure",
+    "realisasi": 169209895938,
+    "sumber": "Badan Keuangan Daerah Kabupaten Sumba Barat"
+  }
+]
