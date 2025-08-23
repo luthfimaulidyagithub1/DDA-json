@@ -1,0 +1,596 @@
+[
+  {
+    "id": 1,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis bahan bakar memasak": "Listrik",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 2,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis bahan bakar memasak": "Elpiji 5,5 kg",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 3,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis bahan bakar memasak": "Elpiji 12 kg",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 4,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis bahan bakar memasak": "Elpiji 3 kg",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 5,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis bahan bakar memasak": "Gas Kota",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 6,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis bahan bakar memasak": "Biogas",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 7,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis bahan bakar memasak": "Minyak Tanah",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 8,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis bahan bakar memasak": "Briket",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 9,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis bahan bakar memasak": "Arang",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 10,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis bahan bakar memasak": "Kayu Bakar",
+    "jumlah desa": 11,
+    "sumber": "Podes"
+  },
+  {
+    "id": 11,
+    "tahun": 2023,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "jenis bahan bakar memasak": "Lainnya",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 12,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis bahan bakar memasak": "Listrik",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 13,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis bahan bakar memasak": "Elpiji 5,5 kg",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 14,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis bahan bakar memasak": "Elpiji 12 kg",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 15,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis bahan bakar memasak": "Elpiji 3 kg",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 16,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis bahan bakar memasak": "Gas Kota",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 17,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis bahan bakar memasak": "Biogas",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 18,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis bahan bakar memasak": "Minyak Tanah",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 19,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis bahan bakar memasak": "Briket",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 20,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis bahan bakar memasak": "Arang",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 21,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis bahan bakar memasak": "Kayu Bakar",
+    "jumlah desa": 14,
+    "sumber": "Podes"
+  },
+  {
+    "id": 22,
+    "tahun": 2023,
+    "no kec": "02",
+    "kecamatan": "Wanokaka",
+    "jenis bahan bakar memasak": "Lainnya",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 23,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis bahan bakar memasak": "Listrik",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 24,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis bahan bakar memasak": "Elpiji 5,5 kg",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 25,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis bahan bakar memasak": "Elpiji 12 kg",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 26,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis bahan bakar memasak": "Elpiji 3 kg",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 27,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis bahan bakar memasak": "Gas Kota",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 28,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis bahan bakar memasak": "Biogas",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 29,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis bahan bakar memasak": "Minyak Tanah",
+    "jumlah desa": 3,
+    "sumber": "Podes"
+  },
+  {
+    "id": 30,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis bahan bakar memasak": "Briket",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 31,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis bahan bakar memasak": "Arang",
+    "jumlah desa": 3,
+    "sumber": "Podes"
+  },
+  {
+    "id": 32,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis bahan bakar memasak": "Kayu Bakar",
+    "jumlah desa": 4,
+    "sumber": "Podes"
+  },
+  {
+    "id": 33,
+    "tahun": 2023,
+    "no kec": "03",
+    "kecamatan": "Laboya Barat",
+    "jenis bahan bakar memasak": "Lainnya",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 34,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis bahan bakar memasak": "Listrik",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 35,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis bahan bakar memasak": "Elpiji 5,5 kg",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 36,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis bahan bakar memasak": "Elpiji 12 kg",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 37,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis bahan bakar memasak": "Elpiji 3 kg",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 38,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis bahan bakar memasak": "Gas Kota",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 39,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis bahan bakar memasak": "Biogas",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 40,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis bahan bakar memasak": "Minyak Tanah",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 41,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis bahan bakar memasak": "Briket",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 42,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis bahan bakar memasak": "Arang",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 43,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis bahan bakar memasak": "Kayu Bakar",
+    "jumlah desa": 13,
+    "sumber": "Podes"
+  },
+  {
+    "id": 44,
+    "tahun": 2023,
+    "no kec": "04",
+    "kecamatan": "Loli",
+    "jenis bahan bakar memasak": "Lainnya",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 45,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis bahan bakar memasak": "Listrik",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 46,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis bahan bakar memasak": "Elpiji 5,5 kg",
+    "jumlah desa": 6,
+    "sumber": "Podes"
+  },
+  {
+    "id": 47,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis bahan bakar memasak": "Elpiji 12 kg",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 48,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis bahan bakar memasak": "Elpiji 3 kg",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 49,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis bahan bakar memasak": "Gas Kota",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 50,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis bahan bakar memasak": "Biogas",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 51,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis bahan bakar memasak": "Minyak Tanah",
+    "jumlah desa": 9,
+    "sumber": "Podes"
+  },
+  {
+    "id": 52,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis bahan bakar memasak": "Briket",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 53,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis bahan bakar memasak": "Arang",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 54,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis bahan bakar memasak": "Kayu Bakar",
+    "jumlah desa": 13,
+    "sumber": "Podes"
+  },
+  {
+    "id": 55,
+    "tahun": 2023,
+    "no kec": "05",
+    "kecamatan": "Kota Waikabubak",
+    "jenis bahan bakar memasak": "Lainnya",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 56,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis bahan bakar memasak": "Listrik",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 57,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis bahan bakar memasak": "Elpiji 5,5 kg",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 58,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis bahan bakar memasak": "Elpiji 12 kg",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 59,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis bahan bakar memasak": "Elpiji 3 kg",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 60,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis bahan bakar memasak": "Gas Kota",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 61,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis bahan bakar memasak": "Biogas",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 62,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis bahan bakar memasak": "Minyak Tanah",
+    "jumlah desa": 9,
+    "sumber": "Podes"
+  },
+  {
+    "id": 63,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis bahan bakar memasak": "Briket",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 64,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis bahan bakar memasak": "Arang",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 65,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis bahan bakar memasak": "Kayu Bakar",
+    "jumlah desa": 18,
+    "sumber": "Podes"
+  },
+  {
+    "id": 66,
+    "tahun": 2023,
+    "no kec": "06",
+    "kecamatan": "Tana Righu",
+    "jenis bahan bakar memasak": "Lainnya",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  }
+]
