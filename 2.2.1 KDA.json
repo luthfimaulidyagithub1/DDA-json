@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "tahun": 2022,
+    "parpol": "Partai Gerindra",
+    "laki": 4,
+    "perempuan": 0,
+    "jumlah": 4,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 2,
+    "tahun": 2022,
+    "parpol": "Partai Golongan Karya",
+    "laki": 3,
+    "perempuan": 1,
+    "jumlah": 4,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 3,
+    "tahun": 2022,
+    "parpol": "Partai Nasdem",
+    "laki": 3,
+    "perempuan": 0,
+    "jumlah": 3,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 4,
+    "tahun": 2022,
+    "parpol": "Partai Demokrasi Indonesia Perjuangan",
+    "laki": 2,
+    "perempuan": 1,
+    "jumlah": 3,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 5,
+    "tahun": 2022,
+    "parpol": "Partai Demokrat",
+    "laki": 2,
+    "perempuan": 1,
+    "jumlah": 3,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 6,
+    "tahun": 2022,
+    "parpol": "Partai Kebangkitan Bangsa",
+    "laki": 2,
+    "perempuan": 0,
+    "jumlah": 2,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 7,
+    "tahun": 2022,
+    "parpol": "Partai Amanat Nasional (PAN)",
+    "laki": 1,
+    "perempuan": 0,
+    "jumlah": 1,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 8,
+    "tahun": 2022,
+    "parpol": "Partai Persatuan Indonesia (Perindo)",
+    "laki": 2,
+    "perempuan": 0,
+    "jumlah": 2,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 9,
+    "tahun": 2022,
+    "parpol": "Partai Hati Nurani Rakyat",
+    "laki": 0,
+    "perempuan": 1,
+    "jumlah": 1,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 10,
+    "tahun": 2022,
+    "parpol": "Partai Solidaritas Indonesia (PSI)",
+    "laki": 1,
+    "perempuan": 0,
+    "jumlah": 1,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 11,
+    "tahun": 2022,
+    "parpol": "Partai Berkarya",
+    "laki": 1,
+    "perempuan": 0,
+    "jumlah": 1,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 12,
+    "tahun": 2023,
+    "parpol": "Partai Gerindra",
+    "laki": 4,
+    "perempuan": 0,
+    "jumlah": 4,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 13,
+    "tahun": 2023,
+    "parpol": "Partai Golongan Karya",
+    "laki": 3,
+    "perempuan": 1,
+    "jumlah": 4,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 14,
+    "tahun": 2023,
+    "parpol": "Partai Nasdem",
+    "laki": 3,
+    "perempuan": 0,
+    "jumlah": 3,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 15,
+    "tahun": 2023,
+    "parpol": "Partai Demokrasi Indonesia Perjuangan",
+    "laki": 2,
+    "perempuan": 1,
+    "jumlah": 3,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 16,
+    "tahun": 2023,
+    "parpol": "Partai Demokrat",
+    "laki": 2,
+    "perempuan": 1,
+    "jumlah": 3,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 17,
+    "tahun": 2023,
+    "parpol": "Partai Kebangkitan Bangsa",
+    "laki": 2,
+    "perempuan": 0,
+    "jumlah": 2,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 18,
+    "tahun": 2023,
+    "parpol": "Partai Amanat Nasional (PAN)",
+    "laki": 1,
+    "perempuan": 0,
+    "jumlah": 1,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 19,
+    "tahun": 2023,
+    "parpol": "Partai Persatuan Indonesia (Perindo)",
+    "laki": 2,
+    "perempuan": 0,
+    "jumlah": 2,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 20,
+    "tahun": 2023,
+    "parpol": "Partai Hati Nurani Rakyat",
+    "laki": 0,
+    "perempuan": 1,
+    "jumlah": 1,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 21,
+    "tahun": 2023,
+    "parpol": "Partai Solidaritas Indonesia (PSI)",
+    "laki": 1,
+    "perempuan": 0,
+    "jumlah": 1,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 22,
+    "tahun": 2023,
+    "parpol": "Partai Berkarya",
+    "laki": 1,
+    "perempuan": 0,
+    "jumlah": 1,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 23,
+    "tahun": 2024,
+    "parpol": "Partai Hati Nurani Rakyat",
+    "laki": 3,
+    "perempuan": 2,
+    "jumlah": 5,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 24,
+    "tahun": 2024,
+    "parpol": "Partai Gerindra",
+    "laki": 2,
+    "perempuan": 1,
+    "jumlah": 3,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 25,
+    "tahun": 2024,
+    "parpol": "Partai Persatuan Indonesia (Perindo)",
+    "laki": 3,
+    "perempuan": 0,
+    "jumlah": 3,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 26,
+    "tahun": 2024,
+    "parpol": "Partai Golongan Karya",
+    "laki": 2,
+    "perempuan": 1,
+    "jumlah": 3,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 27,
+    "tahun": 2024,
+    "parpol": "Partai Solidaritas Indonesia (PSI)",
+    "laki": 3,
+    "perempuan": 0,
+    "jumlah": 3,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 28,
+    "tahun": 2024,
+    "parpol": "Partai Demokrat",
+    "laki": 2,
+    "perempuan": 0,
+    "jumlah": 2,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 29,
+    "tahun": 2024,
+    "parpol": "Partai Demokrasi Indonesia Perjuangan (PDIP)",
+    "laki": 2,
+    "perempuan": 0,
+    "jumlah": 2,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 30,
+    "tahun": 2024,
+    "parpol": "Partai Kebangkitan Bangsa",
+    "laki": 2,
+    "perempuan": 0,
+    "jumlah": 2,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  },
+  {
+    "id": 31,
+    "tahun": 2024,
+    "parpol": "Partai Nasional Demokrat (NasDem)",
+    "laki": 2,
+    "perempuan": 0,
+    "jumlah": 2,
+    "sumber": "Sekretariat DPRD Kabupaten Sumba Barat"
+  }
+]
