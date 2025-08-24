@@ -11,7 +11,7 @@
   {
     "id": 2,
     "tahun": 2022,
-    "status pekerjaan utama": "Berusaha dibantu buruh tidak tetap/buruh tidak dibayar",
+    "status pekerjaan utama": "Berusaha dibantu buruh tidak tetap / buruh tidak dibayar",
     "laki": 15094,
     "perempuan": 4903,
     "jumlah": 19997,
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "tahun": 2022,
-    "status pekerjaan utama": "Berusaha dibantu buruh tetap/buruh dibayar",
+    "status pekerjaan utama": "Berusaha dibantu buruh tetap / buruh dibayar",
     "laki": 357,
     "perempuan": 0,
     "jumlah": 357,
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "tahun": 2022,
-    "status pekerjaan utama": "Buruh/karyawan/pegawai",
+    "status pekerjaan utama": "Buruh / karyawan / pegawai",
     "laki": 7523,
     "perempuan": 5251,
     "jumlah": 12774,
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "tahun": 2022,
-    "status pekerjaan utama": "Pekerja keluarga/tak dibayar",
+    "status pekerjaan utama": "Pekerja keluarga / tak dibayar",
     "laki": 6483,
     "perempuan": 9953,
     "jumlah": 16436,
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "tahun": 2023,
-    "status pekerjaan utama": "Berusaha dibantu buruh tidak tetap/buruh tidak dibayar",
+    "status pekerjaan utama": "Berusaha dibantu buruh tidak tetap / buruh tidak dibayar",
     "laki": 5350,
     "perempuan": 4911,
     "jumlah": 10261,
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "tahun": 2023,
-    "status pekerjaan utama": "Berusaha dibantu buruh tetap/buruh dibayar",
+    "status pekerjaan utama": "Berusaha dibantu buruh tetap / buruh dibayar",
     "laki": 513,
     "perempuan": 0,
     "jumlah": 513,
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "tahun": 2023,
-    "status pekerjaan utama": "Buruh/karyawan/pegawai",
+    "status pekerjaan utama": "Buruh / karyawan / pegawai",
     "laki": 10630,
     "perempuan": 6676,
     "jumlah": 17306,
@@ -101,7 +101,7 @@
   {
     "id": 12,
     "tahun": 2023,
-    "status pekerjaan utama": "Pekerja keluarga/tak dibayar",
+    "status pekerjaan utama": "Pekerja keluarga / tak dibayar",
     "laki": 906,
     "perempuan": 54,
     "jumlah": 960,
@@ -119,7 +119,7 @@
   {
     "id": 14,
     "tahun": 2024,
-    "status pekerjaan utama": "Berusaha dibantu buruh tidak tetap/buruh tidak dibayar",
+    "status pekerjaan utama": "Berusaha dibantu buruh tidak tetap / buruh tidak dibayar",
     "laki": 13725,
     "perempuan": 5789,
     "jumlah": 19514,
@@ -128,7 +128,7 @@
   {
     "id": 15,
     "tahun": 2024,
-    "status pekerjaan utama": "Berusaha dibantu buruh tetap/buruh dibayar",
+    "status pekerjaan utama": "Berusaha dibantu buruh tetap / buruh dibayar",
     "laki": 1036,
     "perempuan": 0,
     "jumlah": 1036,
@@ -137,7 +137,7 @@
   {
     "id": 16,
     "tahun": 2024,
-    "status pekerjaan utama": "Buruh/karyawan/pegawai",
+    "status pekerjaan utama": "Buruh / karyawan / pegawai",
     "laki": 11523,
     "perempuan": 9517,
     "jumlah": 21040,
@@ -155,7 +155,7 @@
   {
     "id": 18,
     "tahun": 2024,
-    "status pekerjaan utama": "Pekerja keluarga/tak dibayar",
+    "status pekerjaan utama": "Pekerja keluarga / tak dibayar",
     "laki": 292,
     "perempuan": 0,
     "jumlah": 292,
