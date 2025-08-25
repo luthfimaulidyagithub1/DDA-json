@@ -5,7 +5,7 @@
     "no kec": "01",
     "kecamatan": "Lamboya",
     "fasilitas kesehatan": "Rumah Sakit",
-    "jumlah desa": 0,
+    "jumlah desa": 1,
     "sumber": "Podes"
   },
   {
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "tahun": 2022,
-    "no kec": "02",
+    "no kec": "01",
     "kecamatan": "Lamboya",
     "fasilitas kesehatan": "Puskesmas Pembantu",
     "jumlah desa": 2,
@@ -383,7 +383,7 @@
     "no kec": "01",
     "kecamatan": "Lamboya",
     "fasilitas kesehatan": "Rumah Sakit",
-    "jumlah desa": 0,
+    "jumlah desa": 1,
     "sumber": "Podes"
   },
   {
@@ -751,6 +751,69 @@
     "tahun": 2023,
     "no kec": "05",
     "kecamatan": "Tana Righu",
+    "fasilitas kesehatan": "Apotek",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 85,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas kesehatan": "Rumah Sakit",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 86,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas kesehatan": "Rumah Sakit Bersalin",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 87,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas kesehatan": "Poliklinik/Balai Pengobatan",
+    "jumlah desa": 2,
+    "sumber": "Podes"
+  },
+  {
+    "id": 88,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas kesehatan": "Puskesmas Rawat Inap",
+    "jumlah desa": 1,
+    "sumber": "Podes"
+  },
+  {
+    "id": 89,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas kesehatan": "Puskesmas Tanpa Rawat Inap",
+    "jumlah desa": 0,
+    "sumber": "Podes"
+  },
+  {
+    "id": 90,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
+    "fasilitas kesehatan": "Puskesmas Pembantu",
+    "jumlah desa": 3,
+    "sumber": "Podes"
+  },
+  {
+    "id": 91,
+    "tahun": 2024,
+    "no kec": "01",
+    "kecamatan": "Lamboya",
     "fasilitas kesehatan": "Apotek",
     "jumlah desa": 0,
     "sumber": "Podes"
