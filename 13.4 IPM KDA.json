@@ -1,254 +1,921 @@
 [
   {
-    "2020": 65.13,
-    "2021": 65.44,
-    "2022": 66.03,
-    "2023": 66.82,
-    "2024": 67.7,
     "id": 5301,
+    "tahun": 2020,
     "kabkot": "Sumba Barat",
+    "IPM": 65.13,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 68.2,
-    "2021": 68.42,
-    "2022": 68.82,
-    "2023": 69.63,
-    "2024": 70.28,
     "id": 5302,
+    "tahun": 2020,
     "kabkot": "Sumba Timur",
+    "IPM": 68.2,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 66,
-    "2021": 66.08,
-    "2022": 66.72,
-    "2023": 67.51,
-    "2024": 68.26,
     "id": 5303,
+    "tahun": 2020,
     "kabkot": "Kupang",
+    "IPM": 66,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 63.97,
-    "2021": 63.97,
-    "2022": 64.54,
-    "2023": 65.39,
-    "2024": 66.22,
     "id": 5304,
+    "tahun": 2020,
     "kabkot": "Timor Tengah Selatan",
+    "IPM": 63.97,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 64.93,
-    "2021": 65.09,
-    "2022": 65.65,
-    "2023": 66.56,
-    "2024": 67.27,
     "id": 5305,
+    "tahun": 2020,
     "kabkot": "Timor Tengah Utara",
+    "IPM": 64.93,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 66.32,
-    "2021": 66.4,
-    "2022": 66.87,
-    "2023": 67.5,
-    "2024": 68.13,
     "id": 5306,
+    "tahun": 2020,
     "kabkot": "Belu",
+    "IPM": 66.32,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 65.13,
-    "2021": 65.16,
-    "2022": 66.08,
-    "2023": 66.82,
-    "2024": 67.7,
     "id": 5307,
+    "tahun": 2020,
     "kabkot": "Alor",
+    "IPM": 65.13,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 67.04,
-    "2021": 67.04,
-    "2022": 67.76,
-    "2023": 68.41,
-    "2024": 68.95,
     "id": 5308,
+    "tahun": 2020,
     "kabkot": "Lembata",
+    "IPM": 67.04,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 67.64,
-    "2021": 67.63,
-    "2022": 68.36,
-    "2023": 69.24,
-    "2024": 69.79,
     "id": 5309,
+    "tahun": 2020,
     "kabkot": "Flores Timur",
+    "IPM": 67.64,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 67.77,
-    "2021": 68.08,
-    "2022": 68.66,
-    "2023": 69.41,
-    "2024": 69.96,
     "id": 5310,
+    "tahun": 2020,
     "kabkot": "Sikka",
+    "IPM": 67.77,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 70.23,
-    "2021": 70.49,
-    "2022": 71.1,
-    "2023": 71.77,
-    "2024": 72.24,
     "id": 5311,
+    "tahun": 2020,
     "kabkot": "Ende",
+    "IPM": 70.23,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 70.37,
-    "2021": 70.37,
-    "2022": 70.73,
-    "2023": 71.61,
-    "2024": 72.04,
     "id": 5312,
+    "tahun": 2020,
     "kabkot": "Ngada",
+    "IPM": 70.37,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 66.58,
-    "2021": 67.07,
-    "2022": 67.88,
-    "2023": 68.48,
-    "2024": 69.35,
     "id": 5313,
+    "tahun": 2020,
     "kabkot": "Manggarai",
+    "IPM": 66.58,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 64.27,
-    "2021": 64.48,
-    "2022": 65.05,
-    "2023": 65.79,
-    "2024": 66.4,
     "id": 5314,
+    "tahun": 2020,
     "kabkot": "Rote Ndao",
+    "IPM": 64.27,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 65.91,
-    "2021": 66.19,
-    "2022": 66.95,
-    "2023": 67.84,
-    "2024": 68.68,
     "id": 5315,
+    "tahun": 2020,
     "kabkot": "Manggarai Barat",
+    "IPM": 65.91,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 61.74,
-    "2021": 62.01,
-    "2022": 62.84,
-    "2023": 63.63,
-    "2024": 64.46,
     "id": 5316,
+    "tahun": 2020,
     "kabkot": "Sumba Tengah",
+    "IPM": 61.74,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 62.28,
-    "2021": 62.29,
-    "2022": 63.15,
-    "2023": 63.74,
-    "2024": 64.27,
     "id": 5317,
+    "tahun": 2020,
     "kabkot": "Sumba Barat Daya",
+    "IPM": 62.28,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 67.77,
-    "2021": 67.77,
-    "2022": 68.17,
-    "2023": 69.03,
-    "2024": 69.7,
     "id": 5318,
+    "tahun": 2020,
     "kabkot": "Nagekeo",
+    "IPM": 67.77,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 62.64,
-    "2021": 63.17,
-    "2022": 64.11,
-    "2023": 65.05,
-    "2024": 66.03,
     "id": 5319,
+    "tahun": 2020,
     "kabkot": "Manggarai Timur",
+    "IPM": 62.64,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 59.46,
-    "2021": 59.46,
-    "2022": 60.35,
-    "2023": 61.37,
-    "2024": 62.06,
     "id": 5320,
+    "tahun": 2020,
     "kabkot": "Sabu Raijua",
+    "IPM": 59.46,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 62.76,
-    "2021": 62.97,
-    "2022": 63.84,
-    "2023": 64.5,
-    "2024": 65.13,
     "id": 5321,
+    "tahun": 2020,
     "kabkot": "Malaka",
+    "IPM": 62.76,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 81.91,
-    "2021": 81.93,
-    "2022": 82.37,
-    "2023": 82.77,
-    "2024": 83.21,
     "id": 5322,
+    "tahun": 2020,
     "kabkot": "Kota Kupang",
+    "IPM": 81.91,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   },
   {
-    "2020": 66.93,
-    "2021": 67.02,
-    "2022": 67.63,
-    "2023": 68.4,
-    "2024": 69.14,
     "id": 5300,
+    "tahun": 2020,
     "kabkot": "Nusa Tenggara Timur",
+    "IPM": 66.93,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5301,
+    "tahun": 2021,
+    "kabkot": "Sumba Barat",
+    "IPM": 65.44,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5302,
+    "tahun": 2021,
+    "kabkot": "Sumba Timur",
+    "IPM": 68.42,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5303,
+    "tahun": 2021,
+    "kabkot": "Kupang",
+    "IPM": 66.08,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5304,
+    "tahun": 2021,
+    "kabkot": "Timor Tengah Selatan",
+    "IPM": 63.97,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5305,
+    "tahun": 2021,
+    "kabkot": "Timor Tengah Utara",
+    "IPM": 65.09,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5306,
+    "tahun": 2021,
+    "kabkot": "Belu",
+    "IPM": 66.4,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5307,
+    "tahun": 2021,
+    "kabkot": "Alor",
+    "IPM": 65.16,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5308,
+    "tahun": 2021,
+    "kabkot": "Lembata",
+    "IPM": 67.04,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5309,
+    "tahun": 2021,
+    "kabkot": "Flores Timur",
+    "IPM": 67.63,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5310,
+    "tahun": 2021,
+    "kabkot": "Sikka",
+    "IPM": 68.08,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5311,
+    "tahun": 2021,
+    "kabkot": "Ende",
+    "IPM": 70.49,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5312,
+    "tahun": 2021,
+    "kabkot": "Ngada",
+    "IPM": 70.37,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5313,
+    "tahun": 2021,
+    "kabkot": "Manggarai",
+    "IPM": 67.07,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5314,
+    "tahun": 2021,
+    "kabkot": "Rote Ndao",
+    "IPM": 64.48,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5315,
+    "tahun": 2021,
+    "kabkot": "Manggarai Barat",
+    "IPM": 66.19,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5316,
+    "tahun": 2021,
+    "kabkot": "Sumba Tengah",
+    "IPM": 62.01,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5317,
+    "tahun": 2021,
+    "kabkot": "Sumba Barat Daya",
+    "IPM": 62.29,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5318,
+    "tahun": 2021,
+    "kabkot": "Nagekeo",
+    "IPM": 67.77,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5319,
+    "tahun": 2021,
+    "kabkot": "Manggarai Timur",
+    "IPM": 63.17,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5320,
+    "tahun": 2021,
+    "kabkot": "Sabu Raijua",
+    "IPM": 59.46,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5321,
+    "tahun": 2021,
+    "kabkot": "Malaka",
+    "IPM": 62.97,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5322,
+    "tahun": 2021,
+    "kabkot": "Kota Kupang",
+    "IPM": 81.93,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5300,
+    "tahun": 2021,
+    "kabkot": "Nusa Tenggara Timur",
+    "IPM": 67.02,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5301,
+    "tahun": 2022,
+    "kabkot": "Sumba Barat",
+    "IPM": 66.03,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5302,
+    "tahun": 2022,
+    "kabkot": "Sumba Timur",
+    "IPM": 68.82,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5303,
+    "tahun": 2022,
+    "kabkot": "Kupang",
+    "IPM": 66.72,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5304,
+    "tahun": 2022,
+    "kabkot": "Timor Tengah Selatan",
+    "IPM": 64.54,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5305,
+    "tahun": 2022,
+    "kabkot": "Timor Tengah Utara",
+    "IPM": 65.65,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5306,
+    "tahun": 2022,
+    "kabkot": "Belu",
+    "IPM": 66.87,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5307,
+    "tahun": 2022,
+    "kabkot": "Alor",
+    "IPM": 66.08,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5308,
+    "tahun": 2022,
+    "kabkot": "Lembata",
+    "IPM": 67.76,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5309,
+    "tahun": 2022,
+    "kabkot": "Flores Timur",
+    "IPM": 68.36,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5310,
+    "tahun": 2022,
+    "kabkot": "Sikka",
+    "IPM": 68.66,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5311,
+    "tahun": 2022,
+    "kabkot": "Ende",
+    "IPM": 71.1,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5312,
+    "tahun": 2022,
+    "kabkot": "Ngada",
+    "IPM": 70.73,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5313,
+    "tahun": 2022,
+    "kabkot": "Manggarai",
+    "IPM": 67.88,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5314,
+    "tahun": 2022,
+    "kabkot": "Rote Ndao",
+    "IPM": 65.05,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5315,
+    "tahun": 2022,
+    "kabkot": "Manggarai Barat",
+    "IPM": 66.95,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5316,
+    "tahun": 2022,
+    "kabkot": "Sumba Tengah",
+    "IPM": 62.84,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5317,
+    "tahun": 2022,
+    "kabkot": "Sumba Barat Daya",
+    "IPM": 63.15,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5318,
+    "tahun": 2022,
+    "kabkot": "Nagekeo",
+    "IPM": 68.17,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5319,
+    "tahun": 2022,
+    "kabkot": "Manggarai Timur",
+    "IPM": 64.11,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5320,
+    "tahun": 2022,
+    "kabkot": "Sabu Raijua",
+    "IPM": 60.35,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5321,
+    "tahun": 2022,
+    "kabkot": "Malaka",
+    "IPM": 63.84,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5322,
+    "tahun": 2022,
+    "kabkot": "Kota Kupang",
+    "IPM": 82.37,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5300,
+    "tahun": 2022,
+    "kabkot": "Nusa Tenggara Timur",
+    "IPM": 67.63,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5301,
+    "tahun": 2023,
+    "kabkot": "Sumba Barat",
+    "IPM": 66.82,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5302,
+    "tahun": 2023,
+    "kabkot": "Sumba Timur",
+    "IPM": 69.63,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5303,
+    "tahun": 2023,
+    "kabkot": "Kupang",
+    "IPM": 67.51,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5304,
+    "tahun": 2023,
+    "kabkot": "Timor Tengah Selatan",
+    "IPM": 65.39,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5305,
+    "tahun": 2023,
+    "kabkot": "Timor Tengah Utara",
+    "IPM": 66.56,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5306,
+    "tahun": 2023,
+    "kabkot": "Belu",
+    "IPM": 67.5,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5307,
+    "tahun": 2023,
+    "kabkot": "Alor",
+    "IPM": 66.82,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5308,
+    "tahun": 2023,
+    "kabkot": "Lembata",
+    "IPM": 68.41,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5309,
+    "tahun": 2023,
+    "kabkot": "Flores Timur",
+    "IPM": 69.24,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5310,
+    "tahun": 2023,
+    "kabkot": "Sikka",
+    "IPM": 69.41,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5311,
+    "tahun": 2023,
+    "kabkot": "Ende",
+    "IPM": 71.77,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5312,
+    "tahun": 2023,
+    "kabkot": "Ngada",
+    "IPM": 71.61,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5313,
+    "tahun": 2023,
+    "kabkot": "Manggarai",
+    "IPM": 68.48,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5314,
+    "tahun": 2023,
+    "kabkot": "Rote Ndao",
+    "IPM": 65.79,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5315,
+    "tahun": 2023,
+    "kabkot": "Manggarai Barat",
+    "IPM": 67.84,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5316,
+    "tahun": 2023,
+    "kabkot": "Sumba Tengah",
+    "IPM": 63.63,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5317,
+    "tahun": 2023,
+    "kabkot": "Sumba Barat Daya",
+    "IPM": 63.74,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5318,
+    "tahun": 2023,
+    "kabkot": "Nagekeo",
+    "IPM": 69.03,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5319,
+    "tahun": 2023,
+    "kabkot": "Manggarai Timur",
+    "IPM": 65.05,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5320,
+    "tahun": 2023,
+    "kabkot": "Sabu Raijua",
+    "IPM": 61.37,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5321,
+    "tahun": 2023,
+    "kabkot": "Malaka",
+    "IPM": 64.5,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5322,
+    "tahun": 2023,
+    "kabkot": "Kota Kupang",
+    "IPM": 82.77,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5300,
+    "tahun": 2023,
+    "kabkot": "Nusa Tenggara Timur",
+    "IPM": 68.4,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5301,
+    "tahun": 2024,
+    "kabkot": "Sumba Barat",
+    "IPM": 67.7,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5302,
+    "tahun": 2024,
+    "kabkot": "Sumba Timur",
+    "IPM": 70.28,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5303,
+    "tahun": 2024,
+    "kabkot": "Kupang",
+    "IPM": 68.26,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5304,
+    "tahun": 2024,
+    "kabkot": "Timor Tengah Selatan",
+    "IPM": 66.22,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5305,
+    "tahun": 2024,
+    "kabkot": "Timor Tengah Utara",
+    "IPM": 67.27,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5306,
+    "tahun": 2024,
+    "kabkot": "Belu",
+    "IPM": 68.13,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5307,
+    "tahun": 2024,
+    "kabkot": "Alor",
+    "IPM": 67.7,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5308,
+    "tahun": 2024,
+    "kabkot": "Lembata",
+    "IPM": 68.95,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5309,
+    "tahun": 2024,
+    "kabkot": "Flores Timur",
+    "IPM": 69.79,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5310,
+    "tahun": 2024,
+    "kabkot": "Sikka",
+    "IPM": 69.96,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5311,
+    "tahun": 2024,
+    "kabkot": "Ende",
+    "IPM": 72.24,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5312,
+    "tahun": 2024,
+    "kabkot": "Ngada",
+    "IPM": 72.04,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5313,
+    "tahun": 2024,
+    "kabkot": "Manggarai",
+    "IPM": 69.35,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5314,
+    "tahun": 2024,
+    "kabkot": "Rote Ndao",
+    "IPM": 66.4,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5315,
+    "tahun": 2024,
+    "kabkot": "Manggarai Barat",
+    "IPM": 68.68,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5316,
+    "tahun": 2024,
+    "kabkot": "Sumba Tengah",
+    "IPM": 64.46,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5317,
+    "tahun": 2024,
+    "kabkot": "Sumba Barat Daya",
+    "IPM": 64.27,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5318,
+    "tahun": 2024,
+    "kabkot": "Nagekeo",
+    "IPM": 69.7,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5319,
+    "tahun": 2024,
+    "kabkot": "Manggarai Timur",
+    "IPM": 66.03,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5320,
+    "tahun": 2024,
+    "kabkot": "Sabu Raijua",
+    "IPM": 62.06,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5321,
+    "tahun": 2024,
+    "kabkot": "Malaka",
+    "IPM": 65.13,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5322,
+    "tahun": 2024,
+    "kabkot": "Kota Kupang",
+    "IPM": 83.21,
+    "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
+    "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
+  },
+  {
+    "id": 5300,
+    "tahun": 2024,
+    "kabkot": "Nusa Tenggara Timur",
+    "IPM": 69.14,
     "sumber": "BPS, Seri Berita Resmi Statistik Indeks Pembangunan Manusia",
     "catatan": "[Metode Baru] Indeks Pembangunan Manusia menurut Kabupaten/Kota (Umur Harapan Hidup Hasil Long Form SP2020)"
   }
