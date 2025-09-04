@@ -1,50 +1,58 @@
 [
   {
     "id": 1,
-    "Golongan Pengeluaran Per Kapita Sebulan (rupiah)": "< 150.000",
-    "persentase penduduk 2023": 0,
+    "tahun": 2023,
+    "golongan pengeluaran per kapita sebulan (rupiah)": "< 150.000",
+    "persentase penduduk": 0,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
   },
   {
     "id": 2,
-    "Golongan Pengeluaran Per Kapita Sebulan (rupiah)": "150.000 - 199.999",
-    "persentase penduduk 2023": 0,
+    "tahun": 2023,
+    "golongan pengeluaran per kapita sebulan (rupiah)": "150.000 - 199.999",
+    "persentase penduduk": 0,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
   },
   {
     "id": 3,
-    "Golongan Pengeluaran Per Kapita Sebulan (rupiah)": "200.000 - 299.999",
-    "persentase penduduk 2023": 0.14,
+    "tahun": 2023,
+    "golongan pengeluaran per kapita sebulan (rupiah)": "200.000 - 299.999",
+    "persentase penduduk": 0.14,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
   },
   {
     "id": 4,
-    "Golongan Pengeluaran Per Kapita Sebulan (rupiah)": "300.000 - 499.999",
-    "persentase penduduk 2023": 19.06,
+    "tahun": 2023,
+    "golongan pengeluaran per kapita sebulan (rupiah)": "300.000 - 499.999",
+    "persentase penduduk": 19.06,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
   },
   {
     "id": 5,
-    "Golongan Pengeluaran Per Kapita Sebulan (rupiah)": "500.000 - 749.999",
-    "persentase penduduk 2023": 36.46,
+    "tahun": 2023,
+    "golongan pengeluaran per kapita sebulan (rupiah)": "500.000 - 749.999",
+    "persentase penduduk": 36.46,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
   },
   {
     "id": 6,
-    "Golongan Pengeluaran Per Kapita Sebulan (rupiah)": "750.000 - 999.999",
-    "persentase penduduk 2023": 18.71,
+    "tahun": 2023,
+    "golongan pengeluaran per kapita sebulan (rupiah)": "750.000 - 999.999",
+    "persentase penduduk": 18.71,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
   },
   {
     "id": 7,
-    "Golongan Pengeluaran Per Kapita Sebulan (rupiah)": "1.000.000 - 1.499.999",
-    "persentase penduduk 2023": 19.74,
+    "tahun": 2023,
+    "golongan pengeluaran per kapita sebulan (rupiah)": "1.000.000 - 1.499.999",
+    "persentase penduduk": 19.74,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
   },
   {
     "id": 8,
-    "Golongan Pengeluaran Per Kapita Sebulan (rupiah)": "> 1.500.000",
-    "persentase penduduk 2023": 5.9,
+    "tahun": 2023,
+    "golongan pengeluaran per kapita sebulan (rupiah)": "> 1.500.000",
+    "persentase penduduk": 5.9,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional (Susenas) Maret"
   }
 ]
