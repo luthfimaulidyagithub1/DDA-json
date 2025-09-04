@@ -1,209 +1,738 @@
 [
   {
-    "2021": 1.03,
-    "2022": 3.23,
     "id": 5301,
+    "tahun": 2021,
     "kabkot": "Sumba Barat",
-    "2023*": 3.7,
-    "2024**": 3.75,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 1.03,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 1.15,
-    "2022": 2.63,
     "id": 5302,
+    "tahun": 2021,
     "kabkot": "Sumba Timur",
-    "2023*": 3.12,
-    "2024**": 3.69,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 1.15,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 2.75,
-    "2022": 2.74,
     "id": 5303,
+    "tahun": 2021,
     "kabkot": "Kupang",
-    "2023*": 3.55,
-    "2024**": 3.38,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 2.75,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 2.41,
-    "2022": 3.11,
     "id": 5304,
+    "tahun": 2021,
     "kabkot": "Timor Tengah Selatan",
-    "2023*": 3.21,
-    "2024**": 3.37,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 2.41,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 2.36,
-    "2022": 2.8,
     "id": 5305,
+    "tahun": 2021,
     "kabkot": "Timor Tengah Utara",
-    "2023*": 3,
-    "2024**": 3.27,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 2.36,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 1.75,
-    "2022": 3.19,
     "id": 5306,
+    "tahun": 2021,
     "kabkot": "Belu",
-    "2023*": 3.76,
-    "2024**": 3.97,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 1.75,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 2.5,
-    "2022": 2.98,
     "id": 5307,
+    "tahun": 2021,
     "kabkot": "Alor",
-    "2023*": 4.09,
-    "2024**": 4.24,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 2.5,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 1.44,
-    "2022": 2.56,
     "id": 5308,
+    "tahun": 2021,
     "kabkot": "Lembata",
-    "2023*": 2.46,
-    "2024**": 3.34,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 1.44,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 0.69,
-    "2022": 1.71,
     "id": 5309,
+    "tahun": 2021,
     "kabkot": "Flores Timur",
-    "2023*": 3.15,
-    "2024**": 2.69,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 0.69,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 2.13,
-    "2022": 3.36,
     "id": 5310,
+    "tahun": 2021,
     "kabkot": "Sikka",
-    "2023*": 3.77,
-    "2024**": 3.95,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 2.13,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 2.13,
-    "2022": 3.09,
     "id": 5311,
+    "tahun": 2021,
     "kabkot": "Ende",
-    "2023*": 3.87,
-    "2024**": 3.88,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 2.13,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 1.13,
-    "2022": 3.06,
     "id": 5312,
+    "tahun": 2021,
     "kabkot": "Ngada",
-    "2023*": 3.49,
-    "2024**": 3.67,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 1.13,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 2.43,
-    "2022": 2.85,
     "id": 5313,
+    "tahun": 2021,
     "kabkot": "Manggarai",
-    "2023*": 3.79,
-    "2024**": 3.93,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 2.43,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 2.24,
-    "2022": 3.55,
     "id": 5314,
+    "tahun": 2021,
     "kabkot": "Rote Ndao",
-    "2023*": 2.71,
-    "2024**": 3.2,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 2.24,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 1.29,
-    "2022": 4.12,
     "id": 5315,
+    "tahun": 2021,
     "kabkot": "Manggarai Barat",
-    "2023*": 4.77,
-    "2024**": 4.93,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 1.29,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 1.41,
-    "2022": 2.58,
     "id": 5316,
+    "tahun": 2021,
     "kabkot": "Sumba Tengah",
-    "2023*": 2.85,
-    "2024**": 3.71,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 1.41,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 2.09,
-    "2022": 3.83,
     "id": 5317,
+    "tahun": 2021,
     "kabkot": "Sumba Barat Daya",
-    "2023*": 3,
-    "2024**": 3.94,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 2.09,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 2.08,
-    "2022": 3.07,
     "id": 5318,
+    "tahun": 2021,
     "kabkot": "Nagekeo",
-    "2023*": 3.12,
-    "2024**": 3.12,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 2.08,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 2.31,
-    "2022": 3.74,
     "id": 5319,
+    "tahun": 2021,
     "kabkot": "Manggarai Timur",
-    "2023*": 3.5,
-    "2024**": 3.93,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 2.31,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 1.7,
-    "2022": 3,
     "id": 5320,
+    "tahun": 2021,
     "kabkot": "Sabu Raijua",
-    "2023*": 2.62,
-    "2024**": 3.79,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 1.7,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 1.95,
-    "2022": 3.73,
     "id": 5321,
+    "tahun": 2021,
     "kabkot": "Malaka",
-    "2023*": 3.77,
-    "2024**": 3.1,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 1.95,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 1.34,
-    "2022": 3.43,
     "id": 5322,
+    "tahun": 2021,
     "kabkot": "Kota Kupang",
-    "2023*": 3.93,
-    "2024**": 4.83,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 1.34,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
   },
   {
-    "2021": 2.52,
-    "2022": 3.05,
     "id": 5300,
+    "tahun": 2021,
     "kabkot": "Nusa Tenggara Timur",
-    "2023*": 3.52,
-    "2024**": 3.73,
-    "sumber": "BPS dan sumber lain"
+    "Laju ADHK 2010": 2.52,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5301,
+    "tahun": 2022,
+    "kabkot": "Sumba Barat",
+    "Laju ADHK 2010": 3.23,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5302,
+    "tahun": 2022,
+    "kabkot": "Sumba Timur",
+    "Laju ADHK 2010": 2.63,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5303,
+    "tahun": 2022,
+    "kabkot": "Kupang",
+    "Laju ADHK 2010": 2.74,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5304,
+    "tahun": 2022,
+    "kabkot": "Timor Tengah Selatan",
+    "Laju ADHK 2010": 3.11,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5305,
+    "tahun": 2022,
+    "kabkot": "Timor Tengah Utara",
+    "Laju ADHK 2010": 2.8,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5306,
+    "tahun": 2022,
+    "kabkot": "Belu",
+    "Laju ADHK 2010": 3.19,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5307,
+    "tahun": 2022,
+    "kabkot": "Alor",
+    "Laju ADHK 2010": 2.98,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5308,
+    "tahun": 2022,
+    "kabkot": "Lembata",
+    "Laju ADHK 2010": 2.56,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5309,
+    "tahun": 2022,
+    "kabkot": "Flores Timur",
+    "Laju ADHK 2010": 1.71,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5310,
+    "tahun": 2022,
+    "kabkot": "Sikka",
+    "Laju ADHK 2010": 3.36,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5311,
+    "tahun": 2022,
+    "kabkot": "Ende",
+    "Laju ADHK 2010": 3.09,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5312,
+    "tahun": 2022,
+    "kabkot": "Ngada",
+    "Laju ADHK 2010": 3.06,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5313,
+    "tahun": 2022,
+    "kabkot": "Manggarai",
+    "Laju ADHK 2010": 2.85,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5314,
+    "tahun": 2022,
+    "kabkot": "Rote Ndao",
+    "Laju ADHK 2010": 3.55,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5315,
+    "tahun": 2022,
+    "kabkot": "Manggarai Barat",
+    "Laju ADHK 2010": 4.12,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5316,
+    "tahun": 2022,
+    "kabkot": "Sumba Tengah",
+    "Laju ADHK 2010": 2.58,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5317,
+    "tahun": 2022,
+    "kabkot": "Sumba Barat Daya",
+    "Laju ADHK 2010": 3.83,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5318,
+    "tahun": 2022,
+    "kabkot": "Nagekeo",
+    "Laju ADHK 2010": 3.07,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5319,
+    "tahun": 2022,
+    "kabkot": "Manggarai Timur",
+    "Laju ADHK 2010": 3.74,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5320,
+    "tahun": 2022,
+    "kabkot": "Sabu Raijua",
+    "Laju ADHK 2010": 3,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5321,
+    "tahun": 2022,
+    "kabkot": "Malaka",
+    "Laju ADHK 2010": 3.73,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5322,
+    "tahun": 2022,
+    "kabkot": "Kota Kupang",
+    "Laju ADHK 2010": 3.43,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5300,
+    "tahun": 2022,
+    "kabkot": "Nusa Tenggara Timur",
+    "Laju ADHK 2010": 3.05,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "-"
+  },
+  {
+    "id": 5301,
+    "tahun": 2023,
+    "kabkot": "Sumba Barat",
+    "Laju ADHK 2010": 3.7,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5302,
+    "tahun": 2023,
+    "kabkot": "Sumba Timur",
+    "Laju ADHK 2010": 3.12,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5303,
+    "tahun": 2023,
+    "kabkot": "Kupang",
+    "Laju ADHK 2010": 3.55,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5304,
+    "tahun": 2023,
+    "kabkot": "Timor Tengah Selatan",
+    "Laju ADHK 2010": 3.21,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5305,
+    "tahun": 2023,
+    "kabkot": "Timor Tengah Utara",
+    "Laju ADHK 2010": 3,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5306,
+    "tahun": 2023,
+    "kabkot": "Belu",
+    "Laju ADHK 2010": 3.76,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5307,
+    "tahun": 2023,
+    "kabkot": "Alor",
+    "Laju ADHK 2010": 4.09,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5308,
+    "tahun": 2023,
+    "kabkot": "Lembata",
+    "Laju ADHK 2010": 2.46,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5309,
+    "tahun": 2023,
+    "kabkot": "Flores Timur",
+    "Laju ADHK 2010": 3.15,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5310,
+    "tahun": 2023,
+    "kabkot": "Sikka",
+    "Laju ADHK 2010": 3.77,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5311,
+    "tahun": 2023,
+    "kabkot": "Ende",
+    "Laju ADHK 2010": 3.87,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5312,
+    "tahun": 2023,
+    "kabkot": "Ngada",
+    "Laju ADHK 2010": 3.49,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5313,
+    "tahun": 2023,
+    "kabkot": "Manggarai",
+    "Laju ADHK 2010": 3.79,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5314,
+    "tahun": 2023,
+    "kabkot": "Rote Ndao",
+    "Laju ADHK 2010": 2.71,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5315,
+    "tahun": 2023,
+    "kabkot": "Manggarai Barat",
+    "Laju ADHK 2010": 4.77,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5316,
+    "tahun": 2023,
+    "kabkot": "Sumba Tengah",
+    "Laju ADHK 2010": 2.85,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5317,
+    "tahun": 2023,
+    "kabkot": "Sumba Barat Daya",
+    "Laju ADHK 2010": 3,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5318,
+    "tahun": 2023,
+    "kabkot": "Nagekeo",
+    "Laju ADHK 2010": 3.12,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5319,
+    "tahun": 2023,
+    "kabkot": "Manggarai Timur",
+    "Laju ADHK 2010": 3.5,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5320,
+    "tahun": 2023,
+    "kabkot": "Sabu Raijua",
+    "Laju ADHK 2010": 2.62,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5321,
+    "tahun": 2023,
+    "kabkot": "Malaka",
+    "Laju ADHK 2010": 3.77,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5322,
+    "tahun": 2023,
+    "kabkot": "Kota Kupang",
+    "Laju ADHK 2010": 3.93,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5300,
+    "tahun": 2023,
+    "kabkot": "Nusa Tenggara Timur",
+    "Laju ADHK 2010": 3.52,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sementara"
+  },
+  {
+    "id": 5301,
+    "tahun": 2024,
+    "kabkot": "Sumba Barat",
+    "Laju ADHK 2010": 3.75,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5302,
+    "tahun": 2024,
+    "kabkot": "Sumba Timur",
+    "Laju ADHK 2010": 3.69,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5303,
+    "tahun": 2024,
+    "kabkot": "Kupang",
+    "Laju ADHK 2010": 3.38,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5304,
+    "tahun": 2024,
+    "kabkot": "Timor Tengah Selatan",
+    "Laju ADHK 2010": 3.37,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5305,
+    "tahun": 2024,
+    "kabkot": "Timor Tengah Utara",
+    "Laju ADHK 2010": 3.27,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5306,
+    "tahun": 2024,
+    "kabkot": "Belu",
+    "Laju ADHK 2010": 3.97,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5307,
+    "tahun": 2024,
+    "kabkot": "Alor",
+    "Laju ADHK 2010": 4.24,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5308,
+    "tahun": 2024,
+    "kabkot": "Lembata",
+    "Laju ADHK 2010": 3.34,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5309,
+    "tahun": 2024,
+    "kabkot": "Flores Timur",
+    "Laju ADHK 2010": 2.69,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5310,
+    "tahun": 2024,
+    "kabkot": "Sikka",
+    "Laju ADHK 2010": 3.95,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5311,
+    "tahun": 2024,
+    "kabkot": "Ende",
+    "Laju ADHK 2010": 3.88,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5312,
+    "tahun": 2024,
+    "kabkot": "Ngada",
+    "Laju ADHK 2010": 3.67,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5313,
+    "tahun": 2024,
+    "kabkot": "Manggarai",
+    "Laju ADHK 2010": 3.93,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5314,
+    "tahun": 2024,
+    "kabkot": "Rote Ndao",
+    "Laju ADHK 2010": 3.2,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5315,
+    "tahun": 2024,
+    "kabkot": "Manggarai Barat",
+    "Laju ADHK 2010": 4.93,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5316,
+    "tahun": 2024,
+    "kabkot": "Sumba Tengah",
+    "Laju ADHK 2010": 3.71,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5317,
+    "tahun": 2024,
+    "kabkot": "Sumba Barat Daya",
+    "Laju ADHK 2010": 3.94,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5318,
+    "tahun": 2024,
+    "kabkot": "Nagekeo",
+    "Laju ADHK 2010": 3.12,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5319,
+    "tahun": 2024,
+    "kabkot": "Manggarai Timur",
+    "Laju ADHK 2010": 3.93,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5320,
+    "tahun": 2024,
+    "kabkot": "Sabu Raijua",
+    "Laju ADHK 2010": 3.79,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5321,
+    "tahun": 2024,
+    "kabkot": "Malaka",
+    "Laju ADHK 2010": 3.1,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5322,
+    "tahun": 2024,
+    "kabkot": "Kota Kupang",
+    "Laju ADHK 2010": 4.83,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
+  },
+  {
+    "id": 5300,
+    "tahun": 2024,
+    "kabkot": "Nusa Tenggara Timur",
+    "Laju ADHK 2010": 3.73,
+    "sumber": "BPS dan sumber lain",
+    "catatan": "angka sangat sementara"
   }
 ]
