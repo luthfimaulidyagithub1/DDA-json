@@ -1,807 +1,807 @@
 [
   {
-    "2020": 36.95,
     "id": 5301,
     "tahun": 2020,
     "kabkot": "Sumba Barat",
+    "penduduk miskin": 36.95,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 77.3,
     "id": 5302,
     "tahun": 2020,
     "kabkot": "Sumba Timur",
+    "penduduk miskin": 77.3,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 94.94,
     "id": 5303,
     "tahun": 2020,
     "kabkot": "Kupang",
+    "penduduk miskin": 94.94,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 128.98,
     "id": 5304,
     "tahun": 2020,
     "kabkot": "Timor Tengah Selatan",
+    "penduduk miskin": 128.98,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 56.98,
     "id": 5305,
     "tahun": 2020,
     "kabkot": "Timor Tengah Utara",
+    "penduduk miskin": 56.98,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 34.18,
     "id": 5306,
     "tahun": 2020,
     "kabkot": "Belu",
+    "penduduk miskin": 34.18,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 43.55,
     "id": 5307,
     "tahun": 2020,
     "kabkot": "Alor",
+    "penduduk miskin": 43.55,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 37.92,
     "id": 5308,
     "tahun": 2020,
     "kabkot": "Lembata",
+    "penduduk miskin": 37.92,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 27.89,
     "id": 5309,
     "tahun": 2020,
     "kabkot": "Flores Timur",
+    "penduduk miskin": 27.89,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 42.18,
     "id": 5310,
     "tahun": 2020,
     "kabkot": "Sikka",
+    "penduduk miskin": 42.18,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 65.22,
     "id": 5311,
     "tahun": 2020,
     "kabkot": "Ende",
+    "penduduk miskin": 65.22,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 20.62,
     "id": 5312,
     "tahun": 2020,
     "kabkot": "Ngada",
+    "penduduk miskin": 20.62,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 69.52,
     "id": 5313,
     "tahun": 2020,
     "kabkot": "Manggarai",
+    "penduduk miskin": 69.52,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 48.77,
     "id": 5314,
     "tahun": 2020,
     "kabkot": "Rote Ndao",
+    "penduduk miskin": 48.77,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 49.4,
     "id": 5315,
     "tahun": 2020,
     "kabkot": "Manggarai Barat",
+    "penduduk miskin": 49.4,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 25.37,
     "id": 5316,
     "tahun": 2020,
     "kabkot": "Sumba Tengah",
+    "penduduk miskin": 25.37,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 97.81,
     "id": 5317,
     "tahun": 2020,
     "kabkot": "Sumba Barat Daya",
+    "penduduk miskin": 97.81,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 18.51,
     "id": 5318,
     "tahun": 2020,
     "kabkot": "Nagekeo",
+    "penduduk miskin": 18.51,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 76.69,
     "id": 5319,
     "tahun": 2020,
     "kabkot": "Manggarai Timur",
+    "penduduk miskin": 76.69,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 30.14,
     "id": 5320,
     "tahun": 2020,
     "kabkot": "Sabu Raijua",
+    "penduduk miskin": 30.14,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 31.12,
     "id": 5321,
     "tahun": 2020,
     "kabkot": "Malaka",
+    "penduduk miskin": 31.12,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 39.72,
     "id": 5322,
     "tahun": 2020,
     "kabkot": "Kota Kupang",
+    "penduduk miskin": 39.72,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 1153.76,
     "id": 5300,
     "tahun": 2020,
     "kabkot": "Nusa Tenggara Timur",
+    "penduduk miskin": 1153.76,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 37.78,
     "id": 5301,
     "tahun": 2021,
     "kabkot": "Sumba Barat",
+    "penduduk miskin": 37.78,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 78.33,
     "id": 5302,
     "tahun": 2021,
     "kabkot": "Sumba Timur",
+    "penduduk miskin": 78.33,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 91.25,
     "id": 5303,
     "tahun": 2021,
     "kabkot": "Kupang",
+    "penduduk miskin": 91.25,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 125.68,
     "id": 5304,
     "tahun": 2021,
     "kabkot": "Timor Tengah Selatan",
+    "penduduk miskin": 125.68,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 58.33,
     "id": 5305,
     "tahun": 2021,
     "kabkot": "Timor Tengah Utara",
+    "penduduk miskin": 58.33,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 35.41,
     "id": 5306,
     "tahun": 2021,
     "kabkot": "Belu",
+    "penduduk miskin": 35.41,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 43.83,
     "id": 5307,
     "tahun": 2021,
     "kabkot": "Alor",
+    "penduduk miskin": 43.83,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 38.75,
     "id": 5308,
     "tahun": 2021,
     "kabkot": "Lembata",
+    "penduduk miskin": 38.75,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 28.9,
     "id": 5309,
     "tahun": 2021,
     "kabkot": "Flores Timur",
+    "penduduk miskin": 28.9,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 43.09,
     "id": 5310,
     "tahun": 2021,
     "kabkot": "Sikka",
+    "penduduk miskin": 43.09,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 66.38,
     "id": 5311,
     "tahun": 2021,
     "kabkot": "Ende",
+    "penduduk miskin": 66.38,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 20.98,
     "id": 5312,
     "tahun": 2021,
     "kabkot": "Ngada",
+    "penduduk miskin": 20.98,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 71.03,
     "id": 5313,
     "tahun": 2021,
     "kabkot": "Manggarai",
+    "penduduk miskin": 71.03,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 51.71,
     "id": 5314,
     "tahun": 2021,
     "kabkot": "Rote Ndao",
+    "penduduk miskin": 51.71,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 51.15,
     "id": 5315,
     "tahun": 2021,
     "kabkot": "Manggarai Barat",
+    "penduduk miskin": 51.15,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 25.48,
     "id": 5316,
     "tahun": 2021,
     "kabkot": "Sumba Tengah",
+    "penduduk miskin": 25.48,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 100.42,
     "id": 5317,
     "tahun": 2021,
     "kabkot": "Sumba Barat Daya",
+    "penduduk miskin": 100.42,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 19.11,
     "id": 5318,
     "tahun": 2021,
     "kabkot": "Nagekeo",
+    "penduduk miskin": 19.11,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 77.17,
     "id": 5319,
     "tahun": 2021,
     "kabkot": "Manggarai Timur",
+    "penduduk miskin": 77.17,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 30.6,
     "id": 5320,
     "tahun": 2021,
     "kabkot": "Sabu Raijua",
+    "penduduk miskin": 30.6,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 32.17,
     "id": 5321,
     "tahun": 2021,
     "kabkot": "Malaka",
+    "penduduk miskin": 32.17,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 41.77,
     "id": 5322,
     "tahun": 2021,
     "kabkot": "Kota Kupang",
+    "penduduk miskin": 41.77,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 1169.31,
     "id": 5300,
     "tahun": 2021,
     "kabkot": "Nusa Tenggara Timur",
+    "penduduk miskin": 1169.31,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 37.06,
     "id": 5301,
     "tahun": 2022,
     "kabkot": "Sumba Barat",
+    "penduduk miskin": 37.06,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 75.28,
     "id": 5302,
     "tahun": 2022,
     "kabkot": "Sumba Timur",
+    "penduduk miskin": 75.28,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 88.02,
     "id": 5303,
     "tahun": 2022,
     "kabkot": "Kupang",
+    "penduduk miskin": 88.02,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 120.45,
     "id": 5304,
     "tahun": 2022,
     "kabkot": "Timor Tengah Selatan",
+    "penduduk miskin": 120.45,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 55.88,
     "id": 5305,
     "tahun": 2022,
     "kabkot": "Timor Tengah Utara",
+    "penduduk miskin": 55.88,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 33.98,
     "id": 5306,
     "tahun": 2022,
     "kabkot": "Belu",
+    "penduduk miskin": 33.98,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 42.3,
     "id": 5307,
     "tahun": 2022,
     "kabkot": "Alor",
+    "penduduk miskin": 42.3,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 37.88,
     "id": 5308,
     "tahun": 2022,
     "kabkot": "Lembata",
+    "penduduk miskin": 37.88,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 28.08,
     "id": 5309,
     "tahun": 2022,
     "kabkot": "Flores Timur",
+    "penduduk miskin": 28.08,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 40.87,
     "id": 5310,
     "tahun": 2022,
     "kabkot": "Sikka",
+    "penduduk miskin": 40.87,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 63.4,
     "id": 5311,
     "tahun": 2022,
     "kabkot": "Ende",
+    "penduduk miskin": 63.4,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 20.14,
     "id": 5312,
     "tahun": 2022,
     "kabkot": "Ngada",
+    "penduduk miskin": 20.14,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 69.68,
     "id": 5313,
     "tahun": 2022,
     "kabkot": "Manggarai",
+    "penduduk miskin": 69.68,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 52.43,
     "id": 5314,
     "tahun": 2022,
     "kabkot": "Rote Ndao",
+    "penduduk miskin": 52.43,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 49.95,
     "id": 5315,
     "tahun": 2022,
     "kabkot": "Manggarai Barat",
+    "penduduk miskin": 49.95,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 24.49,
     "id": 5316,
     "tahun": 2022,
     "kabkot": "Sumba Tengah",
+    "penduduk miskin": 24.49,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 98.5,
     "id": 5317,
     "tahun": 2022,
     "kabkot": "Sumba Barat Daya",
+    "penduduk miskin": 98.5,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 18.01,
     "id": 5318,
     "tahun": 2022,
     "kabkot": "Nagekeo",
+    "penduduk miskin": 18.01,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 74.55,
     "id": 5319,
     "tahun": 2022,
     "kabkot": "Manggarai Timur",
+    "penduduk miskin": 74.55,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 30,
     "id": 5320,
     "tahun": 2022,
     "kabkot": "Sabu Raijua",
+    "penduduk miskin": 30,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 30.48,
     "id": 5321,
     "tahun": 2022,
     "kabkot": "Malaka",
+    "penduduk miskin": 30.48,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 40.2,
     "id": 5322,
     "tahun": 2022,
     "kabkot": "Kota Kupang",
+    "penduduk miskin": 40.2,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 1131.62,
     "id": 5300,
     "tahun": 2022,
     "kabkot": "Nusa Tenggara Timur",
+    "penduduk miskin": 1131.62,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 37.15,
     "id": 5301,
     "tahun": 2023,
     "kabkot": "Sumba Barat",
+    "penduduk miskin": 37.15,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 75.66,
     "id": 5302,
     "tahun": 2023,
     "kabkot": "Sumba Timur",
+    "penduduk miskin": 75.66,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 90.23,
     "id": 5303,
     "tahun": 2023,
     "kabkot": "Kupang",
+    "penduduk miskin": 90.23,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 119.51,
     "id": 5304,
     "tahun": 2023,
     "kabkot": "Timor Tengah Selatan",
+    "penduduk miskin": 119.51,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 57.19,
     "id": 5305,
     "tahun": 2023,
     "kabkot": "Timor Tengah Utara",
+    "penduduk miskin": 57.19,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 33.19,
     "id": 5306,
     "tahun": 2023,
     "kabkot": "Belu",
+    "penduduk miskin": 33.19,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 41.91,
     "id": 5307,
     "tahun": 2023,
     "kabkot": "Alor",
+    "penduduk miskin": 41.91,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 37.94,
     "id": 5308,
     "tahun": 2023,
     "kabkot": "Lembata",
+    "penduduk miskin": 37.94,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 30.93,
     "id": 5309,
     "tahun": 2023,
     "kabkot": "Flores Timur",
+    "penduduk miskin": 30.93,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 40.81,
     "id": 5310,
     "tahun": 2023,
     "kabkot": "Sikka",
+    "penduduk miskin": 40.81,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 63.1,
     "id": 5311,
     "tahun": 2023,
     "kabkot": "Ende",
+    "penduduk miskin": 63.1,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 20.57,
     "id": 5312,
     "tahun": 2023,
     "kabkot": "Ngada",
+    "penduduk miskin": 20.57,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 70,
     "id": 5313,
     "tahun": 2023,
     "kabkot": "Manggarai",
+    "penduduk miskin": 70,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 53.55,
     "id": 5314,
     "tahun": 2023,
     "kabkot": "Rote Ndao",
+    "penduduk miskin": 53.55,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 49.95,
     "id": 5315,
     "tahun": 2023,
     "kabkot": "Manggarai Barat",
+    "penduduk miskin": 49.95,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 24.24,
     "id": 5316,
     "tahun": 2023,
     "kabkot": "Sumba Tengah",
+    "penduduk miskin": 24.24,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 101.4,
     "id": 5317,
     "tahun": 2023,
     "kabkot": "Sumba Barat Daya",
+    "penduduk miskin": 101.4,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 18.57,
     "id": 5318,
     "tahun": 2023,
     "kabkot": "Nagekeo",
+    "penduduk miskin": 18.57,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 74.4,
     "id": 5319,
     "tahun": 2023,
     "kabkot": "Manggarai Timur",
+    "penduduk miskin": 74.4,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 30.43,
     "id": 5320,
     "tahun": 2023,
     "kabkot": "Sabu Raijua",
+    "penduduk miskin": 30.43,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 29.19,
     "id": 5321,
     "tahun": 2023,
     "kabkot": "Malaka",
+    "penduduk miskin": 29.19,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 41.2,
     "id": 5322,
     "tahun": 2023,
     "kabkot": "Kota Kupang",
+    "penduduk miskin": 41.2,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 1141.11,
     "id": 5300,
     "tahun": 2023,
     "kabkot": "Nusa Tenggara Timur",
+    "penduduk miskin": 1141.11,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 36.72,
     "id": 5301,
     "tahun": 2024,
     "kabkot": "Sumba Barat",
+    "penduduk miskin": 36.72,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 73.58,
     "id": 5302,
     "tahun": 2024,
     "kabkot": "Sumba Timur",
+    "penduduk miskin": 73.58,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 90.34,
     "id": 5303,
     "tahun": 2024,
     "kabkot": "Kupang",
+    "penduduk miskin": 90.34,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 117.41,
     "id": 5304,
     "tahun": 2024,
     "kabkot": "Timor Tengah Selatan",
+    "penduduk miskin": 117.41,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 55.03,
     "id": 5305,
     "tahun": 2024,
     "kabkot": "Timor Tengah Utara",
+    "penduduk miskin": 55.03,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 32.57,
     "id": 5306,
     "tahun": 2024,
     "kabkot": "Belu",
+    "penduduk miskin": 32.57,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 41.89,
     "id": 5307,
     "tahun": 2024,
     "kabkot": "Alor",
+    "penduduk miskin": 41.89,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 37.72,
     "id": 5308,
     "tahun": 2024,
     "kabkot": "Lembata",
+    "penduduk miskin": 37.72,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 29.74,
     "id": 5309,
     "tahun": 2024,
     "kabkot": "Flores Timur",
+    "penduduk miskin": 29.74,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 38.73,
     "id": 5310,
     "tahun": 2024,
     "kabkot": "Sikka",
+    "penduduk miskin": 38.73,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 62.37,
     "id": 5311,
     "tahun": 2024,
     "kabkot": "Ende",
+    "penduduk miskin": 62.37,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 20.48,
     "id": 5312,
     "tahun": 2024,
     "kabkot": "Ngada",
+    "penduduk miskin": 20.48,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 68.39,
     "id": 5313,
     "tahun": 2024,
     "kabkot": "Manggarai",
+    "penduduk miskin": 68.39,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 52.89,
     "id": 5314,
     "tahun": 2024,
     "kabkot": "Rote Ndao",
+    "penduduk miskin": 52.89,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 50.68,
     "id": 5315,
     "tahun": 2024,
     "kabkot": "Manggarai Barat",
+    "penduduk miskin": 50.68,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 23.81,
     "id": 5316,
     "tahun": 2024,
     "kabkot": "Sumba Tengah",
+    "penduduk miskin": 23.81,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 102.05,
     "id": 5317,
     "tahun": 2024,
     "kabkot": "Sumba Barat Daya",
+    "penduduk miskin": 102.05,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 18.68,
     "id": 5318,
     "tahun": 2024,
     "kabkot": "Nagekeo",
+    "penduduk miskin": 18.68,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 74.59,
     "id": 5319,
     "tahun": 2024,
     "kabkot": "Manggarai Timur",
+    "penduduk miskin": 74.59,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 30.98,
     "id": 5320,
     "tahun": 2024,
     "kabkot": "Sabu Raijua",
+    "penduduk miskin": 30.98,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 28.54,
     "id": 5321,
     "tahun": 2024,
     "kabkot": "Malaka",
+    "penduduk miskin": 28.54,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 40.38,
     "id": 5322,
     "tahun": 2024,
     "kabkot": "Kota Kupang",
+    "penduduk miskin": 40.38,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   },
   {
-    "2020": 1127.57,
     "id": 5300,
     "tahun": 2024,
     "kabkot": "Nusa Tenggara Timur",
+    "penduduk miskin": 1127.57,
     "sumber": "BPS, Survei Sosial Ekonomi Nasional"
   }
 ]
