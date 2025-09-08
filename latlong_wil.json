@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "no kec": 1,
+    "kdkec": "021",
     "kecamatan": "Lamboya",
     "maps kec": "https://www.google.com/maps/place/Kec.+Lamboya,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7065032,119.1909197,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4ae3bb6ce2ef85:0x5968d2d2a2f91860!8m2!3d-9.7205484!4d119.35646!16s%2Fg%2F122s8wtr?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7065032,119.1909197",
@@ -21,7 +21,7 @@
   },
   {
     "id": 2,
-    "no kec": 1,
+    "kdkec": "021",
     "kecamatan": "Lamboya",
     "maps kec": "https://www.google.com/maps/place/Kec.+Lamboya,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7065032,119.1909197,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4ae3bb6ce2ef85:0x5968d2d2a2f91860!8m2!3d-9.7205484!4d119.35646!16s%2Fg%2F122s8wtr?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7065032,119.1909197",
@@ -41,7 +41,7 @@
   },
   {
     "id": 3,
-    "no kec": 1,
+    "kdkec": "021",
     "kecamatan": "Lamboya",
     "maps kec": "https://www.google.com/maps/place/Kec.+Lamboya,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7065032,119.1909197,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4ae3bb6ce2ef85:0x5968d2d2a2f91860!8m2!3d-9.7205484!4d119.35646!16s%2Fg%2F122s8wtr?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7065032,119.1909197",
@@ -61,7 +61,7 @@
   },
   {
     "id": 4,
-    "no kec": 1,
+    "kdkec": "021",
     "kecamatan": "Lamboya",
     "maps kec": "https://www.google.com/maps/place/Kec.+Lamboya,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7065032,119.1909197,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4ae3bb6ce2ef85:0x5968d2d2a2f91860!8m2!3d-9.7205484!4d119.35646!16s%2Fg%2F122s8wtr?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7065032,119.1909197",
@@ -81,7 +81,7 @@
   },
   {
     "id": 5,
-    "no kec": 1,
+    "kdkec": "021",
     "kecamatan": "Lamboya",
     "maps kec": "https://www.google.com/maps/place/Kec.+Lamboya,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7065032,119.1909197,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4ae3bb6ce2ef85:0x5968d2d2a2f91860!8m2!3d-9.7205484!4d119.35646!16s%2Fg%2F122s8wtr?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7065032,119.1909197",
@@ -101,7 +101,7 @@
   },
   {
     "id": 6,
-    "no kec": 1,
+    "kdkec": "021",
     "kecamatan": "Lamboya",
     "maps kec": "https://www.google.com/maps/place/Kec.+Lamboya,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7065032,119.1909197,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4ae3bb6ce2ef85:0x5968d2d2a2f91860!8m2!3d-9.7205484!4d119.35646!16s%2Fg%2F122s8wtr?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7065032,119.1909197",
@@ -121,7 +121,7 @@
   },
   {
     "id": 7,
-    "no kec": 1,
+    "kdkec": "021",
     "kecamatan": "Lamboya",
     "maps kec": "https://www.google.com/maps/place/Kec.+Lamboya,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7065032,119.1909197,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4ae3bb6ce2ef85:0x5968d2d2a2f91860!8m2!3d-9.7205484!4d119.35646!16s%2Fg%2F122s8wtr?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7065032,119.1909197",
@@ -141,7 +141,7 @@
   },
   {
     "id": 8,
-    "no kec": 1,
+    "kdkec": "021",
     "kecamatan": "Lamboya",
     "maps kec": "https://www.google.com/maps/place/Kec.+Lamboya,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7065032,119.1909197,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4ae3bb6ce2ef85:0x5968d2d2a2f91860!8m2!3d-9.7205484!4d119.35646!16s%2Fg%2F122s8wtr?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7065032,119.1909197",
@@ -161,7 +161,7 @@
   },
   {
     "id": 9,
-    "no kec": 1,
+    "kdkec": "021",
     "kecamatan": "Lamboya",
     "maps kec": "https://www.google.com/maps/place/Kec.+Lamboya,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7065032,119.1909197,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4ae3bb6ce2ef85:0x5968d2d2a2f91860!8m2!3d-9.7205484!4d119.35646!16s%2Fg%2F122s8wtr?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7065032,119.1909197",
@@ -181,7 +181,7 @@
   },
   {
     "id": 10,
-    "no kec": 1,
+    "kdkec": "021",
     "kecamatan": "Lamboya",
     "maps kec": "https://www.google.com/maps/place/Kec.+Lamboya,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7065032,119.1909197,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4ae3bb6ce2ef85:0x5968d2d2a2f91860!8m2!3d-9.7205484!4d119.35646!16s%2Fg%2F122s8wtr?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7065032,119.1909197",
@@ -201,7 +201,7 @@
   },
   {
     "id": 11,
-    "no kec": 1,
+    "kdkec": "021",
     "kecamatan": "Lamboya",
     "maps kec": "https://www.google.com/maps/place/Kec.+Lamboya,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7065032,119.1909197,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4ae3bb6ce2ef85:0x5968d2d2a2f91860!8m2!3d-9.7205484!4d119.35646!16s%2Fg%2F122s8wtr?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7065032,119.1909197",
@@ -221,7 +221,7 @@
   },
   {
     "id": 12,
-    "no kec": 2,
+    "kdkec": "022",
     "kecamatan": "Wanokaka",
     "maps kec": "https://www.google.com/maps/place/Kec.+Wanokaka,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7272632,119.2941772,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1d1f4ae76cdd:0xb894aaab28ba27d5!8m2!3d-9.7227274!4d119.4528333!16s%2Fg%2F120r9ggz?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7272632,119.2941772",
@@ -241,7 +241,7 @@
   },
   {
     "id": 13,
-    "no kec": 2,
+    "kdkec": "022",
     "kecamatan": "Wanokaka",
     "maps kec": "https://www.google.com/maps/place/Kec.+Wanokaka,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7272632,119.2941772,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1d1f4ae76cdd:0xb894aaab28ba27d5!8m2!3d-9.7227274!4d119.4528333!16s%2Fg%2F120r9ggz?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7272632,119.2941772",
@@ -261,7 +261,7 @@
   },
   {
     "id": 14,
-    "no kec": 2,
+    "kdkec": "022",
     "kecamatan": "Wanokaka",
     "maps kec": "https://www.google.com/maps/place/Kec.+Wanokaka,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7272632,119.2941772,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1d1f4ae76cdd:0xb894aaab28ba27d5!8m2!3d-9.7227274!4d119.4528333!16s%2Fg%2F120r9ggz?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7272632,119.2941772",
@@ -281,7 +281,7 @@
   },
   {
     "id": 15,
-    "no kec": 2,
+    "kdkec": "022",
     "kecamatan": "Wanokaka",
     "maps kec": "https://www.google.com/maps/place/Kec.+Wanokaka,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7272632,119.2941772,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1d1f4ae76cdd:0xb894aaab28ba27d5!8m2!3d-9.7227274!4d119.4528333!16s%2Fg%2F120r9ggz?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7272632,119.2941772",
@@ -301,7 +301,7 @@
   },
   {
     "id": 16,
-    "no kec": 2,
+    "kdkec": "022",
     "kecamatan": "Wanokaka",
     "maps kec": "https://www.google.com/maps/place/Kec.+Wanokaka,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7272632,119.2941772,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1d1f4ae76cdd:0xb894aaab28ba27d5!8m2!3d-9.7227274!4d119.4528333!16s%2Fg%2F120r9ggz?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7272632,119.2941772",
@@ -321,7 +321,7 @@
   },
   {
     "id": 17,
-    "no kec": 2,
+    "kdkec": "022",
     "kecamatan": "Wanokaka",
     "maps kec": "https://www.google.com/maps/place/Kec.+Wanokaka,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7272632,119.2941772,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1d1f4ae76cdd:0xb894aaab28ba27d5!8m2!3d-9.7227274!4d119.4528333!16s%2Fg%2F120r9ggz?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7272632,119.2941772",
@@ -341,7 +341,7 @@
   },
   {
     "id": 18,
-    "no kec": 2,
+    "kdkec": "022",
     "kecamatan": "Wanokaka",
     "maps kec": "https://www.google.com/maps/place/Kec.+Wanokaka,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7272632,119.2941772,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1d1f4ae76cdd:0xb894aaab28ba27d5!8m2!3d-9.7227274!4d119.4528333!16s%2Fg%2F120r9ggz?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7272632,119.2941772",
@@ -361,7 +361,7 @@
   },
   {
     "id": 19,
-    "no kec": 2,
+    "kdkec": "022",
     "kecamatan": "Wanokaka",
     "maps kec": "https://www.google.com/maps/place/Kec.+Wanokaka,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7272632,119.2941772,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1d1f4ae76cdd:0xb894aaab28ba27d5!8m2!3d-9.7227274!4d119.4528333!16s%2Fg%2F120r9ggz?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7272632,119.2941772",
@@ -381,7 +381,7 @@
   },
   {
     "id": 20,
-    "no kec": 2,
+    "kdkec": "022",
     "kecamatan": "Wanokaka",
     "maps kec": "https://www.google.com/maps/place/Kec.+Wanokaka,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7272632,119.2941772,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1d1f4ae76cdd:0xb894aaab28ba27d5!8m2!3d-9.7227274!4d119.4528333!16s%2Fg%2F120r9ggz?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7272632,119.2941772",
@@ -401,7 +401,7 @@
   },
   {
     "id": 21,
-    "no kec": 2,
+    "kdkec": "022",
     "kecamatan": "Wanokaka",
     "maps kec": "https://www.google.com/maps/place/Kec.+Wanokaka,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7272632,119.2941772,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1d1f4ae76cdd:0xb894aaab28ba27d5!8m2!3d-9.7227274!4d119.4528333!16s%2Fg%2F120r9ggz?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7272632,119.2941772",
@@ -421,7 +421,7 @@
   },
   {
     "id": 22,
-    "no kec": 2,
+    "kdkec": "022",
     "kecamatan": "Wanokaka",
     "maps kec": "https://www.google.com/maps/place/Kec.+Wanokaka,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7272632,119.2941772,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1d1f4ae76cdd:0xb894aaab28ba27d5!8m2!3d-9.7227274!4d119.4528333!16s%2Fg%2F120r9ggz?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7272632,119.2941772",
@@ -441,7 +441,7 @@
   },
   {
     "id": 23,
-    "no kec": 2,
+    "kdkec": "022",
     "kecamatan": "Wanokaka",
     "maps kec": "https://www.google.com/maps/place/Kec.+Wanokaka,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7272632,119.2941772,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1d1f4ae76cdd:0xb894aaab28ba27d5!8m2!3d-9.7227274!4d119.4528333!16s%2Fg%2F120r9ggz?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7272632,119.2941772",
@@ -461,7 +461,7 @@
   },
   {
     "id": 24,
-    "no kec": 2,
+    "kdkec": "022",
     "kecamatan": "Wanokaka",
     "maps kec": "https://www.google.com/maps/place/Kec.+Wanokaka,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7272632,119.2941772,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1d1f4ae76cdd:0xb894aaab28ba27d5!8m2!3d-9.7227274!4d119.4528333!16s%2Fg%2F120r9ggz?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7272632,119.2941772",
@@ -481,7 +481,7 @@
   },
   {
     "id": 25,
-    "no kec": 2,
+    "kdkec": "022",
     "kecamatan": "Wanokaka",
     "maps kec": "https://www.google.com/maps/place/Kec.+Wanokaka,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7272632,119.2941772,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1d1f4ae76cdd:0xb894aaab28ba27d5!8m2!3d-9.7227274!4d119.4528333!16s%2Fg%2F120r9ggz?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7272632,119.2941772",
@@ -501,7 +501,7 @@
   },
   {
     "id": 26,
-    "no kec": 3,
+    "kdkec": "023",
     "kecamatan": "Laboya Barat",
     "maps kec": "https://www.google.com/maps/place/Kec.+Laboya+Bar.,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7040808,119.0717463,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4ae5f69ed3aca9:0xd5199b11c17787db!8m2!3d-9.7132158!4d119.2557702!16s%2Fg%2F11f7358n4h?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7040808,119.0717463",
@@ -521,7 +521,7 @@
   },
   {
     "id": 27,
-    "no kec": 3,
+    "kdkec": "023",
     "kecamatan": "Laboya Barat",
     "maps kec": "https://www.google.com/maps/place/Kec.+Laboya+Bar.,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7040808,119.0717463,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4ae5f69ed3aca9:0xd5199b11c17787db!8m2!3d-9.7132158!4d119.2557702!16s%2Fg%2F11f7358n4h?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7040808,119.0717463",
@@ -541,7 +541,7 @@
   },
   {
     "id": 28,
-    "no kec": 3,
+    "kdkec": "023",
     "kecamatan": "Laboya Barat",
     "maps kec": "https://www.google.com/maps/place/Kec.+Laboya+Bar.,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7040808,119.0717463,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4ae5f69ed3aca9:0xd5199b11c17787db!8m2!3d-9.7132158!4d119.2557702!16s%2Fg%2F11f7358n4h?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7040808,119.0717463",
@@ -561,7 +561,7 @@
   },
   {
     "id": 29,
-    "no kec": 3,
+    "kdkec": "023",
     "kecamatan": "Laboya Barat",
     "maps kec": "https://www.google.com/maps/place/Kec.+Laboya+Bar.,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.7040808,119.0717463,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4ae5f69ed3aca9:0xd5199b11c17787db!8m2!3d-9.7132158!4d119.2557702!16s%2Fg%2F11f7358n4h?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.7040808,119.0717463",
@@ -581,7 +581,7 @@
   },
   {
     "id": 30,
-    "no kec": 4,
+    "kdkec": "050",
     "kecamatan": "Loli",
     "maps kec": "https://www.google.com/maps/place/Kec.+Loli,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6060297,119.2566811,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fe3b3fa6961:0x6e9aecac16211e73!8m2!3d-9.6092635!4d119.4219471!16s%2Fg%2F11c5333kl7?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6060297,119.2566811",
@@ -601,7 +601,7 @@
   },
   {
     "id": 31,
-    "no kec": 4,
+    "kdkec": "050",
     "kecamatan": "Loli",
     "maps kec": "https://www.google.com/maps/place/Kec.+Loli,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6060297,119.2566811,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fe3b3fa6961:0x6e9aecac16211e73!8m2!3d-9.6092635!4d119.4219471!16s%2Fg%2F11c5333kl7?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6060297,119.2566811",
@@ -621,7 +621,7 @@
   },
   {
     "id": 32,
-    "no kec": 4,
+    "kdkec": "050",
     "kecamatan": "Loli",
     "maps kec": "https://www.google.com/maps/place/Kec.+Loli,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6060297,119.2566811,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fe3b3fa6961:0x6e9aecac16211e73!8m2!3d-9.6092635!4d119.4219471!16s%2Fg%2F11c5333kl7?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6060297,119.2566811",
@@ -641,7 +641,7 @@
   },
   {
     "id": 33,
-    "no kec": 4,
+    "kdkec": "050",
     "kecamatan": "Loli",
     "maps kec": "https://www.google.com/maps/place/Kec.+Loli,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6060297,119.2566811,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fe3b3fa6961:0x6e9aecac16211e73!8m2!3d-9.6092635!4d119.4219471!16s%2Fg%2F11c5333kl7?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6060297,119.2566811",
@@ -661,7 +661,7 @@
   },
   {
     "id": 34,
-    "no kec": 4,
+    "kdkec": "050",
     "kecamatan": "Loli",
     "maps kec": "https://www.google.com/maps/place/Kec.+Loli,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6060297,119.2566811,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fe3b3fa6961:0x6e9aecac16211e73!8m2!3d-9.6092635!4d119.4219471!16s%2Fg%2F11c5333kl7?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6060297,119.2566811",
@@ -681,7 +681,7 @@
   },
   {
     "id": 35,
-    "no kec": 4,
+    "kdkec": "050",
     "kecamatan": "Loli",
     "maps kec": "https://www.google.com/maps/place/Kec.+Loli,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6060297,119.2566811,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fe3b3fa6961:0x6e9aecac16211e73!8m2!3d-9.6092635!4d119.4219471!16s%2Fg%2F11c5333kl7?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6060297,119.2566811",
@@ -701,7 +701,7 @@
   },
   {
     "id": 36,
-    "no kec": 4,
+    "kdkec": "050",
     "kecamatan": "Loli",
     "maps kec": "https://www.google.com/maps/place/Kec.+Loli,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6060297,119.2566811,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fe3b3fa6961:0x6e9aecac16211e73!8m2!3d-9.6092635!4d119.4219471!16s%2Fg%2F11c5333kl7?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6060297,119.2566811",
@@ -721,7 +721,7 @@
   },
   {
     "id": 37,
-    "no kec": 4,
+    "kdkec": "050",
     "kecamatan": "Loli",
     "maps kec": "https://www.google.com/maps/place/Kec.+Loli,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6060297,119.2566811,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fe3b3fa6961:0x6e9aecac16211e73!8m2!3d-9.6092635!4d119.4219471!16s%2Fg%2F11c5333kl7?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6060297,119.2566811",
@@ -741,7 +741,7 @@
   },
   {
     "id": 38,
-    "no kec": 4,
+    "kdkec": "050",
     "kecamatan": "Loli",
     "maps kec": "https://www.google.com/maps/place/Kec.+Loli,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6060297,119.2566811,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fe3b3fa6961:0x6e9aecac16211e73!8m2!3d-9.6092635!4d119.4219471!16s%2Fg%2F11c5333kl7?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6060297,119.2566811",
@@ -761,7 +761,7 @@
   },
   {
     "id": 39,
-    "no kec": 4,
+    "kdkec": "050",
     "kecamatan": "Loli",
     "maps kec": "https://www.google.com/maps/place/Kec.+Loli,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6060297,119.2566811,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fe3b3fa6961:0x6e9aecac16211e73!8m2!3d-9.6092635!4d119.4219471!16s%2Fg%2F11c5333kl7?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6060297,119.2566811",
@@ -781,7 +781,7 @@
   },
   {
     "id": 40,
-    "no kec": 4,
+    "kdkec": "050",
     "kecamatan": "Loli",
     "maps kec": "https://www.google.com/maps/place/Kec.+Loli,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6060297,119.2566811,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fe3b3fa6961:0x6e9aecac16211e73!8m2!3d-9.6092635!4d119.4219471!16s%2Fg%2F11c5333kl7?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6060297,119.2566811",
@@ -801,7 +801,7 @@
   },
   {
     "id": 41,
-    "no kec": 4,
+    "kdkec": "050",
     "kecamatan": "Loli",
     "maps kec": "https://www.google.com/maps/place/Kec.+Loli,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6060297,119.2566811,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fe3b3fa6961:0x6e9aecac16211e73!8m2!3d-9.6092635!4d119.4219471!16s%2Fg%2F11c5333kl7?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6060297,119.2566811",
@@ -821,7 +821,7 @@
   },
   {
     "id": 42,
-    "no kec": 4,
+    "kdkec": "050",
     "kecamatan": "Loli",
     "maps kec": "https://www.google.com/maps/place/Kec.+Loli,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6060297,119.2566811,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fe3b3fa6961:0x6e9aecac16211e73!8m2!3d-9.6092635!4d119.4219471!16s%2Fg%2F11c5333kl7?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6060297,119.2566811",
@@ -841,7 +841,7 @@
   },
   {
     "id": 43,
-    "no kec": 4,
+    "kdkec": "050",
     "kecamatan": "Loli",
     "maps kec": "https://www.google.com/maps/place/Kec.+Loli,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6060297,119.2566811,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fe3b3fa6961:0x6e9aecac16211e73!8m2!3d-9.6092635!4d119.4219471!16s%2Fg%2F11c5333kl7?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6060297,119.2566811",
@@ -861,7 +861,7 @@
   },
   {
     "id": 44,
-    "no kec": 5,
+    "kdkec": "060",
     "kecamatan": "Kota Waikabubak",
     "maps kec": "https://www.google.com/maps/place/Kec.+Kota+Waikabubak,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6250505,119.2764272,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fc9fccedc09:0xc0a3b8deb8dcb273!8m2!3d-9.6318508!4d119.4116981!16s%2Fm%2F02z0xst?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6250505,119.2764272",
@@ -881,7 +881,7 @@
   },
   {
     "id": 45,
-    "no kec": 5,
+    "kdkec": "060",
     "kecamatan": "Kota Waikabubak",
     "maps kec": "https://www.google.com/maps/place/Kec.+Kota+Waikabubak,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6250505,119.2764272,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fc9fccedc09:0xc0a3b8deb8dcb273!8m2!3d-9.6318508!4d119.4116981!16s%2Fm%2F02z0xst?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6250505,119.2764272",
@@ -901,7 +901,7 @@
   },
   {
     "id": 46,
-    "no kec": 5,
+    "kdkec": "060",
     "kecamatan": "Kota Waikabubak",
     "maps kec": "https://www.google.com/maps/place/Kec.+Kota+Waikabubak,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6250505,119.2764272,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fc9fccedc09:0xc0a3b8deb8dcb273!8m2!3d-9.6318508!4d119.4116981!16s%2Fm%2F02z0xst?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6250505,119.2764272",
@@ -921,7 +921,7 @@
   },
   {
     "id": 47,
-    "no kec": 5,
+    "kdkec": "060",
     "kecamatan": "Kota Waikabubak",
     "maps kec": "https://www.google.com/maps/place/Kec.+Kota+Waikabubak,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6250505,119.2764272,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fc9fccedc09:0xc0a3b8deb8dcb273!8m2!3d-9.6318508!4d119.4116981!16s%2Fm%2F02z0xst?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6250505,119.2764272",
@@ -941,7 +941,7 @@
   },
   {
     "id": 48,
-    "no kec": 5,
+    "kdkec": "060",
     "kecamatan": "Kota Waikabubak",
     "maps kec": "https://www.google.com/maps/place/Kec.+Kota+Waikabubak,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6250505,119.2764272,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fc9fccedc09:0xc0a3b8deb8dcb273!8m2!3d-9.6318508!4d119.4116981!16s%2Fm%2F02z0xst?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6250505,119.2764272",
@@ -961,7 +961,7 @@
   },
   {
     "id": 49,
-    "no kec": 5,
+    "kdkec": "060",
     "kecamatan": "Kota Waikabubak",
     "maps kec": "https://www.google.com/maps/place/Kec.+Kota+Waikabubak,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6250505,119.2764272,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fc9fccedc09:0xc0a3b8deb8dcb273!8m2!3d-9.6318508!4d119.4116981!16s%2Fm%2F02z0xst?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6250505,119.2764272",
@@ -981,7 +981,7 @@
   },
   {
     "id": 50,
-    "no kec": 5,
+    "kdkec": "060",
     "kecamatan": "Kota Waikabubak",
     "maps kec": "https://www.google.com/maps/place/Kec.+Kota+Waikabubak,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6250505,119.2764272,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fc9fccedc09:0xc0a3b8deb8dcb273!8m2!3d-9.6318508!4d119.4116981!16s%2Fm%2F02z0xst?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6250505,119.2764272",
@@ -1001,7 +1001,7 @@
   },
   {
     "id": 51,
-    "no kec": 5,
+    "kdkec": "060",
     "kecamatan": "Kota Waikabubak",
     "maps kec": "https://www.google.com/maps/place/Kec.+Kota+Waikabubak,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6250505,119.2764272,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fc9fccedc09:0xc0a3b8deb8dcb273!8m2!3d-9.6318508!4d119.4116981!16s%2Fm%2F02z0xst?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6250505,119.2764272",
@@ -1021,7 +1021,7 @@
   },
   {
     "id": 52,
-    "no kec": 5,
+    "kdkec": "060",
     "kecamatan": "Kota Waikabubak",
     "maps kec": "https://www.google.com/maps/place/Kec.+Kota+Waikabubak,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6250505,119.2764272,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fc9fccedc09:0xc0a3b8deb8dcb273!8m2!3d-9.6318508!4d119.4116981!16s%2Fm%2F02z0xst?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6250505,119.2764272",
@@ -1041,7 +1041,7 @@
   },
   {
     "id": 53,
-    "no kec": 5,
+    "kdkec": "060",
     "kecamatan": "Kota Waikabubak",
     "maps kec": "https://www.google.com/maps/place/Kec.+Kota+Waikabubak,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6250505,119.2764272,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fc9fccedc09:0xc0a3b8deb8dcb273!8m2!3d-9.6318508!4d119.4116981!16s%2Fm%2F02z0xst?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6250505,119.2764272",
@@ -1061,7 +1061,7 @@
   },
   {
     "id": 54,
-    "no kec": 5,
+    "kdkec": "060",
     "kecamatan": "Kota Waikabubak",
     "maps kec": "https://www.google.com/maps/place/Kec.+Kota+Waikabubak,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6250505,119.2764272,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fc9fccedc09:0xc0a3b8deb8dcb273!8m2!3d-9.6318508!4d119.4116981!16s%2Fm%2F02z0xst?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6250505,119.2764272",
@@ -1081,7 +1081,7 @@
   },
   {
     "id": 55,
-    "no kec": 5,
+    "kdkec": "060",
     "kecamatan": "Kota Waikabubak",
     "maps kec": "https://www.google.com/maps/place/Kec.+Kota+Waikabubak,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6250505,119.2764272,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fc9fccedc09:0xc0a3b8deb8dcb273!8m2!3d-9.6318508!4d119.4116981!16s%2Fm%2F02z0xst?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6250505,119.2764272",
@@ -1101,7 +1101,7 @@
   },
   {
     "id": 56,
-    "no kec": 5,
+    "kdkec": "060",
     "kecamatan": "Kota Waikabubak",
     "maps kec": "https://www.google.com/maps/place/Kec.+Kota+Waikabubak,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.6250505,119.2764272,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b1fc9fccedc09:0xc0a3b8deb8dcb273!8m2!3d-9.6318508!4d119.4116981!16s%2Fm%2F02z0xst?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.6250505,119.2764272",
@@ -1121,7 +1121,7 @@
   },
   {
     "id": 57,
-    "no kec": 6,
+    "kdkec": "072",
     "kecamatan": "Tana Righu",
     "maps kec": "https://www.google.com/maps/place/Kec.+Tana+Righu,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.4679061,119.2610622,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b278473fcfed3:0xb9763f309124fdd0!8m2!3d-9.4191853!4d119.398791!16s%2Fg%2F1229cxc5?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.4679061,119.2610622",
@@ -1141,7 +1141,7 @@
   },
   {
     "id": 58,
-    "no kec": 6,
+    "kdkec": "072",
     "kecamatan": "Tana Righu",
     "maps kec": "https://www.google.com/maps/place/Kec.+Tana+Righu,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.4679061,119.2610622,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b278473fcfed3:0xb9763f309124fdd0!8m2!3d-9.4191853!4d119.398791!16s%2Fg%2F1229cxc5?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.4679061,119.2610622",
@@ -1161,7 +1161,7 @@
   },
   {
     "id": 59,
-    "no kec": 6,
+    "kdkec": "072",
     "kecamatan": "Tana Righu",
     "maps kec": "https://www.google.com/maps/place/Kec.+Tana+Righu,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.4679061,119.2610622,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b278473fcfed3:0xb9763f309124fdd0!8m2!3d-9.4191853!4d119.398791!16s%2Fg%2F1229cxc5?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.4679061,119.2610622",
@@ -1181,7 +1181,7 @@
   },
   {
     "id": 60,
-    "no kec": 6,
+    "kdkec": "072",
     "kecamatan": "Tana Righu",
     "maps kec": "https://www.google.com/maps/place/Kec.+Tana+Righu,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.4679061,119.2610622,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b278473fcfed3:0xb9763f309124fdd0!8m2!3d-9.4191853!4d119.398791!16s%2Fg%2F1229cxc5?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.4679061,119.2610622",
@@ -1201,7 +1201,7 @@
   },
   {
     "id": 61,
-    "no kec": 6,
+    "kdkec": "072",
     "kecamatan": "Tana Righu",
     "maps kec": "https://www.google.com/maps/place/Kec.+Tana+Righu,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.4679061,119.2610622,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b278473fcfed3:0xb9763f309124fdd0!8m2!3d-9.4191853!4d119.398791!16s%2Fg%2F1229cxc5?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.4679061,119.2610622",
@@ -1221,7 +1221,7 @@
   },
   {
     "id": 62,
-    "no kec": 6,
+    "kdkec": "072",
     "kecamatan": "Tana Righu",
     "maps kec": "https://www.google.com/maps/place/Kec.+Tana+Righu,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.4679061,119.2610622,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b278473fcfed3:0xb9763f309124fdd0!8m2!3d-9.4191853!4d119.398791!16s%2Fg%2F1229cxc5?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.4679061,119.2610622",
@@ -1241,7 +1241,7 @@
   },
   {
     "id": 63,
-    "no kec": 6,
+    "kdkec": "072",
     "kecamatan": "Tana Righu",
     "maps kec": "https://www.google.com/maps/place/Kec.+Tana+Righu,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.4679061,119.2610622,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b278473fcfed3:0xb9763f309124fdd0!8m2!3d-9.4191853!4d119.398791!16s%2Fg%2F1229cxc5?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.4679061,119.2610622",
@@ -1261,7 +1261,7 @@
   },
   {
     "id": 64,
-    "no kec": 6,
+    "kdkec": "072",
     "kecamatan": "Tana Righu",
     "maps kec": "https://www.google.com/maps/place/Kec.+Tana+Righu,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.4679061,119.2610622,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b278473fcfed3:0xb9763f309124fdd0!8m2!3d-9.4191853!4d119.398791!16s%2Fg%2F1229cxc5?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.4679061,119.2610622",
@@ -1281,7 +1281,7 @@
   },
   {
     "id": 65,
-    "no kec": 6,
+    "kdkec": "072",
     "kecamatan": "Tana Righu",
     "maps kec": "https://www.google.com/maps/place/Kec.+Tana+Righu,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.4679061,119.2610622,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b278473fcfed3:0xb9763f309124fdd0!8m2!3d-9.4191853!4d119.398791!16s%2Fg%2F1229cxc5?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.4679061,119.2610622",
@@ -1301,7 +1301,7 @@
   },
   {
     "id": 66,
-    "no kec": 6,
+    "kdkec": "072",
     "kecamatan": "Tana Righu",
     "maps kec": "https://www.google.com/maps/place/Kec.+Tana+Righu,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.4679061,119.2610622,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b278473fcfed3:0xb9763f309124fdd0!8m2!3d-9.4191853!4d119.398791!16s%2Fg%2F1229cxc5?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.4679061,119.2610622",
@@ -1321,7 +1321,7 @@
   },
   {
     "id": 67,
-    "no kec": 6,
+    "kdkec": "072",
     "kecamatan": "Tana Righu",
     "maps kec": "https://www.google.com/maps/place/Kec.+Tana+Righu,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.4679061,119.2610622,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b278473fcfed3:0xb9763f309124fdd0!8m2!3d-9.4191853!4d119.398791!16s%2Fg%2F1229cxc5?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.4679061,119.2610622",
@@ -1341,7 +1341,7 @@
   },
   {
     "id": 68,
-    "no kec": 6,
+    "kdkec": "072",
     "kecamatan": "Tana Righu",
     "maps kec": "https://www.google.com/maps/place/Kec.+Tana+Righu,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.4679061,119.2610622,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b278473fcfed3:0xb9763f309124fdd0!8m2!3d-9.4191853!4d119.398791!16s%2Fg%2F1229cxc5?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.4679061,119.2610622",
@@ -1361,7 +1361,7 @@
   },
   {
     "id": 69,
-    "no kec": 6,
+    "kdkec": "072",
     "kecamatan": "Tana Righu",
     "maps kec": "https://www.google.com/maps/place/Kec.+Tana+Righu,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.4679061,119.2610622,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b278473fcfed3:0xb9763f309124fdd0!8m2!3d-9.4191853!4d119.398791!16s%2Fg%2F1229cxc5?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.4679061,119.2610622",
@@ -1381,7 +1381,7 @@
   },
   {
     "id": 70,
-    "no kec": 6,
+    "kdkec": "072",
     "kecamatan": "Tana Righu",
     "maps kec": "https://www.google.com/maps/place/Kec.+Tana+Righu,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.4679061,119.2610622,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b278473fcfed3:0xb9763f309124fdd0!8m2!3d-9.4191853!4d119.398791!16s%2Fg%2F1229cxc5?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.4679061,119.2610622",
@@ -1401,7 +1401,7 @@
   },
   {
     "id": 71,
-    "no kec": 6,
+    "kdkec": "072",
     "kecamatan": "Tana Righu",
     "maps kec": "https://www.google.com/maps/place/Kec.+Tana+Righu,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.4679061,119.2610622,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b278473fcfed3:0xb9763f309124fdd0!8m2!3d-9.4191853!4d119.398791!16s%2Fg%2F1229cxc5?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.4679061,119.2610622",
@@ -1421,7 +1421,7 @@
   },
   {
     "id": 72,
-    "no kec": 6,
+    "kdkec": "072",
     "kecamatan": "Tana Righu",
     "maps kec": "https://www.google.com/maps/place/Kec.+Tana+Righu,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.4679061,119.2610622,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b278473fcfed3:0xb9763f309124fdd0!8m2!3d-9.4191853!4d119.398791!16s%2Fg%2F1229cxc5?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.4679061,119.2610622",
@@ -1441,7 +1441,7 @@
   },
   {
     "id": 73,
-    "no kec": 6,
+    "kdkec": "072",
     "kecamatan": "Tana Righu",
     "maps kec": "https://www.google.com/maps/place/Kec.+Tana+Righu,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.4679061,119.2610622,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b278473fcfed3:0xb9763f309124fdd0!8m2!3d-9.4191853!4d119.398791!16s%2Fg%2F1229cxc5?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.4679061,119.2610622",
@@ -1461,7 +1461,7 @@
   },
   {
     "id": 74,
-    "no kec": 6,
+    "kdkec": "072",
     "kecamatan": "Tana Righu",
     "maps kec": "https://www.google.com/maps/place/Kec.+Tana+Righu,+Kabupaten+Sumba+Barat,+Nusa+Tenggara+Tim./@-9.4679061,119.2610622,11z/data=!3m1!4b1!4m6!3m5!1s0x2c4b278473fcfed3:0xb9763f309124fdd0!8m2!3d-9.4191853!4d119.398791!16s%2Fg%2F1229cxc5?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D",
     "latitude,longitude kec": "-9.4679061,119.2610622",
