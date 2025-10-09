@@ -5,7 +5,7 @@
     "kategori": "A",
     "lapangan usaha": "Pertanian, Kehutanan, dan Perikanan ",
     "PDRB ADHK (miliar rupiah)": 361.92,
-    "laju pertumbuhan PDRB ADHK": "",
+    "laju pertumbuhan PDRB ADHK": -0.02,
     "sumber": "BPS, berbagai sensus, survei dan sumber lain",
     "catatan": "-"
   },
@@ -15,7 +15,7 @@
     "kategori": "B",
     "lapangan usaha": "Pertambangan dan Penggalian ",
     "PDRB ADHK (miliar rupiah)": 17.34,
-    "laju pertumbuhan PDRB ADHK": "",
+    "laju pertumbuhan PDRB ADHK": 2.48,
     "sumber": "BPS, berbagai sensus, survei dan sumber lain",
     "catatan": "-"
   },
@@ -25,7 +25,7 @@
     "kategori": "C",
     "lapangan usaha": "Industri Pengolahan ",
     "PDRB ADHK (miliar rupiah)": 25.26,
-    "laju pertumbuhan PDRB ADHK": "",
+    "laju pertumbuhan PDRB ADHK": -2.2,
     "sumber": "BPS, berbagai sensus, survei dan sumber lain",
     "catatan": "-"
   },
@@ -35,7 +35,7 @@
     "kategori": "D",
     "lapangan usaha": "Pengadaan Listrik dan Gas ",
     "PDRB ADHK (miliar rupiah)": 1.03,
-    "laju pertumbuhan PDRB ADHK": "",
+    "laju pertumbuhan PDRB ADHK": 10.01,
     "sumber": "BPS, berbagai sensus, survei dan sumber lain",
     "catatan": "-"
   },
@@ -45,7 +45,7 @@
     "kategori": "E",
     "lapangan usaha": "Pengadaan Air; Pengelolaan Sampah, Limbah, dan Daur Ulang ",
     "PDRB ADHK (miliar rupiah)": 0.15,
-    "laju pertumbuhan PDRB ADHK": "",
+    "laju pertumbuhan PDRB ADHK": 5.14,
     "sumber": "BPS, berbagai sensus, survei dan sumber lain",
     "catatan": "-"
   },
@@ -55,7 +55,7 @@
     "kategori": "F",
     "lapangan usaha": "Konstruksi ",
     "PDRB ADHK (miliar rupiah)": 93.52,
-    "laju pertumbuhan PDRB ADHK": "",
+    "laju pertumbuhan PDRB ADHK": -6.89,
     "sumber": "BPS, berbagai sensus, survei dan sumber lain",
     "catatan": "-"
   },
@@ -65,7 +65,7 @@
     "kategori": "G",
     "lapangan usaha": "Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor ",
     "PDRB ADHK (miliar rupiah)": 246.61,
-    "laju pertumbuhan PDRB ADHK": "",
+    "laju pertumbuhan PDRB ADHK": -5.96,
     "sumber": "BPS, berbagai sensus, survei dan sumber lain",
     "catatan": "-"
   },
@@ -75,7 +75,7 @@
     "kategori": "H",
     "lapangan usaha": "Transportasi dan Pergudangan ",
     "PDRB ADHK (miliar rupiah)": 32.79,
-    "laju pertumbuhan PDRB ADHK": "",
+    "laju pertumbuhan PDRB ADHK": -0.56,
     "sumber": "BPS, berbagai sensus, survei dan sumber lain",
     "catatan": "-"
   },
@@ -85,7 +85,7 @@
     "kategori": "I",
     "lapangan usaha": "Penyediaan Akomodasi dan Makan Minum ",
     "PDRB ADHK (miliar rupiah)": 5.01,
-    "laju pertumbuhan PDRB ADHK": "",
+    "laju pertumbuhan PDRB ADHK": -25.59,
     "sumber": "BPS, berbagai sensus, survei dan sumber lain",
     "catatan": "-"
   },
@@ -95,7 +95,7 @@
     "kategori": "J",
     "lapangan usaha": "Informasi dan Komunikasi ",
     "PDRB ADHK (miliar rupiah)": 90.95,
-    "laju pertumbuhan PDRB ADHK": "",
+    "laju pertumbuhan PDRB ADHK": 6.82,
     "sumber": "BPS, berbagai sensus, survei dan sumber lain",
     "catatan": "-"
   },
@@ -105,7 +105,7 @@
     "kategori": "K",
     "lapangan usaha": "Jasa Keuangan dan Asuransi",
     "PDRB ADHK (miliar rupiah)": 84.15,
-    "laju pertumbuhan PDRB ADHK": "",
+    "laju pertumbuhan PDRB ADHK": 10.27,
     "sumber": "BPS, berbagai sensus, survei dan sumber lain",
     "catatan": "-"
   },
@@ -115,7 +115,7 @@
     "kategori": "L",
     "lapangan usaha": "Real Estat",
     "PDRB ADHK (miliar rupiah)": 35.43,
-    "laju pertumbuhan PDRB ADHK": "",
+    "laju pertumbuhan PDRB ADHK": -0.26,
     "sumber": "BPS, berbagai sensus, survei dan sumber lain",
     "catatan": "-"
   },
@@ -125,7 +125,7 @@
     "kategori": "M,N",
     "lapangan usaha": "Jasa Perusahaan",
     "PDRB ADHK (miliar rupiah)": 1.94,
-    "laju pertumbuhan PDRB ADHK": "",
+    "laju pertumbuhan PDRB ADHK": -26.37,
     "sumber": "BPS, berbagai sensus, survei dan sumber lain",
     "catatan": "-"
   },
@@ -135,7 +135,7 @@
     "kategori": "O",
     "lapangan usaha": "Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",
     "PDRB ADHK (miliar rupiah)": 265,
-    "laju pertumbuhan PDRB ADHK": "",
+    "laju pertumbuhan PDRB ADHK": 2.88,
     "sumber": "BPS, berbagai sensus, survei dan sumber lain",
     "catatan": "-"
   },
@@ -145,7 +145,7 @@
     "kategori": "P",
     "lapangan usaha": "Jasa Pendidikan",
     "PDRB ADHK (miliar rupiah)": 127.77,
-    "laju pertumbuhan PDRB ADHK": "",
+    "laju pertumbuhan PDRB ADHK": 2.08,
     "sumber": "BPS, berbagai sensus, survei dan sumber lain",
     "catatan": "-"
   },
@@ -155,7 +155,7 @@
     "kategori": "Q",
     "lapangan usaha": "Jasa Kesehatan dan Kegiatan Sosial",
     "PDRB ADHK (miliar rupiah)": 23.83,
-    "laju pertumbuhan PDRB ADHK": "",
+    "laju pertumbuhan PDRB ADHK": 6.53,
     "sumber": "BPS, berbagai sensus, survei dan sumber lain",
     "catatan": "-"
   },
@@ -165,7 +165,7 @@
     "kategori": "R,S,T,U",
     "lapangan usaha": "Jasa Lainnya",
     "PDRB ADHK (miliar rupiah)": 24.67,
-    "laju pertumbuhan PDRB ADHK": "",
+    "laju pertumbuhan PDRB ADHK": -12.95,
     "sumber": "BPS, berbagai sensus, survei dan sumber lain",
     "catatan": "-"
   },
