@@ -10,7 +10,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Diperkeras (kerikil, batu, dll)",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 5,
@@ -62,7 +62,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 6,
@@ -74,8 +74,8 @@
     "jenis sarana transportasi": "Darat",
     "Keberadaan Angkutan Umum": "Tidak ada angkutan umum",
     "Jenis Permukaan Jalan Darat Terluas": "Diperkeras (kerikil, batu, dll)",
-    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun kecuali saat kondisi tertentu",
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 7,
@@ -88,7 +88,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 8,
@@ -101,7 +101,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Diperkeras (kerikil, batu, dll)",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 9,
@@ -114,7 +114,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 10,
@@ -127,7 +127,7 @@
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Diperkeras (kerikil, batu, dll)",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 11,
@@ -140,7 +140,7 @@
     "Keberadaan Angkutan Umum": "Tidak ada angkutan umum",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 12,
@@ -153,7 +153,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 13,
@@ -166,7 +166,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 14,
@@ -179,7 +179,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Diperkeras (kerikil, batu, dll)",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 15,
@@ -192,7 +192,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 16,
@@ -205,7 +205,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 17,
@@ -218,7 +218,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Diperkeras (kerikil, batu, dll)",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 18,
@@ -231,7 +231,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 19,
@@ -244,7 +244,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 20,
@@ -257,7 +257,7 @@
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 21,
@@ -270,7 +270,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 22,
@@ -283,7 +283,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Diperkeras (kerikil, batu, dll)",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 23,
@@ -296,7 +296,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 24,
@@ -309,7 +309,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 25,
@@ -322,7 +322,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 26,
@@ -335,7 +335,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Diperkeras (kerikil, batu, dll)",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun kecuali saat kondisi tertentu",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 27,
@@ -348,7 +348,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Diperkeras (kerikil, batu, dll)",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 28,
@@ -361,7 +361,7 @@
     "Keberadaan Angkutan Umum": "Tidak ada angkutan umum",
     "Jenis Permukaan Jalan Darat Terluas": "Diperkeras (kerikil, batu, dll)",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun kecuali saat kondisi tertentu",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 29,
@@ -374,7 +374,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Diperkeras (kerikil, batu, dll)",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 30,
@@ -387,7 +387,7 @@
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 31,
@@ -400,7 +400,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 32,
@@ -413,7 +413,7 @@
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 33,
@@ -426,7 +426,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 34,
@@ -439,7 +439,7 @@
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 35,
@@ -452,7 +452,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 36,
@@ -465,7 +465,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 37,
@@ -478,7 +478,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 38,
@@ -491,7 +491,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Diperkeras (kerikil, batu, dll)",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 39,
@@ -504,7 +504,7 @@
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Diperkeras (kerikil, batu, dll)",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 40,
@@ -517,7 +517,7 @@
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 41,
@@ -530,7 +530,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 42,
@@ -543,7 +543,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 43,
@@ -556,7 +556,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 44,
@@ -567,9 +567,9 @@
     "deskel": "Wailiang",
     "jenis sarana transportasi": "Darat",
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
-    "Jenis Permukaan Jalan Darat Terluas": "-",
-    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "-",
-    "sumber": "Podes"
+    "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
+    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 45,
@@ -580,9 +580,9 @@
     "deskel": "Maliti",
     "jenis sarana transportasi": "Darat",
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
-    "Jenis Permukaan Jalan Darat Terluas": "-",
-    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "-",
-    "sumber": "Podes"
+    "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
+    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 46,
@@ -593,9 +593,9 @@
     "deskel": "Komerda",
     "jenis sarana transportasi": "Darat",
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
-    "Jenis Permukaan Jalan Darat Terluas": "-",
-    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "-",
-    "sumber": "Podes"
+    "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
+    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 47,
@@ -606,9 +606,9 @@
     "deskel": "Kampung Baru",
     "jenis sarana transportasi": "Darat",
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
-    "Jenis Permukaan Jalan Darat Terluas": "-",
-    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "-",
-    "sumber": "Podes"
+    "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
+    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 48,
@@ -619,9 +619,9 @@
     "deskel": "Kampung Sawah",
     "jenis sarana transportasi": "Darat",
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
-    "Jenis Permukaan Jalan Darat Terluas": "-",
-    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "-",
-    "sumber": "Podes"
+    "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
+    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 49,
@@ -632,9 +632,9 @@
     "deskel": "Kodaka",
     "jenis sarana transportasi": "Darat",
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
-    "Jenis Permukaan Jalan Darat Terluas": "-",
-    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "-",
-    "sumber": "Podes"
+    "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
+    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 50,
@@ -645,9 +645,9 @@
     "deskel": "Lapale",
     "jenis sarana transportasi": "Darat",
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
-    "Jenis Permukaan Jalan Darat Terluas": "-",
-    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "-",
-    "sumber": "Podes"
+    "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
+    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 51,
@@ -658,9 +658,9 @@
     "deskel": "Tebara",
     "jenis sarana transportasi": "Darat",
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
-    "Jenis Permukaan Jalan Darat Terluas": "-",
-    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "-",
-    "sumber": "Podes"
+    "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
+    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 52,
@@ -671,9 +671,9 @@
     "deskel": "Kalembu Kuni",
     "jenis sarana transportasi": "Darat",
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
-    "Jenis Permukaan Jalan Darat Terluas": "-",
-    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "-",
-    "sumber": "Podes"
+    "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
+    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 53,
@@ -684,9 +684,9 @@
     "deskel": "Sobarade",
     "jenis sarana transportasi": "Darat",
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
-    "Jenis Permukaan Jalan Darat Terluas": "-",
-    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "-",
-    "sumber": "Podes"
+    "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
+    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 54,
@@ -697,9 +697,9 @@
     "deskel": "Pada Eweta",
     "jenis sarana transportasi": "Darat",
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
-    "Jenis Permukaan Jalan Darat Terluas": "-",
-    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "-",
-    "sumber": "Podes"
+    "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
+    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 55,
@@ -710,9 +710,9 @@
     "deskel": "Modu Waimaringu",
     "jenis sarana transportasi": "Darat",
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
-    "Jenis Permukaan Jalan Darat Terluas": "-",
-    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "-",
-    "sumber": "Podes"
+    "Jenis Permukaan Jalan Darat Terluas": "Diperkeras (kerikil, batu, dll)",
+    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 56,
@@ -723,9 +723,9 @@
     "deskel": "Puu Mawo",
     "jenis sarana transportasi": "Darat",
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
-    "Jenis Permukaan Jalan Darat Terluas": "-",
-    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "-",
-    "sumber": "Podes"
+    "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
+    "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 57,
@@ -738,7 +738,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 58,
@@ -751,7 +751,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 59,
@@ -764,7 +764,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 60,
@@ -777,7 +777,7 @@
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 61,
@@ -790,7 +790,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 62,
@@ -803,7 +803,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 63,
@@ -816,7 +816,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 64,
@@ -829,7 +829,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 65,
@@ -842,7 +842,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 66,
@@ -855,7 +855,7 @@
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 67,
@@ -868,7 +868,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Diperkeras (kerikil, batu, dll)",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 68,
@@ -881,7 +881,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 69,
@@ -894,7 +894,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 70,
@@ -907,7 +907,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 71,
@@ -920,7 +920,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 72,
@@ -933,7 +933,7 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 73,
@@ -946,7 +946,7 @@
     "Keberadaan Angkutan Umum": "Ada, dengan trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Aspal/Beton",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   },
   {
     "id": 74,
@@ -959,6 +959,6 @@
     "Keberadaan Angkutan Umum": "Ada, tanpa trayek tetap",
     "Jenis Permukaan Jalan Darat Terluas": "Diperkeras (kerikil, batu, dll)",
     "Dapat Dilalui Kendaraan Bermotor Roda 4 atau Lebih": "Sepanjang tahun",
-    "sumber": "Podes"
+    "sumber": "Survei Potensi Desa (Podes)"
   }
 ]
