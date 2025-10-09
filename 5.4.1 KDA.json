@@ -109,15 +109,6 @@
   },
   {
     "id": 13,
-    "tahun": 2023,
-    "nama kawasan hutan": "Pola Pare Cako",
-    "luas (ha)": 412.38,
-    "fungsi hutan": "Produksi",
-    "letak": "Kecamatan Lamboya Barat dan Kabupaten Sumba Barat Daya",
-    "sumber": "UPT Kesatuan Pengelolaan Hutan Wilayah Kabupaten Sumba Barat"
-  },
-  {
-    "id": 14,
     "tahun": 2024,
     "nama kawasan hutan": "Watu Mbolo",
     "luas (ha)": 48.01,
@@ -126,7 +117,7 @@
     "sumber": "UPT Kesatuan Pengelolaan Hutan Wilayah Kabupaten Sumba Barat"
   },
   {
-    "id": 15,
+    "id": 14,
     "tahun": 2024,
     "nama kawasan hutan": "Ranggadongu",
     "luas (ha)": 23.79,
@@ -135,7 +126,7 @@
     "sumber": "UPT Kesatuan Pengelolaan Hutan Wilayah Kabupaten Sumba Barat"
   },
   {
-    "id": 16,
+    "id": 15,
     "tahun": 2024,
     "nama kawasan hutan": "Poronombu",
     "luas (ha)": 1142.06,
@@ -144,7 +135,7 @@
     "sumber": "UPT Kesatuan Pengelolaan Hutan Wilayah Kabupaten Sumba Barat"
   },
   {
-    "id": 17,
+    "id": 16,
     "tahun": 2024,
     "nama kawasan hutan": "Rabawawi Kaliasin",
     "luas (ha)": 65.83,
@@ -153,7 +144,7 @@
     "sumber": "UPT Kesatuan Pengelolaan Hutan Wilayah Kabupaten Sumba Barat"
   },
   {
-    "id": 18,
+    "id": 17,
     "tahun": 2024,
     "nama kawasan hutan": "Kanungga Rara",
     "luas (ha)": 794.97,
@@ -162,7 +153,7 @@
     "sumber": "UPT Kesatuan Pengelolaan Hutan Wilayah Kabupaten Sumba Barat"
   },
   {
-    "id": 19,
+    "id": 18,
     "tahun": 2024,
     "nama kawasan hutan": "Gollu Kare",
     "luas (ha)": 1009.43,
@@ -171,7 +162,7 @@
     "sumber": "UPT Kesatuan Pengelolaan Hutan Wilayah Kabupaten Sumba Barat"
   },
   {
-    "id": 20,
+    "id": 19,
     "tahun": 2024,
     "nama kawasan hutan": "Lamboya",
     "luas (ha)": 2860.29,
@@ -180,7 +171,7 @@
     "sumber": "UPT Kesatuan Pengelolaan Hutan Wilayah Kabupaten Sumba Barat"
   },
   {
-    "id": 21,
+    "id": 20,
     "tahun": 2024,
     "nama kawasan hutan": "Pogo Bina",
     "luas (ha)": 279.85,
@@ -189,7 +180,7 @@
     "sumber": "UPT Kesatuan Pengelolaan Hutan Wilayah Kabupaten Sumba Barat"
   },
   {
-    "id": 22,
+    "id": 21,
     "tahun": 2024,
     "nama kawasan hutan": "Omba Kaporota",
     "luas (ha)": 98.85,
@@ -198,7 +189,7 @@
     "sumber": "UPT Kesatuan Pengelolaan Hutan Wilayah Kabupaten Sumba Barat"
   },
   {
-    "id": 23,
+    "id": 22,
     "tahun": 2024,
     "nama kawasan hutan": "Kalada Wogo",
     "luas (ha)": 341.41,
@@ -207,7 +198,7 @@
     "sumber": "UPT Kesatuan Pengelolaan Hutan Wilayah Kabupaten Sumba Barat"
   },
   {
-    "id": 24,
+    "id": 23,
     "tahun": 2024,
     "nama kawasan hutan": "Kabota",
     "luas (ha)": 113.23,
@@ -216,7 +207,7 @@
     "sumber": "UPT Kesatuan Pengelolaan Hutan Wilayah Kabupaten Sumba Barat"
   },
   {
-    "id": 25,
+    "id": 24,
     "tahun": 2024,
     "nama kawasan hutan": "Weepada",
     "luas (ha)": 377.25,
@@ -225,7 +216,7 @@
     "sumber": "UPT Kesatuan Pengelolaan Hutan Wilayah Kabupaten Sumba Barat"
   },
   {
-    "id": 26,
+    "id": 25,
     "tahun": 2024,
     "nama kawasan hutan": "Pola Pare Cako",
     "luas (ha)": 412.38,
